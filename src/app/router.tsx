@@ -1,4 +1,4 @@
-import { createBrowserRouter } from "react-router-dom";
+import { createHashRouter } from "react-router-dom";
 import { LoginScreen } from "../features/auth/LoginScreen";
 import { ExamRunner } from "../features/exam/ExamRunner";
 import { HomeScreen } from "../features/exam/HomeScreen";
@@ -14,7 +14,7 @@ import { Layout } from "./Layout";
 import { RedirectIfAuthed, RequireAuth } from "./RequireAuth";
 import { TrackRoute } from "./TrackRoute";
 
-export const router = createBrowserRouter([
+export const router = createHashRouter([
   {
     path: "/attempt/:attemptId/print",
     element: <PrintView />,

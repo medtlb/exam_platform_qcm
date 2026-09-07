@@ -2,7 +2,7 @@ import { create } from "zustand";
 import { verifyPassword } from "../lib/auth";
 import type { Track } from "../lib/types";
 
-import { USERS, type StaticUser } from "./users";
+import { USERS } from "./users";
 
 type AuthState = {
   unlocked: boolean;
