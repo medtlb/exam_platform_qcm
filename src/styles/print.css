@@ -1,0 +1,76 @@
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 18mm 16mm;
+  }
+
+  html,
+  body {
+    background: #fff !important;
+  }
+
+  .no-print {
+    display: none !important;
+  }
+
+  /* The print routes wrap their sheet in a `--paper` page; on real paper that
+     beige bleeds into the @page margins, so flatten it to white and let the
+     @page margin be the only padding. */
+  .print-only-page {
+    background: #fff !important;
+    padding: 0 !important;
+  }
+
+  .print-page {
+    background: #fff !important;
+    color: var(--color-ink) !important;
+  }
+
+  /* No filled green surfaces on paper — ink cost, legibility. Brass stays for
+     hairlines/numbers, stamp stays only for wrong ticks. */
+  .print-page .print-no-fill {
+    background: transparent !important;
+  }
+
+  .print-question {
+    break-inside: avoid;
+  }
+
+  .print-prompt {
+    break-after: avoid;
+  }
+
+  /* Lessons: a point never splits across pages, a heading is never orphaned
+     from the points it introduces, and each module opens a fresh sheet. */
+  .print-point {
+    break-inside: avoid;
+  }
+
+  .print-lesson-head {
+    break-after: avoid;
+  }
+
+  .print-module {
+    break-before: page;
+  }
+
+  .print-footer {
+    position: fixed;
+    bottom: 0;
+    inset-inline: 0;
+    text-align: center;
+    font-size: 9pt;
+    color: var(--color-ink);
+  }
+
+  .print-footer::after {
+    content: counter(page);
+  }
+}
+
+@media screen {
+  .print-only-page {
+    max-width: 210mm;
+    margin-inline: auto;
+  }
+}

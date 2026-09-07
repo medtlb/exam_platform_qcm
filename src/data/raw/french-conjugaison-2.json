@@ -1,0 +1,474 @@
+[
+  {
+    "id": "fr-0099",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Léa dit à son petit frère : « ___ (parler) plus fort, je ne t'entends pas ! »",
+    "options": [
+      { "id": "a", "text": "Parlez" },
+      { "id": "b", "text": "Parle" },
+      { "id": "c", "text": "Parlons" },
+      { "id": "d", "text": "Parler" },
+      { "id": "e", "text": "Parles" }
+    ],
+    "correct": ["b"],
+    "explanation": "À l'impératif présent, les verbes du 1er groupe perdent le « s » final à la 2e personne du singulier : « parle », et non « parles »."
+  },
+  {
+    "id": "fr-0100",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Il apprend le français ___ (chanter) des chansons.",
+    "options": [
+      { "id": "a", "text": "chantent" },
+      { "id": "b", "text": "en chante" },
+      { "id": "c", "text": "en chantant" },
+      { "id": "d", "text": "en chantait" },
+      { "id": "e", "text": "chantant" }
+    ],
+    "correct": ["c"],
+    "explanation": "Le gérondif se forme avec « en » suivi du participe présent : « en chantant » exprime ici le moyen par lequel on apprend le français."
+  },
+  {
+    "id": "fr-0101",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quand je suis arrivé à la gare, le train ___ déjà (partir).",
+    "options": [
+      { "id": "a", "text": "avait parti" },
+      { "id": "b", "text": "était parti" },
+      { "id": "c", "text": "est parti" },
+      { "id": "d", "text": "a été parti" },
+      { "id": "e", "text": "partait" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Partir » se conjugue avec l'auxiliaire « être » ; au plus-que-parfait, on obtient « il était parti », qui exprime une action antérieure à une autre action passée."
+  },
+  {
+    "id": "fr-0102",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quand tu ___ (finir) tes devoirs, tu pourras sortir.",
+    "options": [
+      { "id": "a", "text": "finiras" },
+      { "id": "b", "text": "avais fini" },
+      { "id": "c", "text": "auras fini" },
+      { "id": "d", "text": "as fini" },
+      { "id": "e", "text": "aurais fini" }
+    ],
+    "correct": ["c"],
+    "explanation": "Le futur antérieur (auxiliaire au futur simple + participe passé) exprime une action future achevée avant une autre action future : « quand tu auras fini »."
+  },
+  {
+    "id": "fr-0103",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Parmi ces formes, lesquelles sont des impératifs corrects du verbe « être » ?",
+    "options": [
+      { "id": "a", "text": "Es" },
+      { "id": "b", "text": "Sois" },
+      { "id": "c", "text": "Sommes" },
+      { "id": "d", "text": "Soyons" },
+      { "id": "e", "text": "Êtes" },
+      { "id": "f", "text": "Soyez" }
+    ],
+    "correct": ["b", "d", "f"],
+    "explanation": "L'impératif du verbe « être » est irrégulier : « sois », « soyons », « soyez » ; « es », « sommes » et « êtes » sont des formes de l'indicatif présent."
+  },
+  {
+    "id": "fr-0104",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Paul : « Si j'avais su, je ___ (venir) plus tôt. »",
+    "options": [
+      { "id": "a", "text": "aurais venu" },
+      { "id": "b", "text": "serais venu" },
+      { "id": "c", "text": "viendrais" },
+      { "id": "d", "text": "étais venu" },
+      { "id": "e", "text": "serait venu" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Serais venu » est le conditionnel passé de « venir » (auxiliaire être) à la 1re personne du singulier, employé pour exprimer un regret lié à une hypothèse non réalisée dans le passé."
+  },
+  {
+    "id": "fr-0105",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Il faut que tu ___ (faire) tes devoirs avant le dîner.",
+    "options": [
+      { "id": "a", "text": "fais" },
+      { "id": "b", "text": "faisais" },
+      { "id": "c", "text": "fasses" },
+      { "id": "d", "text": "feras" },
+      { "id": "e", "text": "ferais" }
+    ],
+    "correct": ["c"],
+    "explanation": "Après l'expression impersonnelle « il faut que », qui exprime la nécessité, le verbe se met au subjonctif présent : « que tu fasses »."
+  },
+  {
+    "id": "fr-0106",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Dès que les invités ___ (arriver), préviens-moi.",
+    "options": [
+      { "id": "a", "text": "arriveront" },
+      { "id": "b", "text": "auront arrivé" },
+      { "id": "c", "text": "seront arrivés" },
+      { "id": "d", "text": "sont arrivés" },
+      { "id": "e", "text": "étaient arrivés" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Arriver » se conjugue avec l'auxiliaire « être » ; le futur antérieur « seront arrivés » marque une action future antérieure à celle exprimée par « préviens-moi »."
+  },
+  {
+    "id": "fr-0107",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "___-moi ce livre, s'il te plaît. (donner)",
+    "options": [
+      { "id": "a", "text": "Donnez" },
+      { "id": "b", "text": "Donnons" },
+      { "id": "c", "text": "Donne" },
+      { "id": "d", "text": "Donnes" },
+      { "id": "e", "text": "Donner" }
+    ],
+    "correct": ["c"],
+    "explanation": "À l'impératif, les verbes en -er perdent le « s » de la 2e personne du singulier, sauf devant « en » ou « y » : on écrit donc « Donne-moi »."
+  },
+  {
+    "id": "fr-0108",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Après lesquels de ces verbes emploie-t-on couramment le subjonctif dans la subordonnée introduite par « que » ?",
+    "options": [
+      { "id": "a", "text": "affirmer" },
+      { "id": "b", "text": "douter" },
+      { "id": "c", "text": "penser" },
+      { "id": "d", "text": "souhaiter" },
+      { "id": "e", "text": "falloir" },
+      { "id": "f", "text": "vouloir" }
+    ],
+    "correct": ["b", "d", "e", "f"],
+    "explanation": "« Douter », « souhaiter », « falloir » et « vouloir » expriment le doute, la volonté ou la nécessité et appellent le subjonctif ; « affirmer » et « penser », qui expriment la certitude, se construisent avec l'indicatif."
+  },
+  {
+    "id": "fr-0109",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quels mots ou expressions annoncent souvent l'emploi du futur antérieur pour marquer l'antériorité par rapport à une action future ?",
+    "options": [
+      { "id": "a", "text": "parce que" },
+      { "id": "b", "text": "quand" },
+      { "id": "c", "text": "bien que" },
+      { "id": "d", "text": "dès que" },
+      { "id": "e", "text": "pendant que" },
+      { "id": "f", "text": "lorsque" },
+      { "id": "g", "text": "après que" }
+    ],
+    "correct": ["b", "d", "f", "g"],
+    "explanation": "« Quand », « dès que », « lorsque » et « après que » introduisent souvent une action antérieure à une autre action future, d'où l'emploi du futur antérieur (ex. : quand tu auras fini, tu sortiras)."
+  },
+  {
+    "id": "fr-0110",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Je crains qu'il ne ___ (pleuvoir) demain.",
+    "options": [
+      { "id": "a", "text": "pleut" },
+      { "id": "b", "text": "pleuve" },
+      { "id": "c", "text": "pleuvra" },
+      { "id": "d", "text": "pleuvait" },
+      { "id": "e", "text": "pleuvrait" }
+    ],
+    "correct": ["b"],
+    "explanation": "Après « craindre que », verbe exprimant la crainte, le verbe se met au subjonctif présent ; « pleuvoir » donne « qu'il pleuve »."
+  },
+  {
+    "id": "fr-0111",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Dans le récit : « Il ___ (prendre) sa valise et partit sans un mot. »",
+    "options": [
+      { "id": "a", "text": "prend" },
+      { "id": "b", "text": "prenait" },
+      { "id": "c", "text": "prit" },
+      { "id": "d", "text": "pris" },
+      { "id": "e", "text": "prendra" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Prit » est la 3e personne du singulier du passé simple de « prendre », temps du récit employé ici pour une action ponctuelle et achevée."
+  },
+  {
+    "id": "fr-0112",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le vieil homme ___ (venir) s'asseoir près du feu.",
+    "options": [
+      { "id": "a", "text": "venait" },
+      { "id": "b", "text": "vient" },
+      { "id": "c", "text": "venu" },
+      { "id": "d", "text": "vînt" },
+      { "id": "e", "text": "vint" }
+    ],
+    "correct": ["e"],
+    "explanation": "« Vint » est la 3e personne du singulier du passé simple de « venir » ; à ne pas confondre avec « vînt », qui est la forme du subjonctif imparfait."
+  },
+  {
+    "id": "fr-0113",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Les voyageurs ___ (attendre) leur train se sont plaints du retard.",
+    "options": [
+      { "id": "a", "text": "attendaient" },
+      { "id": "b", "text": "en attendant" },
+      { "id": "c", "text": "attendant" },
+      { "id": "d", "text": "ayant attendu" },
+      { "id": "e", "text": "attendent" }
+    ],
+    "correct": ["c"],
+    "explanation": "Suivi d'un complément d'objet direct (« leur train »), le participe présent invariable « attendant » remplace ici la relative « qui attendaient »."
+  },
+  {
+    "id": "fr-0114",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Lesquelles de ces conjonctions sont suivies du subjonctif ?",
+    "options": [
+      { "id": "a", "text": "parce que" },
+      { "id": "b", "text": "bien que" },
+      { "id": "c", "text": "depuis que" },
+      { "id": "d", "text": "quoique" },
+      { "id": "e", "text": "à moins que" }
+    ],
+    "correct": ["b", "d", "e"],
+    "explanation": "« Bien que », « quoique » et « à moins que » expriment la concession ou la condition et exigent le subjonctif ; « parce que » (cause) et « depuis que » (temps) se construisent avec l'indicatif."
+  },
+  {
+    "id": "fr-0115",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Repérez les formes correctement conjuguées au passé simple, à la 3e personne du pluriel.",
+    "options": [
+      { "id": "a", "text": "ils disaient" },
+      { "id": "b", "text": "ils dirent" },
+      { "id": "c", "text": "ils venaient" },
+      { "id": "d", "text": "ils vinrent" },
+      { "id": "e", "text": "ils prennent" },
+      { "id": "f", "text": "ils prirent" }
+    ],
+    "correct": ["b", "d", "f"],
+    "explanation": "« Dirent », « vinrent » et « prirent » sont les formes du passé simple de « dire », « venir » et « prendre » ; « disaient » et « venaient » sont à l'imparfait, « prennent » est au présent."
+  },
+  {
+    "id": "fr-0116",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lesquelles de ces phrases emploient correctement le subjonctif passé ?",
+    "options": [
+      { "id": "a", "text": "Je suis heureux que tu as réussi ton examen." },
+      { "id": "b", "text": "Il est possible qu'elle soit déjà partie." },
+      { "id": "c", "text": "Nous doutons qu'ils ont compris la consigne." },
+      { "id": "d", "text": "Je suis heureux que tu aies réussi ton examen." },
+      { "id": "e", "text": "Il est possible qu'elle est déjà partie." },
+      { "id": "f", "text": "Nous doutons qu'ils aient compris la consigne." }
+    ],
+    "correct": ["b", "d", "f"],
+    "explanation": "Le subjonctif passé (aie/ait/aies + participe passé) exprime une action accomplie dans une subordonnée dépendant d'un verbe de sentiment ou de doute ; les phrases employant l'indicatif présent à la place sont incorrectes dans ce contexte."
+  },
+  {
+    "id": "fr-0117",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le roi ___ (mourir) en 1715, laissant un royaume affaibli.",
+    "options": [
+      { "id": "a", "text": "mourra" },
+      { "id": "b", "text": "mourut" },
+      { "id": "c", "text": "mourrait" },
+      { "id": "d", "text": "mourait" },
+      { "id": "e", "text": "est mort" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Mourut » est la 3e personne du singulier du passé simple de « mourir », employée dans un récit historique pour une action ponctuelle achevée."
+  },
+  {
+    "id": "fr-0118",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Dans le registre littéraire, quelle forme équivaut au conditionnel passé « il aurait aimé » ?",
+    "options": [
+      { "id": "a", "text": "il eut aimé" },
+      { "id": "b", "text": "il eût aimé" },
+      { "id": "c", "text": "il eusse aimé" },
+      { "id": "d", "text": "il fût aimé" },
+      { "id": "e", "text": "il avait aimé" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Il eût aimé » est la 2e forme du conditionnel passé, identique au plus-que-parfait du subjonctif, employée en registre littéraire à la place de « il aurait aimé »."
+  },
+  {
+    "id": "fr-0119",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Ce sont des résultats ___ (influer) sur la décision finale.",
+    "options": [
+      { "id": "a", "text": "influents" },
+      { "id": "b", "text": "influant" },
+      { "id": "c", "text": "influente" },
+      { "id": "d", "text": "influençant" },
+      { "id": "e", "text": "influantes" }
+    ],
+    "correct": ["b"],
+    "explanation": "Suivi d'un complément verbal (« sur la décision »), « influer » garde sa valeur verbale : on emploie le participe présent invariable « influant », et non l'adjectif verbal variable « influent(e)(s) »."
+  },
+  {
+    "id": "fr-0120",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lesquels de ces verbes ont un passé simple en « -it » à la 3e personne du singulier (il/elle) ?",
+    "options": [
+      { "id": "a", "text": "avoir" },
+      { "id": "b", "text": "dire" },
+      { "id": "c", "text": "être" },
+      { "id": "d", "text": "prendre" },
+      { "id": "e", "text": "mettre" },
+      { "id": "f", "text": "venir" },
+      { "id": "g", "text": "faire" }
+    ],
+    "correct": ["b", "d", "e", "g"],
+    "explanation": "« Dire », « prendre », « mettre » et « faire » font leur passé simple en -it à la 3e personne du singulier (il dit, il prit, il mit, il fit) ; « avoir » et « être » se terminent en -ut, et « venir » en -int."
+  },
+  {
+    "id": "fr-0121",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "___ trouver ci-joint les documents demandés.",
+    "options": [
+      { "id": "a", "text": "Veillez" },
+      { "id": "b", "text": "Veuillez" },
+      { "id": "c", "text": "Voulez" },
+      { "id": "d", "text": "Vueillez" },
+      { "id": "e", "text": "Voudriez" },
+      { "id": "f", "text": "Voulez-vous" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Veuillez » est la forme d'impératif poli du verbe « vouloir », employée dans le registre administratif pour une demande formelle ; « veillez » vient du verbe « veiller » et n'a pas le même sens."
+  },
+  {
+    "id": "fr-0122",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Repérez, parmi les formes suivantes, celles qui constituent un passé simple correct à la 3e personne du pluriel.",
+    "options": [
+      { "id": "a", "text": "ils étaient" },
+      { "id": "b", "text": "ils furent" },
+      { "id": "c", "text": "ils avaient" },
+      { "id": "d", "text": "ils eurent" },
+      { "id": "e", "text": "ils savaient" },
+      { "id": "f", "text": "ils surent" }
+    ],
+    "correct": ["b", "d", "f"],
+    "explanation": "« Furent », « eurent » et « surent » sont les formes du passé simple de « être », « avoir » et « savoir » ; « étaient », « avaient » et « savaient » sont à l'imparfait de l'indicatif."
+  },
+  {
+    "id": "fr-0123",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans un texte administratif au registre très soutenu, quelle forme respecte la concordance des temps après « Il fallait que » ?",
+    "options": [
+      { "id": "a", "text": "il vienne" },
+      { "id": "b", "text": "il vînt" },
+      { "id": "c", "text": "il venait" },
+      { "id": "d", "text": "il est venu" },
+      { "id": "e", "text": "il viendrait" },
+      { "id": "f", "text": "il vint" }
+    ],
+    "correct": ["b"],
+    "explanation": "Au registre soutenu, un verbe principal au passé (« il fallait ») entraîne, par concordance des temps, le subjonctif imparfait dans la subordonnée : « qu'il vînt » ; « qu'il vienne » est le subjonctif présent, propre au registre courant."
+  },
+  {
+    "id": "fr-0124",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Le fonctionnaire, ___ (constater) l'irrégularité, en a aussitôt informé sa hiérarchie.",
+    "options": [
+      { "id": "a", "text": "constatant" },
+      { "id": "b", "text": "ayant constaté" },
+      { "id": "c", "text": "en constatant" },
+      { "id": "d", "text": "avait constaté" },
+      { "id": "e", "text": "ayant constater" },
+      { "id": "f", "text": "constaté" }
+    ],
+    "correct": ["b"],
+    "explanation": "Le participe présent composé « ayant constaté » exprime une action achevée avant celle du verbe principal, c'est-à-dire l'antériorité ; « constatant » exprimerait une simultanéité, et « en constatant » serait un gérondif, impropre ici."
+  },
+  {
+    "id": "fr-0125",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Si le ministre eût été informé à temps, il ___ (prendre) les mesures nécessaires.",
+    "options": [
+      { "id": "a", "text": "avait pris" },
+      { "id": "b", "text": "aurait pris" },
+      { "id": "c", "text": "prendrait" },
+      { "id": "d", "text": "eût pris" },
+      { "id": "e", "text": "a pris" },
+      { "id": "f", "text": "prit" }
+    ],
+    "correct": ["b", "d"],
+    "explanation": "Dans une hypothèse au passé, le conditionnel passé s'exprime soit par la forme courante « aurait pris », soit, en registre soutenu, par la 2e forme du conditionnel passé, identique au plus-que-parfait du subjonctif : « eût pris »."
+  }
+]

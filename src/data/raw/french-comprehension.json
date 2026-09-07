@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "fr-0241",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Chaque matin, Amina se lève à six heures. Elle prend son petit-déjeuner puis part à pied pour l'école, qui se trouve à dix minutes de chez elle.\n\nComment Amina va-t-elle à l'école ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "En voiture"
+      },
+      {
+        "id": "b",
+        "text": "À pied"
+      },
+      {
+        "id": "c",
+        "text": "En bus"
+      },
+      {
+        "id": "d",
+        "text": "À vélo"
+      },
+      {
+        "id": "e",
+        "text": "En taxi"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte indique clairement qu'Amina « part à pied pour l'école »."
+  },
+  {
+    "id": "fr-0242",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Le marché du village ouvre le vendredi matin. Les paysans y vendent des légumes, des fruits et parfois du lait frais.\n\nQue vend-on au marché selon le texte ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Des légumes"
+      },
+      {
+        "id": "b",
+        "text": "Des fruits"
+      },
+      {
+        "id": "c",
+        "text": "Du lait frais"
+      },
+      {
+        "id": "d",
+        "text": "De la viande"
+      },
+      {
+        "id": "e",
+        "text": "Des vêtements"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "c"
+    ],
+    "explanation": "Le texte cite les légumes, les fruits et parfois le lait frais parmi les produits vendus ; la viande et les vêtements ne sont pas mentionnés."
+  },
+  {
+    "id": "fr-0243",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Karim aime beaucoup les animaux. Il a un chat noir et deux poissons rouges dans un petit aquarium.\n\nCombien d'animaux Karim possède-t-il en tout ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un"
+      },
+      {
+        "id": "b",
+        "text": "Deux"
+      },
+      {
+        "id": "c",
+        "text": "Trois"
+      },
+      {
+        "id": "d",
+        "text": "Quatre"
+      },
+      {
+        "id": "e",
+        "text": "Cinq"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "Karim a un chat plus deux poissons rouges, soit trois animaux au total."
+  },
+  {
+    "id": "fr-0244",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Il pleut depuis ce matin. Les enfants ne peuvent pas jouer dans la cour, alors ils restent dans la salle de classe pour lire des livres.\n\nPourquoi les enfants restent-ils en classe ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Parce qu'il pleut"
+      },
+      {
+        "id": "b",
+        "text": "Parce qu'ils sont malades"
+      },
+      {
+        "id": "c",
+        "text": "Parce que l'école est fermée"
+      },
+      {
+        "id": "d",
+        "text": "Parce que le professeur est absent"
+      },
+      {
+        "id": "e",
+        "text": "Parce qu'ils préfèrent lire"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "explanation": "Le texte dit qu'il pleut et que les enfants « ne peuvent pas jouer dans la cour », d'où leur présence en classe."
+  },
+  {
+    "id": "fr-0245",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Le bureau de poste est fermé le dimanche. Les autres jours, il ouvre de huit heures à seize heures.\n\nQue peut-on dire des horaires du bureau de poste ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il est ouvert tous les jours"
+      },
+      {
+        "id": "b",
+        "text": "Il est fermé le dimanche"
+      },
+      {
+        "id": "c",
+        "text": "Il ferme à midi"
+      },
+      {
+        "id": "d",
+        "text": "Il ouvre à seize heures"
+      },
+      {
+        "id": "e",
+        "text": "Il est fermé le samedi"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte indique explicitement que « le bureau de poste est fermé le dimanche »."
+  },
+  {
+    "id": "fr-0246",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Fatima adore cuisiner. Le vendredi, elle prépare toujours un grand plat de couscous pour toute la famille.\n\nQue prépare Fatima le vendredi ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Du riz"
+      },
+      {
+        "id": "b",
+        "text": "Du couscous"
+      },
+      {
+        "id": "c",
+        "text": "Du pain"
+      },
+      {
+        "id": "d",
+        "text": "Des pâtes"
+      },
+      {
+        "id": "e",
+        "text": "De la viande grillée"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte précise qu'elle « prépare toujours un grand plat de couscous »."
+  },
+  {
+    "id": "fr-0247",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Mon frère travaille dans un bureau. Il commence à huit heures et termine à dix-sept heures, du lundi au vendredi.\n\nCombien de jours par semaine le frère travaille-t-il ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Trois"
+      },
+      {
+        "id": "b",
+        "text": "Quatre"
+      },
+      {
+        "id": "c",
+        "text": "Cinq"
+      },
+      {
+        "id": "d",
+        "text": "Six"
+      },
+      {
+        "id": "e",
+        "text": "Sept"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "« Du lundi au vendredi » correspond à cinq jours de travail."
+  },
+  {
+    "id": "fr-0248",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "La bibliothèque du quartier prête des livres gratuitement. Il suffit de présenter une carte d'identité pour s'inscrire.\n\nQue faut-il pour s'inscrire à la bibliothèque ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Payer une somme d'argent"
+      },
+      {
+        "id": "b",
+        "text": "Présenter une carte d'identité"
+      },
+      {
+        "id": "c",
+        "text": "Apporter un livre"
+      },
+      {
+        "id": "d",
+        "text": "Avoir un parrain"
+      },
+      {
+        "id": "e",
+        "text": "Attendre un mois"
+      },
+      {
+        "id": "f",
+        "text": "Rien du tout"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte précise qu'« il suffit de présenter une carte d'identité pour s'inscrire »."
+  },
+  {
+    "id": "fr-0249",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "L'hôpital régional a récemment ouvert un nouveau service pour les enfants. Ce service dispose de dix lits et de deux médecins spécialisés en pédiatrie.\n\nÀ qui ce nouveau service est-il destiné ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aux personnes âgées"
+      },
+      {
+        "id": "b",
+        "text": "Aux enfants"
+      },
+      {
+        "id": "c",
+        "text": "Aux femmes enceintes"
+      },
+      {
+        "id": "d",
+        "text": "Aux sportifs"
+      },
+      {
+        "id": "e",
+        "text": "Aux étudiants"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte précise qu'il s'agit d'« un nouveau service pour les enfants », avec des médecins « spécialisés en pédiatrie »."
+  },
+  {
+    "id": "fr-0250",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Depuis la construction de la nouvelle route, le trajet entre les deux villes ne prend plus que deux heures, contre cinq heures auparavant.\n\nQuelle est la conséquence principale de la nouvelle route ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le trajet est devenu plus long"
+      },
+      {
+        "id": "b",
+        "text": "Le trajet est devenu plus court"
+      },
+      {
+        "id": "c",
+        "text": "Le trajet est devenu plus dangereux"
+      },
+      {
+        "id": "d",
+        "text": "Le trajet a été supprimé"
+      },
+      {
+        "id": "e",
+        "text": "Le prix du trajet a augmenté"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le temps de trajet est passé de cinq heures à deux heures, ce qui montre que le trajet est plus court qu'avant."
+  },
+  {
+    "id": "fr-0251",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le directeur a annoncé une réunion pour le mardi suivant. Tous les employés doivent y assister, sauf ceux qui sont en congé.\n\nQui n'est pas obligé d'assister à la réunion ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Les employés en congé"
+      },
+      {
+        "id": "b",
+        "text": "Le directeur"
+      },
+      {
+        "id": "c",
+        "text": "Les nouveaux employés"
+      },
+      {
+        "id": "d",
+        "text": "Personne, tous doivent venir"
+      },
+      {
+        "id": "e",
+        "text": "Les stagiaires"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "explanation": "Le texte précise que tous doivent assister à la réunion, « sauf ceux qui sont en congé »."
+  },
+  {
+    "id": "fr-0252",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Malgré la chaleur intense de l'après-midi, les ouvriers ont continué à travailler sur le chantier jusqu'au coucher du soleil.\n\nQue suggère le mot « malgré » dans cette phrase ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Une cause"
+      },
+      {
+        "id": "b",
+        "text": "Une opposition"
+      },
+      {
+        "id": "c",
+        "text": "Une conséquence"
+      },
+      {
+        "id": "d",
+        "text": "Un but"
+      },
+      {
+        "id": "e",
+        "text": "Une condition"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "« Malgré » introduit une opposition : les ouvriers ont travaillé bien que la chaleur soit intense."
+  },
+  {
+    "id": "fr-0253",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le prix du pain a doublé en deux ans dans plusieurs villes. Certaines familles ont dû réduire leurs achats d'autres produits pour continuer à en acheter.\n\nQuelle idée principale ce texte exprime-t-il ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le pain est devenu introuvable"
+      },
+      {
+        "id": "b",
+        "text": "La hausse du prix du pain a des effets sur le budget des familles"
+      },
+      {
+        "id": "c",
+        "text": "Les familles ne mangent plus de pain"
+      },
+      {
+        "id": "d",
+        "text": "Le prix du pain a baissé"
+      },
+      {
+        "id": "e",
+        "text": "Les boulangers ont fait grève"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte relie la hausse du prix du pain à la réduction d'autres achats, montrant un impact sur le budget familial."
+  },
+  {
+    "id": "fr-0254",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le musée national est gratuit le premier dimanche de chaque mois. Les autres jours, l'entrée coûte deux cents ouguiyas pour les adultes et cent pour les enfants.\n\nQuand l'entrée du musée est-elle gratuite ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Tous les dimanches"
+      },
+      {
+        "id": "b",
+        "text": "Le premier dimanche du mois"
+      },
+      {
+        "id": "c",
+        "text": "Tous les jours pour les enfants"
+      },
+      {
+        "id": "d",
+        "text": "Le dernier jour du mois"
+      },
+      {
+        "id": "e",
+        "text": "Jamais"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte précise que l'entrée est gratuite « le premier dimanche de chaque mois », pas tous les dimanches."
+  },
+  {
+    "id": "fr-0255",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Après plusieurs jours de sécheresse, la pluie est enfin tombée sur la région. Les agriculteurs, inquiets pour leurs récoltes, ont accueilli cette pluie avec soulagement.\n\nComment les agriculteurs ont-ils réagi à la pluie ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Avec inquiétude"
+      },
+      {
+        "id": "b",
+        "text": "Avec indifférence"
+      },
+      {
+        "id": "c",
+        "text": "Avec soulagement"
+      },
+      {
+        "id": "d",
+        "text": "Avec colère"
+      },
+      {
+        "id": "e",
+        "text": "Avec tristesse"
+      },
+      {
+        "id": "f",
+        "text": "Avec surprise"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "Le texte indique explicitement qu'ils « ont accueilli cette pluie avec soulagement »."
+  },
+  {
+    "id": "fr-0256",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Sur ce texte, plusieurs affirmations sont proposées :\n\nDeux ouvriers réparent la route depuis lundi. Ils espèrent terminer avant la fin de la semaine, si le matériel arrive à temps.\n\nQuelles affirmations sont exactes d'après le texte ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Les travaux ont commencé lundi"
+      },
+      {
+        "id": "b",
+        "text": "Les ouvriers sont trois"
+      },
+      {
+        "id": "c",
+        "text": "La fin des travaux dépend de l'arrivée du matériel"
+      },
+      {
+        "id": "d",
+        "text": "Les travaux sont déjà terminés"
+      },
+      {
+        "id": "e",
+        "text": "Il s'agit d'une réparation de route"
+      }
+    ],
+    "correct": [
+      "a",
+      "c",
+      "e"
+    ],
+    "explanation": "Le texte confirme le début lundi, la condition liée au matériel, et le fait qu'il s'agit de réparer une route ; il y a deux ouvriers, pas trois, et les travaux ne sont pas terminés."
+  },
+  {
+    "id": "fr-0257",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "La coopérative agricole regroupe une trentaine de familles. Ensemble, elles partagent le matériel de récolte et vendent leurs produits sur un même marché.\n\nQuels sont les avantages décrits pour les familles de la coopérative ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le partage du matériel"
+      },
+      {
+        "id": "b",
+        "text": "La vente commune des produits"
+      },
+      {
+        "id": "c",
+        "text": "L'obtention gratuite de terrains"
+      },
+      {
+        "id": "d",
+        "text": "L'exonération d'impôts"
+      },
+      {
+        "id": "e",
+        "text": "Le transport gratuit"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ],
+    "explanation": "Le texte mentionne seulement le partage du matériel de récolte et la vente commune sur le marché."
+  },
+  {
+    "id": "fr-0258",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le nombre de candidats inscrits au concours a augmenté de trente pour cent cette année, ce qui a contraint l'administration à ouvrir deux nouveaux centres d'examen dans la capitale.\n\nQuelle est la cause de l'ouverture de nouveaux centres d'examen ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le manque de personnel administratif"
+      },
+      {
+        "id": "b",
+        "text": "La hausse du nombre de candidats"
+      },
+      {
+        "id": "c",
+        "text": "La fermeture d'anciens centres"
+      },
+      {
+        "id": "d",
+        "text": "Une décision politique sans lien avec le concours"
+      },
+      {
+        "id": "e",
+        "text": "La baisse du niveau des candidats"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte établit un lien de cause à effet entre l'augmentation de trente pour cent des candidats et l'ouverture de nouveaux centres."
+  },
+  {
+    "id": "fr-0259",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Bien que les résultats de l'enquête soient encourageants, les experts appellent à la prudence, estimant que les données recueillies restent insuffisantes pour tirer des conclusions définitives.\n\nQuelle est l'attitude des experts face aux résultats ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Ils sont entièrement satisfaits"
+      },
+      {
+        "id": "b",
+        "text": "Ils rejettent totalement les résultats"
+      },
+      {
+        "id": "c",
+        "text": "Ils restent prudents malgré des résultats positifs"
+      },
+      {
+        "id": "d",
+        "text": "Ils exigent une nouvelle enquête immédiate"
+      },
+      {
+        "id": "e",
+        "text": "Ils ignorent les résultats"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "Le texte oppose des résultats « encourageants » à un appel « à la prudence », ce qui traduit une position mesurée des experts."
+  },
+  {
+    "id": "fr-0260",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "L'usine a modernisé ses machines afin de réduire sa consommation d'énergie. Cette mesure, coûteuse à court terme, devrait permettre des économies importantes d'ici cinq ans.\n\nQue signifie « à court terme » dans ce contexte ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Dans un avenir lointain"
+      },
+      {
+        "id": "b",
+        "text": "Dans l'immédiat, tout de suite"
+      },
+      {
+        "id": "c",
+        "text": "De manière permanente"
+      },
+      {
+        "id": "d",
+        "text": "Une seule fois par an"
+      },
+      {
+        "id": "e",
+        "text": "Après plusieurs années"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "« À court terme » s'oppose ici à « d'ici cinq ans » et désigne donc la période immédiate suivant la modernisation."
+  },
+  {
+    "id": "fr-0261",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le rapport annuel souligne une baisse du taux de chômage chez les jeunes diplômés, tout en signalant que cette amélioration ne concerne pas les zones rurales, où la situation reste préoccupante.\n\nQue peut-on déduire de ce rapport ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le chômage a baissé partout de manière uniforme"
+      },
+      {
+        "id": "b",
+        "text": "L'amélioration touche surtout les zones urbaines"
+      },
+      {
+        "id": "c",
+        "text": "Le chômage a augmenté chez les jeunes diplômés"
+      },
+      {
+        "id": "d",
+        "text": "Les zones rurales connaissent une amélioration plus forte"
+      },
+      {
+        "id": "e",
+        "text": "Le rapport ne parle pas du chômage"
+      },
+      {
+        "id": "f",
+        "text": "La situation est identique en ville et à la campagne"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Puisque la baisse ne concerne pas les zones rurales, on peut déduire que l'amélioration profite surtout aux zones urbaines."
+  },
+  {
+    "id": "fr-0262",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Certains habitants du quartier se plaignent du bruit causé par les travaux nocturnes, tandis que d'autres estiment que ces travaux, bien qu'inconfortables, sont nécessaires pour améliorer l'approvisionnement en eau.\n\nQuelles opinions coexistent selon ce texte ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Une opinion critique concernant le bruit"
+      },
+      {
+        "id": "b",
+        "text": "Une opinion favorable malgré la gêne"
+      },
+      {
+        "id": "c",
+        "text": "Une opinion neutre sur l'eau"
+      },
+      {
+        "id": "d",
+        "text": "Un rejet total des travaux par tous les habitants"
+      },
+      {
+        "id": "e",
+        "text": "Un soutien unanime aux travaux"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ],
+    "explanation": "Le texte présente deux points de vue : des plaintes sur le bruit et une acceptation des travaux malgré la gêne, donc pas d'unanimité."
+  },
+  {
+    "id": "fr-0263",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "L'association distribue des kits scolaires aux familles démunies chaque rentrée. Cette année, faute de financement suffisant, seule la moitié des demandes a pu être satisfaite.\n\nQuelle est la raison pour laquelle certaines demandes n'ont pas été satisfaites ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le manque d'intérêt des familles"
+      },
+      {
+        "id": "b",
+        "text": "L'insuffisance du financement"
+      },
+      {
+        "id": "c",
+        "text": "La fermeture de l'association"
+      },
+      {
+        "id": "d",
+        "text": "Un problème de transport"
+      },
+      {
+        "id": "e",
+        "text": "Le trop grand nombre de bénévoles"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte indique explicitement « faute de financement suffisant » comme cause de la satisfaction partielle des demandes."
+  },
+  {
+    "id": "fr-0264",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le nouveau règlement intérieur, adopté après consultation du personnel, précise les horaires de pause tout en laissant une certaine flexibilité aux chefs de service pour les adapter selon les besoins.\n\nQue montre ce texte à propos du règlement ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il a été imposé sans aucune concertation"
+      },
+      {
+        "id": "b",
+        "text": "Il combine des règles fixes et une marge d'adaptation"
+      },
+      {
+        "id": "c",
+        "text": "Il supprime totalement les pauses"
+      },
+      {
+        "id": "d",
+        "text": "Il ne concerne que les chefs de service"
+      },
+      {
+        "id": "e",
+        "text": "Il interdit toute flexibilité"
+      },
+      {
+        "id": "f",
+        "text": "Il n'a pas encore été adopté"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le règlement fixe des horaires tout en laissant « une certaine flexibilité », ce qui combine cadre fixe et adaptation."
+  },
+  {
+    "id": "fr-0265",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Depuis l'installation de panneaux solaires sur le toit de l'école, la facture d'électricité a nettement diminué, ce qui a permis à la direction de financer l'achat de nouveaux ordinateurs pour les élèves.\n\nQuelle relation le texte établit-il entre les panneaux solaires et les ordinateurs ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Aucune relation directe"
+      },
+      {
+        "id": "b",
+        "text": "Les économies d'électricité ont permis de financer les ordinateurs"
+      },
+      {
+        "id": "c",
+        "text": "Les ordinateurs ont permis d'installer les panneaux"
+      },
+      {
+        "id": "d",
+        "text": "Les deux achats ont été faits séparément"
+      },
+      {
+        "id": "e",
+        "text": "Les panneaux ont remplacé les ordinateurs"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte relie la baisse de la facture d'électricité, due aux panneaux, au financement des ordinateurs."
+  },
+  {
+    "id": "fr-0266",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "La réforme envisagée ne vise pas tant à réduire les effectifs qu'à redéployer les agents vers des fonctions jugées prioritaires, une nuance que certains commentateurs ont négligée en dénonçant des suppressions de postes.\n\nQuelle erreur d'interprétation le texte reproche-t-il à certains commentateurs ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Avoir sous-estimé le coût de la réforme"
+      },
+      {
+        "id": "b",
+        "text": "Avoir confondu redéploiement et suppression de postes"
+      },
+      {
+        "id": "c",
+        "text": "Avoir surestimé le nombre d'agents concernés"
+      },
+      {
+        "id": "d",
+        "text": "Avoir ignoré l'existence de la réforme"
+      },
+      {
+        "id": "e",
+        "text": "Avoir approuvé la réforme sans réserve"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte oppose explicitement le redéploiement, but réel de la réforme, aux « suppressions de postes » dénoncées à tort par certains."
+  },
+  {
+    "id": "fr-0267",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Loin d'être un simple outil de contrôle, la déclaration en douane constitue avant tout un instrument statistique permettant à l'État d'évaluer les flux commerciaux et d'ajuster sa politique économique.\n\nSelon ce texte, quelle est la fonction principale mise en avant pour la déclaration en douane ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Sanctionner les fraudeurs"
+      },
+      {
+        "id": "b",
+        "text": "Fournir des données pour orienter la politique économique"
+      },
+      {
+        "id": "c",
+        "text": "Remplacer les contrôles physiques"
+      },
+      {
+        "id": "d",
+        "text": "Simplifier les démarches des voyageurs"
+      },
+      {
+        "id": "e",
+        "text": "Réduire le nombre de douaniers"
+      },
+      {
+        "id": "f",
+        "text": "Uniformiser les tarifs douaniers"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte présente la déclaration comme « un instrument statistique » servant à évaluer les flux commerciaux et ajuster la politique économique, plutôt qu'un simple contrôle."
+  },
+  {
+    "id": "fr-0268",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "L'augmentation des recettes fiscales, présentée comme un succès par les autorités, masque en réalité une hausse de la pression fiscale sur les ménages les plus modestes, dont la part de revenu consacrée aux taxes indirectes s'est alourdie.\n\nQuelle nuance le texte apporte-t-il au discours officiel ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il confirme entièrement le succès annoncé"
+      },
+      {
+        "id": "b",
+        "text": "Il révèle un coût supporté surtout par les ménages modestes"
+      },
+      {
+        "id": "c",
+        "text": "Il affirme que les taxes indirectes ont disparu"
+      },
+      {
+        "id": "d",
+        "text": "Il conteste l'existence même des recettes fiscales"
+      },
+      {
+        "id": "e",
+        "text": "Il attribue le succès aux ménages aisés"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte nuance le « succès » officiel en soulignant que la hausse des recettes pèse davantage sur les ménages modestes via les taxes indirectes."
+  },
+  {
+    "id": "fr-0269",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Si la numérisation des procédures administratives réduit indéniablement les délais de traitement, elle risque paradoxalement d'exclure une partie de la population peu familiarisée avec les outils informatiques.\n\nQuel paradoxe le texte souligne-t-il ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La numérisation ralentit les procédures"
+      },
+      {
+        "id": "b",
+        "text": "Un progrès technique peut créer une nouvelle exclusion"
+      },
+      {
+        "id": "c",
+        "text": "Les délais de traitement n'ont pas changé"
+      },
+      {
+        "id": "d",
+        "text": "La population entière maîtrise déjà l'informatique"
+      },
+      {
+        "id": "e",
+        "text": "La numérisation est rejetée par l'administration"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le paradoxe tient au fait qu'une mesure censée simplifier les démarches (gain de temps) peut en même temps écarter certains usagers moins à l'aise avec l'informatique."
+  },
+  {
+    "id": "fr-0270",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Les partisans du projet insistent sur la création d'emplois qu'il générera, tandis que ses détracteurs redoutent des conséquences environnementales durables, chacun minimisant les arguments de l'autre camp.\n\nQue révèle la formulation « chacun minimisant les arguments de l'autre camp » ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un consensus général sur le projet"
+      },
+      {
+        "id": "b",
+        "text": "Une absence totale de débat"
+      },
+      {
+        "id": "c",
+        "text": "Une polarisation entre deux positions qui s'ignorent mutuellement"
+      },
+      {
+        "id": "d",
+        "text": "L'abandon définitif du projet"
+      },
+      {
+        "id": "e",
+        "text": "La victoire des partisans du projet"
+      },
+      {
+        "id": "f",
+        "text": "Un accord sur les questions environnementales"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "L'expression suggère que les deux camps campent sur leurs positions sans reconnaître la validité des arguments adverses, traduisant une polarisation."
+  },
+  {
+    "id": "fr-0271",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Contrairement à une idée répandue, la lutte contre la contrebande ne repose pas uniquement sur la répression aux frontières, mais implique aussi un travail de renseignement en amont et une coopération régionale soutenue.\n\nQuelles idées ce texte associe-t-il à la lutte contre la contrebande ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La répression aux frontières uniquement"
+      },
+      {
+        "id": "b",
+        "text": "Le renseignement en amont"
+      },
+      {
+        "id": "c",
+        "text": "La coopération régionale"
+      },
+      {
+        "id": "d",
+        "text": "L'abandon des contrôles frontaliers"
+      },
+      {
+        "id": "e",
+        "text": "La fermeture des frontières"
+      }
+    ],
+    "correct": [
+      "b",
+      "c"
+    ],
+    "explanation": "Le texte élargit la lutte contre la contrebande au-delà de la seule répression, en y ajoutant le renseignement en amont et la coopération régionale."
+  },
+  {
+    "id": "fr-0272",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le comité d'experts, tout en saluant les progrès accomplis dans la lutte contre la fraude douanière, recommande un renforcement des effectifs de contrôle et une meilleure formation continue des agents.\n\nQuelles recommandations le comité formule-t-il ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Réduire les effectifs de contrôle"
+      },
+      {
+        "id": "b",
+        "text": "Renforcer les effectifs de contrôle"
+      },
+      {
+        "id": "c",
+        "text": "Améliorer la formation continue des agents"
+      },
+      {
+        "id": "d",
+        "text": "Supprimer la lutte contre la fraude"
+      },
+      {
+        "id": "e",
+        "text": "Arrêter les formations existantes"
+      },
+      {
+        "id": "f",
+        "text": "Ignorer les progrès déjà réalisés"
+      }
+    ],
+    "correct": [
+      "b",
+      "c"
+    ],
+    "explanation": "Le comité recommande explicitement un renforcement des effectifs et une meilleure formation continue, tout en reconnaissant les progrès déjà réalisés."
+  },
+  {
+    "id": "fr-0273",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Il serait illusoire de croire que la seule modernisation des équipements suffira à endiguer les pratiques frauduleuses, tant celles-ci s'adaptent avec une célérité qui devance souvent les dispositifs censés les contrer.\n\nQuelle est la thèse implicite défendue dans ce passage ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La modernisation des équipements est inutile et doit être abandonnée"
+      },
+      {
+        "id": "b",
+        "text": "La lutte contre la fraude exige plus que de simples moyens techniques"
+      },
+      {
+        "id": "c",
+        "text": "Les fraudeurs n'ont aucune capacité d'adaptation"
+      },
+      {
+        "id": "d",
+        "text": "Les dispositifs actuels sont toujours en avance sur la fraude"
+      },
+      {
+        "id": "e",
+        "text": "La fraude a été totalement éradiquée"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte relativise l'efficacité de la seule modernisation technique face à une fraude qui s'adapte plus vite, suggérant la nécessité de mesures complémentaires."
+  },
+  {
+    "id": "fr-0274",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Que l'on se félicite ou que l'on s'inquiète de l'ouverture croissante des marchés, force est de constater qu'aucun État n'échappe désormais à l'interdépendance économique, laquelle redéfinit jusqu'aux contours de la souveraineté douanière.\n\nQue signifie l'expression « redéfinit jusqu'aux contours de la souveraineté douanière » ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Les frontières douanières ont totalement disparu"
+      },
+      {
+        "id": "b",
+        "text": "L'interdépendance économique oblige à repenser l'exercice de l'autorité douanière"
+      },
+      {
+        "id": "c",
+        "text": "La souveraineté douanière n'a jamais existé"
+      },
+      {
+        "id": "d",
+        "text": "Les États refusent désormais toute ouverture commerciale"
+      },
+      {
+        "id": "e",
+        "text": "Les douanes deviennent inutiles"
+      },
+      {
+        "id": "f",
+        "text": "La souveraineté nationale n'est pas concernée par le commerce"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "L'expression indique que l'interdépendance économique mondiale transforme, sans l'annuler, la manière dont s'exerce l'autorité douanière de chaque État."
+  },
+  {
+    "id": "fr-0275",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "L'administration ne saurait se prévaloir d'une efficacité accrue si celle-ci se mesure au seul nombre de dossiers traités, sans considération pour la qualité du service rendu à l'usager, dont la satisfaction demeure, elle, largement invérifiée.\n\nQuelle critique méthodologique ce texte adresse-t-il implicitement ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Le nombre de dossiers traités est un indicateur insuffisant à lui seul"
+      },
+      {
+        "id": "b",
+        "text": "L'administration ne traite plus aucun dossier"
+      },
+      {
+        "id": "c",
+        "text": "La satisfaction des usagers a été mesurée avec précision"
+      },
+      {
+        "id": "d",
+        "text": "La qualité du service est jugée excellente"
+      },
+      {
+        "id": "e",
+        "text": "Les usagers ne sont jamais consultés"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "explanation": "Le texte critique le fait de réduire l'efficacité au seul volume de dossiers traités, en négligeant un critère de qualité resté « largement invérifié »."
+  },
+  {
+    "id": "fr-0276",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "On aurait tort de réduire la complexité tarifaire à une simple lourdeur bureaucratique : elle répond aussi, pour partie, à la nécessité de protéger certains secteurs stratégiques d'une concurrence extérieure jugée déloyale.\n\nQue veut faire comprendre l'auteur en écrivant « on aurait tort » ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il approuve sans réserve la simplification tarifaire"
+      },
+      {
+        "id": "b",
+        "text": "Il invite à ne pas voir dans la complexité tarifaire qu'un simple défaut administratif"
+      },
+      {
+        "id": "c",
+        "text": "Il affirme que la concurrence extérieure est toujours loyale"
+      },
+      {
+        "id": "d",
+        "text": "Il nie l'existence d'une complexité tarifaire"
+      },
+      {
+        "id": "e",
+        "text": "Il propose de supprimer tous les tarifs douaniers"
+      },
+      {
+        "id": "f",
+        "text": "Il considère que les secteurs stratégiques n'ont pas besoin de protection"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "En employant « on aurait tort », l'auteur avertit contre une lecture simpliste et propose une explication plus nuancée, liée à la protection de secteurs stratégiques."
+  },
+  {
+    "id": "fr-0277",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Nombre d'observateurs saluent la baisse apparente des délais de dédouanement, sans toujours s'interroger sur la part de cette amélioration imputable à un simple assouplissement des contrôles plutôt qu'à un véritable gain d'efficacité.\n\nQuelle réserve méthodologique le texte soulève-t-il ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Les délais de dédouanement n'ont pas baissé"
+      },
+      {
+        "id": "b",
+        "text": "La baisse pourrait résulter d'un relâchement des contrôles plutôt que d'un gain réel d'efficacité"
+      },
+      {
+        "id": "c",
+        "text": "Les observateurs sont unanimement critiques"
+      },
+      {
+        "id": "d",
+        "text": "Les contrôles ont été renforcés"
+      },
+      {
+        "id": "e",
+        "text": "L'efficacité s'est incontestablement améliorée"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le texte met en doute l'interprétation optimiste de la baisse des délais, en évoquant la possibilité d'un simple assouplissement des contrôles plutôt qu'un véritable progrès."
+  },
+  {
+    "id": "fr-0278",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Loin de se limiter à un exercice comptable, l'évaluation en douane engage une lecture fine des transactions internationales, où la valeur déclarée peut diverger sensiblement de la valeur réelle sans que la fraude soit nécessairement en cause.\n\nQue suggère la fin de la phrase, « sans que la fraude soit nécessairement en cause » ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Toute divergence de valeur constitue automatiquement une fraude"
+      },
+      {
+        "id": "b",
+        "text": "Une divergence de valeur peut avoir des causes légitimes autres que la fraude"
+      },
+      {
+        "id": "c",
+        "text": "La fraude est impossible en matière douanière"
+      },
+      {
+        "id": "d",
+        "text": "L'évaluation en douane est un simple calcul comptable"
+      },
+      {
+        "id": "e",
+        "text": "La valeur déclarée est toujours exacte"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "L'auteur nuance : un écart entre valeur déclarée et valeur réelle peut s'expliquer autrement que par une intention frauduleuse."
+  },
+  {
+    "id": "fr-0279",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "S'il est tentant d'attribuer la recrudescence des saisies à un renforcement de la vigilance des agents, on ne saurait exclure qu'elle traduise, tout aussi bien, une intensification préalable des flux illicites eux-mêmes.\n\nQuelles interprétations concurrentes le texte met-il en balance ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Une meilleure vigilance des agents"
+      },
+      {
+        "id": "b",
+        "text": "Une hausse préalable des flux illicites"
+      },
+      {
+        "id": "c",
+        "text": "Une baisse générale de la criminalité"
+      },
+      {
+        "id": "d",
+        "text": "La disparition totale des saisies"
+      },
+      {
+        "id": "e",
+        "text": "Une réduction du nombre d'agents"
+      },
+      {
+        "id": "f",
+        "text": "Une amélioration des équipements informatiques"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ],
+    "explanation": "Le texte oppose deux explications possibles à la hausse des saisies : une vigilance accrue des agents, ou une augmentation antérieure des flux illicites."
+  },
+  {
+    "id": "fr-0280",
+    "section": "french",
+    "topic": "compréhension",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Considérer la formation continue comme une simple obligation réglementaire, c'est méconnaître son rôle dans l'adaptation des agents à des fraudes de plus en plus sophistiquées, lesquelles exploitent précisément les failles d'un savoir-faire resté figé.\n\nQuel présupposé l'auteur cherche-t-il à contester ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "L'idée que la formation continue n'est qu'une contrainte administrative sans réelle utilité"
+      },
+      {
+        "id": "b",
+        "text": "L'idée que les fraudes n'évoluent jamais"
+      },
+      {
+        "id": "c",
+        "text": "L'idée que les agents n'ont pas besoin de compétences"
+      },
+      {
+        "id": "d",
+        "text": "L'idée que la formation continue devrait être supprimée"
+      },
+      {
+        "id": "e",
+        "text": "L'idée que la réglementation impose trop de formations"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "explanation": "L'auteur conteste la réduction de la formation continue à une simple obligation réglementaire, en soulignant son rôle réel face à des fraudes plus sophistiquées."
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": "fr-0216",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Que signifie l'expression « avoir faim » ?",
+    "options": [
+      { "id": "a", "text": "Ressentir le besoin de manger" },
+      { "id": "b", "text": "Ressentir le besoin de dormir" },
+      { "id": "c", "text": "Avoir peur de quelque chose" },
+      { "id": "d", "text": "Être en colère" },
+      { "id": "e", "text": "Avoir soif" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Avoir faim » signifie ressentir le besoin ou l'envie de manger."
+  },
+  {
+    "id": "fr-0217",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "L'expression « coûter cher » veut dire que quelque chose...",
+    "options": [
+      { "id": "a", "text": "est gratuit" },
+      { "id": "b", "text": "a un prix élevé" },
+      { "id": "c", "text": "est de mauvaise qualité" },
+      { "id": "d", "text": "est difficile à trouver" },
+      { "id": "e", "text": "a un prix très bas" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Coûter cher » signifie avoir un prix élevé."
+  },
+  {
+    "id": "fr-0218",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quand on dit « il fait beau », de quoi parle-t-on ?",
+    "options": [
+      { "id": "a", "text": "Du temps qu'il fait dehors" },
+      { "id": "b", "text": "De l'apparence d'une personne" },
+      { "id": "c", "text": "D'un travail bien fait" },
+      { "id": "d", "text": "D'un plat cuisiné" },
+      { "id": "e", "text": "D'une belle voiture" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Il fait beau » est une expression météorologique qui signifie que le temps est agréable, ensoleillé."
+  },
+  {
+    "id": "fr-0219",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Que veut dire « avoir raison » ?",
+    "options": [
+      { "id": "a", "text": "Être en colère" },
+      { "id": "b", "text": "Ne pas comprendre" },
+      { "id": "c", "text": "Dire ou penser quelque chose de juste" },
+      { "id": "d", "text": "Se tromper" },
+      { "id": "e", "text": "Avoir peur" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Avoir raison » signifie être dans le vrai, ne pas se tromper."
+  },
+  {
+    "id": "fr-0220",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « ne pas avoir de chance » ?",
+    "options": [
+      { "id": "a", "text": "Avoir la main verte" },
+      { "id": "b", "text": "Avoir la pêche" },
+      { "id": "c", "text": "Ne pas avoir de veine" },
+      { "id": "d", "text": "Avoir la guigne" },
+      { "id": "e", "text": "Avoir le vent en poupe" },
+      { "id": "f", "text": "Avoir la baraka" }
+    ],
+    "correct": ["c", "d"],
+    "explanation": "« Ne pas avoir de veine » et « avoir la guigne » signifient toutes deux manquer de chance ; les autres expressions ont un sens différent."
+  },
+  {
+    "id": "fr-0221",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Que signifie l'expression « poser un lapin » à quelqu'un ?",
+    "options": [
+      { "id": "a", "text": "Lui faire un cadeau surprise" },
+      { "id": "b", "text": "Ne pas venir à un rendez-vous prévu" },
+      { "id": "c", "text": "Lui raconter une histoire drôle" },
+      { "id": "d", "text": "L'accuser injustement" },
+      { "id": "e", "text": "Lui rendre un grand service" },
+      { "id": "f", "text": "Le mettre en colère" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Poser un lapin » signifie ne pas se présenter à un rendez-vous sans prévenir la personne qui attend."
+  },
+  {
+    "id": "fr-0222",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "L'expression « coûter les yeux de la tête » signifie que quelque chose est...",
+    "options": [
+      { "id": "a", "text": "très dangereux" },
+      { "id": "b", "text": "extrêmement cher" },
+      { "id": "c", "text": "totalement gratuit" },
+      { "id": "d", "text": "difficile à voir" },
+      { "id": "e", "text": "de très bonne qualité" },
+      { "id": "f", "text": "impossible à trouver" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Coûter les yeux de la tête » signifie coûter extrêmement cher."
+  },
+  {
+    "id": "fr-0223",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « être triste, déprimé » ?",
+    "options": [
+      { "id": "a", "text": "Avoir le cafard" },
+      { "id": "b", "text": "Broyer du noir" },
+      { "id": "c", "text": "Être en retard" },
+      { "id": "d", "text": "Voir la vie en rose" },
+      { "id": "e", "text": "Être très occupé" },
+      { "id": "f", "text": "Avoir la pêche" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Avoir le cafard » et « broyer du noir » expriment toutes deux un état de tristesse ou de mélancolie ; les autres expressions ont un sens différent, voire opposé."
+  },
+  {
+    "id": "fr-0224",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « pleuvoir très fort » ?",
+    "options": [
+      { "id": "a", "text": "Il pleut des cordes" },
+      { "id": "b", "text": "Il pleut comme vache qui pisse" },
+      { "id": "c", "text": "Il fait un temps de chien" },
+      { "id": "d", "text": "Il tombe des nues" },
+      { "id": "e", "text": "Il fait la pluie et le beau temps" },
+      { "id": "f", "text": "Il pleut à seaux" }
+    ],
+    "correct": ["a", "b", "f"],
+    "explanation": "« Il pleut des cordes », « il pleut comme vache qui pisse » et « il pleut à seaux » signifient toutes qu'il pleut très abondamment ; les autres expressions ont un sens différent."
+  },
+  {
+    "id": "fr-0225",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Que veut dire « avoir un chat dans la gorge » ?",
+    "options": [
+      { "id": "a", "text": "Être enrhumé" },
+      { "id": "b", "text": "Avoir la voix enrouée, gênée" },
+      { "id": "c", "text": "Avoir peur de parler en public" },
+      { "id": "d", "text": "Avoir avalé quelque chose de travers" },
+      { "id": "e", "text": "Ne plus vouloir parler" },
+      { "id": "f", "text": "Aimer beaucoup les animaux" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Avoir un chat dans la gorge » signifie avoir la voix enrouée et avoir du mal à parler clairement."
+  },
+  {
+    "id": "fr-0226",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "L'expression « donner sa langue au chat » signifie...",
+    "options": [
+      { "id": "a", "text": "renoncer à deviner et demander la réponse" },
+      { "id": "b", "text": "parler trop" },
+      { "id": "c", "text": "garder un secret" },
+      { "id": "d", "text": "mentir sans hésiter" },
+      { "id": "e", "text": "trahir un ami" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Donner sa langue au chat » signifie renoncer à chercher la solution d'une devinette et demander la réponse."
+  },
+  {
+    "id": "fr-0227",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Que signifie l'expression « mettre la charrue avant les bœufs » ?",
+    "options": [
+      { "id": "a", "text": "Faire les choses dans le bon ordre" },
+      { "id": "b", "text": "Agir avec précipitation, sans méthode" },
+      { "id": "c", "text": "Travailler dur aux champs" },
+      { "id": "d", "text": "Faire les choses dans le désordre, avant l'étape logique" },
+      { "id": "e", "text": "Prendre une décision réfléchie" },
+      { "id": "f", "text": "Refuser d'avancer dans un projet" }
+    ],
+    "correct": ["d"],
+    "explanation": "« Mettre la charrue avant les bœufs » signifie faire les choses dans le mauvais ordre, avant le moment logique."
+  },
+  {
+    "id": "fr-0228",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quel proverbe signifie qu'il faut agir vite pendant que les conditions sont favorables ?",
+    "options": [
+      { "id": "a", "text": "Il ne faut pas vendre la peau de l'ours avant de l'avoir tué" },
+      { "id": "b", "text": "Il faut battre le fer tant qu'il est chaud" },
+      { "id": "c", "text": "Qui vole un œuf vole un bœuf" },
+      { "id": "d", "text": "L'habit ne fait pas le moine" },
+      { "id": "e", "text": "Chat échaudé craint l'eau froide" },
+      { "id": "f", "text": "Pierre qui roule n'amasse pas mousse" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Il faut battre le fer tant qu'il est chaud » signifie qu'il faut profiter du bon moment pour agir, sans tarder."
+  },
+  {
+    "id": "fr-0229",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « être très riche » ?",
+    "options": [
+      { "id": "a", "text": "Rouler sur l'or" },
+      { "id": "b", "text": "Être cousu d'or" },
+      { "id": "c", "text": "Ne pas avoir un sou" },
+      { "id": "d", "text": "Vivre au jour le jour" },
+      { "id": "e", "text": "Avoir les moyens de ses ambitions" },
+      { "id": "f", "text": "Nager dans l'or" },
+      { "id": "g", "text": "Être fauché" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Rouler sur l'or » et « être cousu d'or » désignent une très grande richesse ; « nager dans l'or » n'est pas une expression correcte (on dit « nager dans le bonheur », par exemple), et les autres options évoquent plutôt la pauvreté."
+  },
+  {
+    "id": "fr-0230",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « abandonner, renoncer à continuer » ?",
+    "options": [
+      { "id": "a", "text": "Jeter l'éponge" },
+      { "id": "b", "text": "Baisser les bras" },
+      { "id": "c", "text": "Nettoyer une erreur" },
+      { "id": "d", "text": "Accuser quelqu'un injustement" },
+      { "id": "e", "text": "Faire un dernier effort" },
+      { "id": "f", "text": "Recommencer à zéro" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Jeter l'éponge », expression issue de la boxe, et « baisser les bras » signifient toutes deux renoncer à poursuivre un effort ou un combat."
+  },
+  {
+    "id": "fr-0231",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "L'expression « avoir d'autres chats à fouetter » signifie...",
+    "options": [
+      { "id": "a", "text": "avoir des animaux à s'occuper" },
+      { "id": "b", "text": "avoir des soucis plus importants à régler" },
+      { "id": "c", "text": "être méchant avec les autres" },
+      { "id": "d", "text": "être très occupé sans raison" },
+      { "id": "e", "text": "aimer punir sévèrement" },
+      { "id": "f", "text": "détester les animaux" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Avoir d'autres chats à fouetter » signifie avoir des préoccupations plus urgentes ou importantes que celle dont on parle."
+  },
+  {
+    "id": "fr-0232",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Que signifie « tourner autour du pot » ?",
+    "options": [
+      { "id": "a", "text": "Aller directement au but" },
+      { "id": "b", "text": "Éviter de dire clairement ce que l'on pense" },
+      { "id": "c", "text": "Préparer un repas" },
+      { "id": "d", "text": "Faire du ménage" },
+      { "id": "e", "text": "Se moquer de quelqu'un" },
+      { "id": "f", "text": "Voyager sans but précis" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Tourner autour du pot » signifie hésiter à aborder directement un sujet, parler de façon détournée."
+  },
+  {
+    "id": "fr-0233",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « garder le silence sur un sujet délicat » ?",
+    "options": [
+      { "id": "a", "text": "Mettre les points sur les i" },
+      { "id": "b", "text": "Ne pas mâcher ses mots" },
+      { "id": "c", "text": "Passer sous silence" },
+      { "id": "d", "text": "Tenir sa langue" },
+      { "id": "e", "text": "Crier sur tous les toits" },
+      { "id": "f", "text": "Avoir la langue bien pendue" }
+    ],
+    "correct": ["c", "d"],
+    "explanation": "« Passer sous silence » et « tenir sa langue » signifient toutes deux ne pas évoquer un sujet ; les autres expressions renvoient au contraire, s'exprimer franchement ou beaucoup."
+  },
+  {
+    "id": "fr-0234",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « être en conflit avec quelqu'un » ?",
+    "options": [
+      { "id": "a", "text": "Avoir maille à partir avec quelqu'un" },
+      { "id": "b", "text": "Croiser le fer avec quelqu'un" },
+      { "id": "c", "text": "Être de mèche avec quelqu'un" },
+      { "id": "d", "text": "Avoir des atomes crochus avec quelqu'un" },
+      { "id": "e", "text": "Faire cause commune avec quelqu'un" },
+      { "id": "f", "text": "Faire confiance à quelqu'un" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Avoir maille à partir avec quelqu'un » et « croiser le fer avec quelqu'un » évoquent toutes deux une confrontation ou un différend ; les autres expressions décrivent au contraire une entente ou une complicité."
+  },
+  {
+    "id": "fr-0235",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Que signifie « brûler la chandelle par les deux bouts » ?",
+    "options": [
+      { "id": "a", "text": "Économiser avec soin" },
+      { "id": "b", "text": "Se dépenser sans compter, épuiser ses forces ou ses ressources" },
+      { "id": "c", "text": "Travailler la nuit uniquement" },
+      { "id": "d", "text": "Prendre trop de précautions" },
+      { "id": "e", "text": "Faire deux choses à la fois avec succès" },
+      { "id": "f", "text": "Vivre dans le luxe" },
+      { "id": "g", "text": "Perdre son calme rapidement" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Brûler la chandelle par les deux bouts » signifie mener une vie excessive, dépenser sans compter son énergie, sa santé ou son argent."
+  },
+  {
+    "id": "fr-0236",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quel proverbe signifie qu'il ne faut pas se fier aux apparences ?",
+    "options": [
+      { "id": "a", "text": "L'habit ne fait pas le moine" },
+      { "id": "b", "text": "Les bons comptes font les bons amis" },
+      { "id": "c", "text": "Petit à petit, l'oiseau fait son nid" },
+      { "id": "d", "text": "Qui sème le vent récolte la tempête" },
+      { "id": "e", "text": "Tous les chemins mènent à Rome" },
+      { "id": "f", "text": "À bon entendeur, salut" },
+      { "id": "g", "text": "Il n'y a pas de fumée sans feu" }
+    ],
+    "correct": ["a"],
+    "explanation": "« L'habit ne fait pas le moine » signifie qu'il ne faut pas juger quelqu'un uniquement sur son apparence extérieure."
+  },
+  {
+    "id": "fr-0237",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles signifient « être dans une situation financière très difficile » ?",
+    "options": [
+      { "id": "a", "text": "Être au bout du rouleau" },
+      { "id": "b", "text": "Tirer le diable par la queue" },
+      { "id": "c", "text": "Avoir le vent en poupe" },
+      { "id": "d", "text": "Vivre sur un grand pied" },
+      { "id": "e", "text": "Être dans le rouge" },
+      { "id": "f", "text": "Avoir pignon sur rue" }
+    ],
+    "correct": ["b", "e"],
+    "explanation": "« Tirer le diable par la queue » et « être dans le rouge » évoquent des difficultés financières ; « avoir le vent en poupe », « vivre sur un grand pied » et « avoir pignon sur rue » évoquent au contraire le succès ou l'aisance."
+  },
+  {
+    "id": "fr-0238",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans un rapport administratif, l'expression « faire litière de » signifie...",
+    "options": [
+      { "id": "a", "text": "prendre grand soin de quelque chose" },
+      { "id": "b", "text": "traiter quelque chose avec mépris, ne pas en tenir compte" },
+      { "id": "c", "text": "classer soigneusement des documents" },
+      { "id": "d", "text": "consacrer beaucoup de temps à une tâche" },
+      { "id": "e", "text": "réserver un traitement de faveur à quelqu'un" },
+      { "id": "f", "text": "mettre en valeur un argument" },
+      { "id": "g", "text": "rédiger un compte rendu détaillé" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Faire litière de quelque chose » est une expression soutenue signifiant en faire peu de cas, le sacrifier ou le mépriser."
+  },
+  {
+    "id": "fr-0239",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Que signifie l'expression soutenue « être à couteaux tirés avec quelqu'un » ?",
+    "options": [
+      { "id": "a", "text": "Être en conflit ouvert et déclaré avec quelqu'un" },
+      { "id": "b", "text": "Collaborer efficacement avec quelqu'un" },
+      { "id": "c", "text": "Se réconcilier après une dispute" },
+      { "id": "d", "text": "Négocier prudemment avec quelqu'un" },
+      { "id": "e", "text": "Éviter tout contact avec quelqu'un" },
+      { "id": "f", "text": "Se montrer indifférent envers quelqu'un" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Être à couteaux tirés » signifie être dans un état d'hostilité déclarée et vive avec quelqu'un."
+  },
+  {
+    "id": "fr-0240",
+    "section": "french",
+    "topic": "expressions",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions relevant du registre soutenu ou administratif, lesquelles signifient « approuver formellement, valider » ?",
+    "options": [
+      { "id": "a", "text": "Donner son aval" },
+      { "id": "b", "text": "Entériner une décision" },
+      { "id": "c", "text": "Mettre en cause" },
+      { "id": "d", "text": "Remettre en question" },
+      { "id": "e", "text": "Apposer son visa" },
+      { "id": "f", "text": "Battre en brèche" },
+      { "id": "g", "text": "Jeter le discrédit sur" }
+    ],
+    "correct": ["a", "b", "e"],
+    "explanation": "« Donner son aval », « entériner une décision » et « apposer son visa » signifient toutes approuver ou valider officiellement ; les autres expressions expriment au contraire la contestation ou la critique."
+  }
+]

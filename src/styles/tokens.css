@@ -1,0 +1,122 @@
+@import "@fontsource/noto-kufi-arabic/400.css";
+@import "@fontsource/noto-kufi-arabic/700.css";
+@import "@fontsource/ibm-plex-sans-arabic/400.css";
+@import "@fontsource/ibm-plex-sans-arabic/500.css";
+@import "@fontsource/ibm-plex-sans-arabic/600.css";
+@import "@fontsource/ibm-plex-sans/400.css";
+@import "@fontsource/ibm-plex-sans/500.css";
+@import "@fontsource/ibm-plex-sans/600.css";
+
+:root {
+  /* "R G B" triplets — consumed by Tailwind as rgb(var(--x-rgb) / <alpha-value>)
+     so opacity modifiers (border-ink/15, bg-green/10...) keep working while
+     staying retintable per track. Keep these and the hex vars below in sync. */
+  --color-ink-rgb: 20 38 28;
+  --color-green-rgb: 14 77 51;
+  --color-green-dk-rgb: 8 45 31;
+  --color-brass-rgb: 169 129 43;
+  --color-paper-rgb: 239 237 228;
+  --color-paper-2-rgb: 255 255 255;
+  --color-stamp-rgb: 142 43 36;
+
+  /* Plain hex — for the few places (StampBadge's seal ring) that read a
+     CSS var directly instead of going through a Tailwind utility class. */
+  --color-ink: #14261c;
+  --color-green: #0e4d33;
+  --color-green-dk: #082d1f;
+  --color-brass: #a9812b;
+  --color-paper: #efede4;
+  --color-paper-2: #ffffff;
+  --color-stamp: #8e2b24;
+
+  /* Type scale from AGENT.md §8 — 32 / 24 / 19 / 16 / 14. */
+  --text-scale-1: 2rem;
+  --text-scale-2: 1.5rem;
+  --text-scale-3: 1.1875rem;
+  --text-scale-4: 1rem;
+  --text-scale-5: 0.875rem;
+
+  --font-kufi: "Noto Kufi Arabic", sans-serif;
+  --font-arabic: "IBM Plex Sans Arabic", sans-serif;
+  --font-latin: "IBM Plex Sans", sans-serif;
+
+  color-scheme: light;
+}
+
+/*
+ * Trésor track palette (AGENT-TRESOR.md §2) — navy/silver instead of
+ * green/brass, same administrative-paper register. Scoped on the routed
+ * page's root element (Layout, PrintView) via `data-track="tresor"`, so
+ * every `green`/`brass`/`paper`/`ink` Tailwind class and every direct
+ * `var(--color-*)` consumer within retints automatically. `--color-paper-2`
+ * and `--color-stamp` are intentionally left unset here — shared both tracks.
+ */
+[data-track="tresor"] {
+  --color-ink-rgb: 20 24 31;
+  --color-green-rgb: 28 51 82; /* navy */
+  --color-green-dk-rgb: 15 32 56; /* navy-dk */
+  --color-brass-rgb: 107 118 134; /* silver */
+  --color-paper-rgb: 236 237 239; /* paper-t */
+
+  --color-ink: #14181f;
+  --color-green: #1c3352;
+  --color-green-dk: #0f2038;
+  --color-brass: #6b7686;
+  --color-paper: #ecedef;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-arabic);
+}
+
+body[dir="ltr"],
+[dir="ltr"] {
+  font-family: var(--font-latin);
+}
+
+.font-kufi {
+  font-family: var(--font-kufi);
+}
+
+/* visible keyboard focus rings everywhere, per quality floor §8 */
+:focus-visible {
+  outline: 2px solid var(--color-brass);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+@keyframes stamp-press {
+  0% {
+    opacity: 0;
+    transform: scale(1.4) rotate(-8deg);
+  }
+  60% {
+    opacity: 1;
+    transform: scale(0.94) rotate(-8deg);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) rotate(-8deg);
+  }
+}
+
+.animate-stamp-press {
+  animation: stamp-press 320ms ease-out both;
+}

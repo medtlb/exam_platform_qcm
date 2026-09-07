@@ -1,0 +1,781 @@
+[
+  {
+    "id": "fr-0171",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quel mot est synonyme de « content » ?",
+    "options": [
+      { "id": "a", "text": "heureux" },
+      { "id": "b", "text": "triste" },
+      { "id": "c", "text": "fâché" },
+      { "id": "d", "text": "inquiet" },
+      { "id": "e", "text": "jaloux" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Heureux » exprime la même idée de satisfaction que « content » ; les autres mots expriment des émotions négatives."
+  },
+  {
+    "id": "fr-0172",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quel mot est l'antonyme de « grand » ?",
+    "options": [
+      { "id": "a", "text": "petit" },
+      { "id": "b", "text": "immense" },
+      { "id": "c", "text": "énorme" },
+      { "id": "d", "text": "haut" },
+      { "id": "e", "text": "large" },
+      { "id": "f", "text": "gigantesque" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Petit » est le contraire de « grand » ; « immense », « énorme » et « gigantesque » sont au contraire des synonymes renforcés de « grand »."
+  },
+  {
+    "id": "fr-0173",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Le document qui décrit les marchandises transportées et leur valeur, remis à la douane, s'appelle une",
+    "options": [
+      { "id": "a", "text": "déclaration" },
+      { "id": "b", "text": "facture" },
+      { "id": "c", "text": "quittance" },
+      { "id": "d", "text": "reçu" },
+      { "id": "e", "text": "convocation" }
+    ],
+    "correct": ["a"],
+    "explanation": "La « déclaration en douane » est le document officiel présentant les marchandises et leur valeur aux autorités douanières."
+  },
+  {
+    "id": "fr-0174",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Parmi ces mots, lequel appartient au registre familier pour désigner une voiture ?",
+    "options": [
+      { "id": "a", "text": "bagnole" },
+      { "id": "b", "text": "véhicule" },
+      { "id": "c", "text": "automobile" },
+      { "id": "d", "text": "voiture" },
+      { "id": "e", "text": "auto" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Bagnole » est un mot familier ; « véhicule », « automobile », « voiture » et « auto » appartiennent au registre courant."
+  },
+  {
+    "id": "fr-0175",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quel mot est synonyme de « commencer » ?",
+    "options": [
+      { "id": "a", "text": "débuter" },
+      { "id": "b", "text": "terminer" },
+      { "id": "c", "text": "finir" },
+      { "id": "d", "text": "achever" },
+      { "id": "e", "text": "continuer" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Débuter » signifie « commencer » ; les autres mots renvoient plutôt à la fin ou à la poursuite d'une action."
+  },
+  {
+    "id": "fr-0176",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quel mot est l'antonyme de « vendre » ?",
+    "options": [
+      { "id": "a", "text": "acheter" },
+      { "id": "b", "text": "offrir" },
+      { "id": "c", "text": "échanger" },
+      { "id": "d", "text": "payer" },
+      { "id": "e", "text": "livrer" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Acheter » est le contraire exact de « vendre », qui consiste à céder un bien contre paiement."
+  },
+  {
+    "id": "fr-0177",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots sont des synonymes de « triste » ?",
+    "options": [
+      { "id": "a", "text": "malheureux" },
+      { "id": "b", "text": "chagriné" },
+      { "id": "c", "text": "morose" },
+      { "id": "d", "text": "joyeux" },
+      { "id": "e", "text": "content" },
+      { "id": "f", "text": "enthousiaste" },
+      { "id": "g", "text": "ravi" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Malheureux », « chagriné » et « morose » expriment tous une forme de tristesse ; les autres mots expriment au contraire la joie."
+  },
+  {
+    "id": "fr-0178",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Une « marchandise » est",
+    "options": [
+      { "id": "a", "text": "un bien destiné à la vente ou au transport commercial" },
+      { "id": "b", "text": "un employé de la douane" },
+      { "id": "c", "text": "un document officiel d'identité" },
+      { "id": "d", "text": "un moyen de transport" },
+      { "id": "e", "text": "un lieu de stockage" }
+    ],
+    "correct": ["a"],
+    "explanation": "Une marchandise est un bien matériel qui fait l'objet d'un commerce, d'un transport ou d'un échange."
+  },
+  {
+    "id": "fr-0179",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Parmi ces mots, lesquels appartiennent au registre familier ?",
+    "options": [
+      { "id": "a", "text": "bouffe" },
+      { "id": "b", "text": "boulot" },
+      { "id": "c", "text": "nourriture" },
+      { "id": "d", "text": "travail" },
+      { "id": "e", "text": "emploi" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Bouffe » (pour nourriture) et « boulot » (pour travail) sont des mots familiers ; les autres appartiennent au registre courant."
+  },
+  {
+    "id": "fr-0180",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quel mot est synonyme de « acquérir » ?",
+    "options": [
+      { "id": "a", "text": "obtenir" },
+      { "id": "b", "text": "perdre" },
+      { "id": "c", "text": "vendre" },
+      { "id": "d", "text": "jeter" },
+      { "id": "e", "text": "offrir" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Acquérir » signifie « obtenir la propriété de quelque chose », comme « obtenir »."
+  },
+  {
+    "id": "fr-0181",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quel mot est l'antonyme de « importer » (faire entrer des marchandises dans un pays) ?",
+    "options": [
+      { "id": "a", "text": "exporter" },
+      { "id": "b", "text": "transporter" },
+      { "id": "c", "text": "déclarer" },
+      { "id": "d", "text": "stocker" },
+      { "id": "e", "text": "dédouaner" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Exporter » signifie faire sortir des marchandises d'un pays, ce qui est l'exact contraire d'« importer »."
+  },
+  {
+    "id": "fr-0182",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Une « redevance » est",
+    "options": [
+      { "id": "a", "text": "une somme à payer périodiquement pour l'utilisation d'un service ou d'un bien" },
+      { "id": "b", "text": "un remboursement accordé par l'administration fiscale" },
+      { "id": "c", "text": "une amende infligée pour une infraction douanière" },
+      { "id": "d", "text": "un document attestant l'identité du déclarant" },
+      { "id": "e", "text": "une réduction accordée sur le prix d'achat" },
+      { "id": "f", "text": "un contrat liant un employeur et un salarié" }
+    ],
+    "correct": ["a"],
+    "explanation": "Une redevance est une somme versée en contrepartie de l'usage d'un service ou d'un bien, comme une redevance douanière."
+  },
+  {
+    "id": "fr-0183",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots, désignant le travail, appartiennent au registre familier ?",
+    "options": [
+      { "id": "a", "text": "boulot" },
+      { "id": "b", "text": "taf" },
+      { "id": "c", "text": "emploi" },
+      { "id": "d", "text": "profession" },
+      { "id": "e", "text": "métier" },
+      { "id": "f", "text": "carrière" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Boulot » et « taf » sont des synonymes familiers de « travail » ; les autres mots relèvent du registre courant ou soutenu."
+  },
+  {
+    "id": "fr-0184",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Dans la phrase « Il a assisté à la réunion », le verbe « assister à » signifie",
+    "options": [
+      { "id": "a", "text": "être présent à" },
+      { "id": "b", "text": "aider activement" },
+      { "id": "c", "text": "remplacer une personne absente" },
+      { "id": "d", "text": "diriger une réunion" },
+      { "id": "e", "text": "organiser un événement" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Assister à » signifie simplement « être présent à » un événement, contrairement à « assister quelqu'un » qui signifie l'aider."
+  },
+  {
+    "id": "fr-0185",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quel préfixe, présent dans « exporter » et « extraire », signifie « en dehors de » ?",
+    "options": [
+      { "id": "a", "text": "ex-" },
+      { "id": "b", "text": "im-" },
+      { "id": "c", "text": "re-" },
+      { "id": "d", "text": "co-" },
+      { "id": "e", "text": "sur-" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le préfixe « ex- » indique un mouvement vers l'extérieur, comme dans « exporter » (faire sortir) ou « extraire » (tirer hors de)."
+  },
+  {
+    "id": "fr-0186",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots sont proches du sens de « vérifier » dans un contexte de contrôle douanier ?",
+    "options": [
+      { "id": "a", "text": "contrôler" },
+      { "id": "b", "text": "inspecter" },
+      { "id": "c", "text": "ignorer" },
+      { "id": "d", "text": "deviner" },
+      { "id": "e", "text": "approuver" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Contrôler » et « inspecter » signifient examiner attentivement pour s'assurer de la conformité, comme « vérifier »."
+  },
+  {
+    "id": "fr-0187",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots sont des antonymes de « autoriser » ?",
+    "options": [
+      { "id": "a", "text": "interdire" },
+      { "id": "b", "text": "prohiber" },
+      { "id": "c", "text": "défendre" },
+      { "id": "d", "text": "permettre" },
+      { "id": "e", "text": "approuver" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Interdire », « prohiber » et « défendre » (au sens de proscrire) signifient tous refuser une permission, contrairement à « autoriser »."
+  },
+  {
+    "id": "fr-0188",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Dans le contexte douanier, une « saisie » de marchandises désigne",
+    "options": [
+      { "id": "a", "text": "la confiscation de marchandises par l'administration" },
+      { "id": "b", "text": "un achat groupé de produits" },
+      { "id": "c", "text": "le transport sécurisé de marchandises" },
+      { "id": "d", "text": "la réparation d'un véhicule" },
+      { "id": "e", "text": "l'enregistrement informatique d'un document" }
+    ],
+    "correct": ["a"],
+    "explanation": "Dans le vocabulaire douanier, la « saisie » est l'action par laquelle l'administration confisque des marchandises, souvent en cas d'infraction."
+  },
+  {
+    "id": "fr-0189",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Laquelle de ces phrases est rédigée dans un registre soutenu ?",
+    "options": [
+      { "id": "a", "text": "Nous vous prions d'agréer, Madame, l'expression de nos salutations distinguées." },
+      { "id": "b", "text": "Salut, tu vas bien ?" },
+      { "id": "c", "text": "Bonjour, comment allez-vous ?" },
+      { "id": "d", "text": "Ça va, mec ?" },
+      { "id": "e", "text": "On se voit demain, d'accord ?" }
+    ],
+    "correct": ["a"],
+    "explanation": "La formule de politesse épistolaire est caractéristique du registre soutenu, employé dans la correspondance administrative."
+  },
+  {
+    "id": "fr-0190",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Dans la phrase « Il a évoqué ce problème lors de la réunion », le verbe « évoquer » signifie",
+    "options": [
+      { "id": "a", "text": "mentionner, faire allusion à" },
+      { "id": "b", "text": "invoquer comme justification légale" },
+      { "id": "c", "text": "convoquer une personne" },
+      { "id": "d", "text": "provoquer une dispute" },
+      { "id": "e", "text": "révoquer une décision" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Évoquer » signifie mentionner brièvement un sujet, à ne pas confondre avec « invoquer » (citer comme argument) ou « révoquer » (annuler)."
+  },
+  {
+    "id": "fr-0191",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le terme « contentieux », dans le vocabulaire administratif, désigne",
+    "options": [
+      { "id": "a", "text": "l'ensemble des litiges à régler par voie de droit" },
+      { "id": "b", "text": "un service comptable d'une entreprise" },
+      { "id": "c", "text": "un document douanier attestant l'origine" },
+      { "id": "d", "text": "une taxe supplémentaire sur les produits importés" },
+      { "id": "e", "text": "un accord amiable entre deux parties" },
+      { "id": "f", "text": "un inventaire des marchandises stockées" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le contentieux regroupe les litiges et désaccords qu'une administration ou un service doit traiter, souvent par voie juridique."
+  },
+  {
+    "id": "fr-0192",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "En matière douanière, la « mainlevée » désigne",
+    "options": [
+      { "id": "a", "text": "l'autorisation de retirer des marchandises retenues, après régularisation" },
+      { "id": "b", "text": "la saisie définitive des marchandises" },
+      { "id": "c", "text": "l'interdiction totale d'importer un produit" },
+      { "id": "d", "text": "le remboursement automatique des taxes payées" },
+      { "id": "e", "text": "une déclaration simplifiée sans contrôle" }
+    ],
+    "correct": ["a"],
+    "explanation": "La mainlevée est l'acte par lequel l'administration autorise le déclarant à disposer de marchandises jusque-là retenues."
+  },
+  {
+    "id": "fr-0193",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots sont des synonymes de « frauduleux » ?",
+    "options": [
+      { "id": "a", "text": "illicite" },
+      { "id": "b", "text": "illégal" },
+      { "id": "c", "text": "malhonnête" },
+      { "id": "d", "text": "licite" },
+      { "id": "e", "text": "autorisé" },
+      { "id": "f", "text": "légitime" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Illicite », « illégal » et « malhonnête » évoquent tous une action contraire à la loi ou à la probité, comme « frauduleux »."
+  },
+  {
+    "id": "fr-0194",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots sont des antonymes de « exonération » (dispense de payer une taxe) ?",
+    "options": [
+      { "id": "a", "text": "assujettissement" },
+      { "id": "b", "text": "imposition" },
+      { "id": "c", "text": "taxation" },
+      { "id": "d", "text": "dispense" },
+      { "id": "e", "text": "réduction" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Assujettissement », « imposition » et « taxation » signifient soumettre au paiement d'une taxe, contrairement à l'exonération qui en dispense."
+  },
+  {
+    "id": "fr-0195",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Dans « Nonobstant les dispositions précédentes, ce texte s'applique... », le mot « nonobstant » signifie",
+    "options": [
+      { "id": "a", "text": "malgré, en dépit de" },
+      { "id": "b", "text": "à cause de" },
+      { "id": "c", "text": "grâce à" },
+      { "id": "d", "text": "avant" },
+      { "id": "e", "text": "après" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Nonobstant » est un terme de style administratif et juridique signifiant « malgré », « sans tenir compte de »."
+  },
+  {
+    "id": "fr-0196",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Lesquels de ces adjectifs contiennent un suffixe « -able » indiquant qu'une action est possible (« qui peut être... ») ?",
+    "options": [
+      { "id": "a", "text": "dédouanable" },
+      { "id": "b", "text": "taxable" },
+      { "id": "c", "text": "exportable" },
+      { "id": "d", "text": "agréable" },
+      { "id": "e", "text": "rapide" },
+      { "id": "f", "text": "soudain" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Dédouanable », « taxable » et « exportable » signifient respectivement « qui peut être dédouané, taxé, exporté » ; les autres mots ne suivent pas ce schéma."
+  },
+  {
+    "id": "fr-0197",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "En français standard, le verbe « demander » signifie",
+    "options": [
+      { "id": "a", "text": "solliciter poliment quelque chose" },
+      { "id": "b", "text": "exiger fermement quelque chose" },
+      { "id": "c", "text": "ordonner à quelqu'un" },
+      { "id": "d", "text": "réclamer avec insistance et autorité" },
+      { "id": "e", "text": "revendiquer un droit par la force" },
+      { "id": "f", "text": "commander impérativement" }
+    ],
+    "correct": ["a"],
+    "explanation": "Contrairement à ce que suggère l'anglais « demand », le français « demander » signifie seulement solliciter poliment, sans idée d'exigence."
+  },
+  {
+    "id": "fr-0198",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Un « entrepôt sous douane » est",
+    "options": [
+      { "id": "a", "text": "un lieu de stockage de marchandises en attente de dédouanement" },
+      { "id": "b", "text": "un bureau chargé du contrôle des passeports" },
+      { "id": "c", "text": "un tribunal spécialisé dans les litiges douaniers" },
+      { "id": "d", "text": "une zone réservée exclusivement à l'exportation" },
+      { "id": "e", "text": "le siège administratif de la douane nationale" }
+    ],
+    "correct": ["a"],
+    "explanation": "L'entrepôt sous douane permet de stocker des marchandises importées sans que les droits et taxes n'aient encore été acquittés."
+  },
+  {
+    "id": "fr-0199",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Parmi ces expressions, lesquelles relèvent du registre familier ?",
+    "options": [
+      { "id": "a", "text": "c'est du pipeau" },
+      { "id": "b", "text": "il a raison" },
+      { "id": "c", "text": "il a bossé dur" },
+      { "id": "d", "text": "il a travaillé assidûment" },
+      { "id": "e", "text": "il faut se magner" }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« C'est du pipeau », « bosser » et « se magner » sont des expressions familières ; les autres relèvent du registre courant ou soutenu."
+  },
+  {
+    "id": "fr-0200",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Dans la phrase « Le danger est imminent », l'adjectif « imminent » signifie",
+    "options": [
+      { "id": "a", "text": "sur le point de se produire" },
+      { "id": "b", "text": "très important, remarquable" },
+      { "id": "c", "text": "déjà survenu" },
+      { "id": "d", "text": "peu probable" },
+      { "id": "e", "text": "définitivement écarté" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Imminent » signifie qu'un événement va se produire très bientôt, à ne pas confondre avec le paronyme « éminent » (remarquable, illustre)."
+  },
+  {
+    "id": "fr-0201",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Dans la phrase « La conjoncture économique est difficile », le mot « conjoncture » signifie",
+    "options": [
+      { "id": "a", "text": "la situation économique du moment" },
+      { "id": "b", "text": "une hypothèse non vérifiée" },
+      { "id": "c", "text": "un accord commercial international" },
+      { "id": "d", "text": "une réunion officielle" },
+      { "id": "e", "text": "une prévision incertaine" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Conjoncture » désigne l'état général d'une situation à un moment donné, à ne pas confondre avec le paronyme « conjecture » (hypothèse)."
+  },
+  {
+    "id": "fr-0202",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots se rapprochent du sens de « diligence » dans « traiter un dossier avec diligence » ?",
+    "options": [
+      { "id": "a", "text": "promptitude" },
+      { "id": "b", "text": "célérité" },
+      { "id": "c", "text": "empressement" },
+      { "id": "d", "text": "lenteur" },
+      { "id": "e", "text": "négligence" },
+      { "id": "f", "text": "retard" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "Dans ce sens, « diligence » signifie rapidité et soin dans l'exécution, comme « promptitude », « célérité » et « empressement »."
+  },
+  {
+    "id": "fr-0203",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Que signifie le préfixe « extra- » dans le mot « extra-muros » ?",
+    "options": [
+      { "id": "a", "text": "en dehors de" },
+      { "id": "b", "text": "à l'intérieur de" },
+      { "id": "c", "text": "au-dessus de" },
+      { "id": "d", "text": "avant" },
+      { "id": "e", "text": "contre" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le préfixe « extra- » signifie « en dehors de », comme dans « extra-muros » (hors des murs de la ville)."
+  },
+  {
+    "id": "fr-0204",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lesquels de ces verbes sont des synonymes soutenus de « voler » (dérober un bien) ?",
+    "options": [
+      { "id": "a", "text": "dérober" },
+      { "id": "b", "text": "subtiliser" },
+      { "id": "c", "text": "soustraire frauduleusement" },
+      { "id": "d", "text": "emprunter" },
+      { "id": "e", "text": "offrir" },
+      { "id": "f", "text": "restituer" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Dérober », « subtiliser » et « soustraire frauduleusement » signifient prendre le bien d'autrui sans droit, contrairement aux trois derniers mots."
+  },
+  {
+    "id": "fr-0205",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots se rapprochent du sens de « prérogative » ?",
+    "options": [
+      { "id": "a", "text": "privilège" },
+      { "id": "b", "text": "droit particulier attaché à une fonction" },
+      { "id": "c", "text": "avantage exclusif" },
+      { "id": "d", "text": "obligation" },
+      { "id": "e", "text": "sanction" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "Une prérogative est un droit ou un avantage exclusif attaché à une fonction ou un statut, non une obligation ni une sanction."
+  },
+  {
+    "id": "fr-0206",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Dans l'expression « son acception juridique », le mot « acception » signifie",
+    "options": [
+      { "id": "a", "text": "le sens particulier donné à un mot" },
+      { "id": "b", "text": "l'accord donné à une proposition" },
+      { "id": "c", "text": "l'approbation officielle d'un document" },
+      { "id": "d", "text": "une exception à une règle générale" },
+      { "id": "e", "text": "la signature d'un contrat" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Acception » désigne le sens précis dans lequel un mot est employé, à ne pas confondre avec le paronyme « acceptation » (le fait d'accepter)."
+  },
+  {
+    "id": "fr-0207",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lesquels de ces verbes, synonymes de « tromper », relèvent d'un registre soutenu ?",
+    "options": [
+      { "id": "a", "text": "leurrer" },
+      { "id": "b", "text": "abuser" },
+      { "id": "c", "text": "duper" },
+      { "id": "d", "text": "rouler" },
+      { "id": "e", "text": "arnaquer" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "« Leurrer » et « abuser » appartiennent au registre soutenu ; « duper » est courant, « rouler » et « arnaquer » sont familiers."
+  },
+  {
+    "id": "fr-0208",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Que signifie le préfixe « co- » dans le mot « colocataire » ?",
+    "options": [
+      { "id": "a", "text": "ensemble, avec" },
+      { "id": "b", "text": "contre" },
+      { "id": "c", "text": "au-dessus" },
+      { "id": "d", "text": "en dehors de" },
+      { "id": "e", "text": "avant" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le préfixe « co- » exprime l'idée d'association, de partage, comme dans « colocataire » (personne qui loue avec une autre)."
+  },
+  {
+    "id": "fr-0209",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "En droit, une personne « forclose » est une personne qui",
+    "options": [
+      { "id": "a", "text": "a perdu le droit d'agir en raison de l'expiration d'un délai" },
+      { "id": "b", "text": "est exemptée d'une obligation légale" },
+      { "id": "c", "text": "bénéficie d'un sursis de paiement" },
+      { "id": "d", "text": "a obtenu gain de cause dans un procès" },
+      { "id": "e", "text": "a été mise en demeure de payer" }
+    ],
+    "correct": ["a"],
+    "explanation": "La forclusion est la déchéance d'un droit qui n'a pas été exercé dans le délai légalement fixé."
+  },
+  {
+    "id": "fr-0210",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Lesquels de ces adverbes sont proches du sens de « sciemment » (en connaissance de cause) ?",
+    "options": [
+      { "id": "a", "text": "délibérément" },
+      { "id": "b", "text": "volontairement" },
+      { "id": "c", "text": "consciemment" },
+      { "id": "d", "text": "involontairement" },
+      { "id": "e", "text": "accidentellement" },
+      { "id": "f", "text": "par mégarde" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Sciemment » signifie agir en toute connaissance de cause, volontairement, comme « délibérément » et « consciemment »."
+  },
+  {
+    "id": "fr-0211",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Lesquels de ces mots ou expressions appartiennent au registre juridique et administratif soutenu ?",
+    "options": [
+      { "id": "a", "text": "nonobstant" },
+      { "id": "b", "text": "ester en justice" },
+      { "id": "c", "text": "truc" },
+      { "id": "d", "text": "subroger" },
+      { "id": "e", "text": "machin" },
+      { "id": "f", "text": "un truc du genre" }
+    ],
+    "correct": ["a", "b", "d"],
+    "explanation": "« Nonobstant », « ester en justice » (agir en justice) et « subroger » (remplacer dans un droit) sont des termes juridiques soutenus ; les autres sont familiers et vagues."
+  },
+  {
+    "id": "fr-0212",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "« L'exigibilité d'une dette » désigne",
+    "options": [
+      { "id": "a", "text": "le caractère d'une dette qui peut être réclamée immédiatement" },
+      { "id": "b", "text": "la remise gracieuse d'une dette" },
+      { "id": "c", "text": "la prescription d'une créance" },
+      { "id": "d", "text": "une garantie bancaire" },
+      { "id": "e", "text": "un échéancier de paiement" }
+    ],
+    "correct": ["a"],
+    "explanation": "Une dette exigible est une dette dont le paiement peut être immédiatement réclamé par le créancier."
+  },
+  {
+    "id": "fr-0213",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans un texte administratif, l'expression latine « in fine » signifie",
+    "options": [
+      { "id": "a", "text": "à la fin du texte" },
+      { "id": "b", "text": "au début du texte" },
+      { "id": "c", "text": "entre les lignes" },
+      { "id": "d", "text": "en résumé" },
+      { "id": "e", "text": "sous condition" }
+    ],
+    "correct": ["a"],
+    "explanation": "« In fine » est une locution latine employée en style administratif et juridique pour renvoyer à la fin d'un texte."
+  },
+  {
+    "id": "fr-0214",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans l'expression « l'enfant prodigue », l'adjectif « prodigue » signifie",
+    "options": [
+      { "id": "a", "text": "qui dépense sans compter, qui gaspille" },
+      { "id": "b", "text": "qui fait preuve d'un talent exceptionnel" },
+      { "id": "c", "text": "qui est très économe" },
+      { "id": "d", "text": "qui est reconnaissant" },
+      { "id": "e", "text": "qui est repentant" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Prodigue » qualifie celui qui dépense sans compter, à ne pas confondre avec le paronyme « prodige » (personne d'un talent exceptionnel)."
+  },
+  {
+    "id": "fr-0215",
+    "section": "french",
+    "topic": "vocabulaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Lesquels de ces verbes sont des synonymes soutenus de « annuler » un acte juridique ?",
+    "options": [
+      { "id": "a", "text": "abroger" },
+      { "id": "b", "text": "révoquer" },
+      { "id": "c", "text": "résilier" },
+      { "id": "d", "text": "créer" },
+      { "id": "e", "text": "ratifier" },
+      { "id": "f", "text": "entériner" }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« Abroger », « révoquer » et « résilier » signifient mettre fin à un acte juridique, alors que « ratifier » et « entériner » signifient au contraire le valider."
+  }
+]

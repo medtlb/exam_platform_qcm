@@ -1,0 +1,485 @@
+[
+  {
+    "id": "fr-0071",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Je ___ étudiant à l'université de Nouakchott.",
+    "options": [
+      { "id": "a", "text": "suis" },
+      { "id": "b", "text": "es" },
+      { "id": "c", "text": "est" },
+      { "id": "d", "text": "sommes" },
+      { "id": "e", "text": "êtes" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe « être » se conjugue « je suis » à la première personne du singulier au présent de l'indicatif."
+  },
+  {
+    "id": "fr-0072",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Nous ___ deux frères et une sœur.",
+    "options": [
+      { "id": "a", "text": "avez" },
+      { "id": "b", "text": "avons" },
+      { "id": "c", "text": "as" },
+      { "id": "d", "text": "ont" },
+      { "id": "e", "text": "a" }
+    ],
+    "correct": ["b"],
+    "explanation": "Le verbe « avoir » se conjugue « nous avons » à la première personne du pluriel au présent."
+  },
+  {
+    "id": "fr-0073",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Tu ___ à l'école tous les matins.",
+    "options": [
+      { "id": "a", "text": "vas" },
+      { "id": "b", "text": "va" },
+      { "id": "c", "text": "vais" },
+      { "id": "d", "text": "allez" },
+      { "id": "e", "text": "vont" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe « aller » se conjugue « tu vas » à la deuxième personne du singulier au présent."
+  },
+  {
+    "id": "fr-0074",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases où le verbe « faire » est correctement conjugué au présent.",
+    "options": [
+      { "id": "a", "text": "Il fait ses devoirs avant le dîner." },
+      { "id": "b", "text": "Nous faisons un exercice difficile." },
+      { "id": "c", "text": "Vous faisez trop de bruit." },
+      { "id": "d", "text": "Ils fait une erreur." },
+      { "id": "e", "text": "Je fais attention aux consignes." }
+    ],
+    "correct": ["a", "b", "e"],
+    "explanation": "« a », « b » et « e » sont correctement conjuguées ; « vous faisez » doit être « vous faites » et « ils fait » doit être « ils font »."
+  },
+  {
+    "id": "fr-0075",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quelle forme complète correctement : « Elle ___ à Nouadhibou. » (verbe habiter, présent) ?",
+    "options": [
+      { "id": "a", "text": "habite" },
+      { "id": "b", "text": "habites" },
+      { "id": "c", "text": "habitent" },
+      { "id": "d", "text": "habitons" },
+      { "id": "e", "text": "habitez" }
+    ],
+    "correct": ["a"],
+    "explanation": "Les verbes du premier groupe prennent « -e » à la troisième personne du singulier du présent : « elle habite »."
+  },
+  {
+    "id": "fr-0076",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Vous ___ raison de vérifier vos documents avant de partir.",
+    "options": [
+      { "id": "a", "text": "avez" },
+      { "id": "b", "text": "avons" },
+      { "id": "c", "text": "as" },
+      { "id": "d", "text": "ai" },
+      { "id": "e", "text": "ont" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe « avoir » se conjugue « vous avez » à la deuxième personne du pluriel au présent."
+  },
+  {
+    "id": "fr-0077",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Hier, je ___ au marché pour acheter des fruits.",
+    "options": [
+      { "id": "a", "text": "suis allé" },
+      { "id": "b", "text": "ai allé" },
+      { "id": "c", "text": "vais" },
+      { "id": "d", "text": "allais" },
+      { "id": "e", "text": "irai" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe « aller » se conjugue avec l'auxiliaire « être » au passé composé : « je suis allé »."
+  },
+  {
+    "id": "fr-0078",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Nous ___ ce document important la semaine dernière.",
+    "options": [
+      { "id": "a", "text": "avons signé" },
+      { "id": "b", "text": "sommes signé" },
+      { "id": "c", "text": "avons signer" },
+      { "id": "d", "text": "signons" },
+      { "id": "e", "text": "avions signé" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe « signer » se forme avec l'auxiliaire « avoir » au passé composé et le participe passé « signé »."
+  },
+  {
+    "id": "fr-0079",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases où l'imparfait exprime correctement une habitude passée.",
+    "options": [
+      { "id": "a", "text": "Quand j'étais enfant, j'allais souvent à la plage." },
+      { "id": "b", "text": "Chaque été, nous visitions nos cousins." },
+      { "id": "c", "text": "Autrefois, tu jouais dans ce jardin." },
+      { "id": "d", "text": "Souvent, ils prenait le bus ensemble." },
+      { "id": "e", "text": "L'année dernière, elle a déménageait à Nouakchott." }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« a », « b » et « c » sont correctement conjuguées à l'imparfait ; « ils prenait » doit être « ils prenaient » et « a déménageait » mélange deux temps de façon incorrecte."
+  },
+  {
+    "id": "fr-0080",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Demain, les inspecteurs ___ le port de Nouakchott.",
+    "options": [
+      { "id": "a", "text": "visiteront" },
+      { "id": "b", "text": "visitent" },
+      { "id": "c", "text": "visitaient" },
+      { "id": "d", "text": "visiteraient" },
+      { "id": "e", "text": "ont visité" }
+    ],
+    "correct": ["a"],
+    "explanation": "L'adverbe « demain » indique le futur simple : « ils visiteront »."
+  },
+  {
+    "id": "fr-0081",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases correctement conjuguées au passé composé.",
+    "options": [
+      { "id": "a", "text": "Elle a fini son rapport hier soir." },
+      { "id": "b", "text": "Ils sont partis très tôt ce matin." },
+      { "id": "c", "text": "Nous avons finis notre travail." },
+      { "id": "d", "text": "Vous avez pris la bonne décision." },
+      { "id": "e", "text": "Je suis parti à l'heure." },
+      { "id": "f", "text": "Tu as prendu le bon dossier." }
+    ],
+    "correct": ["a", "b", "d", "e"],
+    "explanation": "« a », « b », « d » et « e » respectent l'accord et la forme du participe passé ; « avons finis » et « as prendu » sont des erreurs de conjugaison."
+  },
+  {
+    "id": "fr-0082",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le mois prochain, je ___ mon travail au bureau des douanes.",
+    "options": [
+      { "id": "a", "text": "commencerai" },
+      { "id": "b", "text": "commence" },
+      { "id": "c", "text": "commençais" },
+      { "id": "d", "text": "commencerais" },
+      { "id": "e", "text": "ai commencé" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Le mois prochain » annonce une action future ; le futur simple « je commencerai » est donc requis."
+  },
+  {
+    "id": "fr-0083",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Si j'avais le temps, je ___ ce dossier avec plus d'attention.",
+    "options": [
+      { "id": "a", "text": "examinerais" },
+      { "id": "b", "text": "examinerai" },
+      { "id": "c", "text": "examine" },
+      { "id": "d", "text": "avais examiné" },
+      { "id": "e", "text": "examinais" }
+    ],
+    "correct": ["a"],
+    "explanation": "Après « si + imparfait », la principale se met au conditionnel présent : « j'examinerais »."
+  },
+  {
+    "id": "fr-0084",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Il faut que tu ___ ce formulaire avant midi.",
+    "options": [
+      { "id": "a", "text": "remplisses" },
+      { "id": "b", "text": "remplis" },
+      { "id": "c", "text": "rempliras" },
+      { "id": "d", "text": "remplirais" },
+      { "id": "e", "text": "remplit" }
+    ],
+    "correct": ["a"],
+    "explanation": "L'expression « il faut que » impose le subjonctif présent ; « que tu remplisses » est la forme correcte."
+  },
+  {
+    "id": "fr-0085",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le douanier a expliqué que les marchandises ___ contrôlées le lendemain.",
+    "options": [
+      { "id": "a", "text": "seraient" },
+      { "id": "b", "text": "seront" },
+      { "id": "c", "text": "sont" },
+      { "id": "d", "text": "étaient" },
+      { "id": "e", "text": "auraient été" },
+      { "id": "f", "text": "furent" }
+    ],
+    "correct": ["a"],
+    "explanation": "Dans un discours rapporté au passé, le futur du discours direct devient conditionnel présent : « seraient »."
+  },
+  {
+    "id": "fr-0086",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases où le subjonctif présent est correctement employé.",
+    "options": [
+      { "id": "a", "text": "Je doute qu'il vienne à temps." },
+      { "id": "b", "text": "Il faut que nous soyons prêts." },
+      { "id": "c", "text": "Je pense qu'il vienne demain." },
+      { "id": "d", "text": "Bien qu'il pleuve, nous partons." },
+      { "id": "e", "text": "Il est possible qu'elle sache la réponse." },
+      { "id": "f", "text": "Je crois qu'il vienne ce soir." }
+    ],
+    "correct": ["a", "b", "d", "e"],
+    "explanation": "Le doute, l'obligation, la concession et la possibilité appellent le subjonctif ; « penser » et « croire » à la forme affirmative appellent l'indicatif, non le subjonctif."
+  },
+  {
+    "id": "fr-0087",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Dès que les agents ___ leur service, ils inspectent les conteneurs.",
+    "options": [
+      { "id": "a", "text": "prennent" },
+      { "id": "b", "text": "prenaient" },
+      { "id": "c", "text": "prendraient" },
+      { "id": "d", "text": "aient pris" },
+      { "id": "e", "text": "prendront" }
+    ],
+    "correct": ["a"],
+    "explanation": "Deux actions habituelles et simultanées au présent s'expriment au présent de l'indicatif dans les deux propositions."
+  },
+  {
+    "id": "fr-0088",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases où le verbe est correctement conjugué au conditionnel présent.",
+    "options": [
+      { "id": "a", "text": "Nous voudrions régler ce litige rapidement." },
+      { "id": "b", "text": "Je pourrais vous aider demain." },
+      { "id": "c", "text": "Ils devraient signer ce document." },
+      { "id": "d", "text": "Nous voulrions un délai supplémentaire." },
+      { "id": "e", "text": "Ils pouraient nous contacter." }
+    ],
+    "correct": ["a", "b", "c"],
+    "explanation": "« a », « b » et « c » respectent la formation du conditionnel présent ; « voulrions » et « pouraient » sont des erreurs de radical, les formes correctes étant « voudrions » et « pourraient »."
+  },
+  {
+    "id": "fr-0089",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le directeur a exigé que le rapport ___ déposé avant vendredi.",
+    "options": [
+      { "id": "a", "text": "fût" },
+      { "id": "b", "text": "soit" },
+      { "id": "c", "text": "sera" },
+      { "id": "d", "text": "était" },
+      { "id": "e", "text": "serait" }
+    ],
+    "correct": ["b"],
+    "explanation": "Après un verbe d'exigence comme « exiger que », le subjonctif présent est employé dans le registre courant, même si la principale est au passé."
+  },
+  {
+    "id": "fr-0090",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases où la concordance des temps après « si » est correctement respectée.",
+    "options": [
+      { "id": "a", "text": "Si nous avions su, nous aurions réagi plus vite." },
+      { "id": "b", "text": "Si tu étudiais davantage, tu réussirais tes examens." },
+      { "id": "c", "text": "Si j'ai le temps, j'irai vous voir." },
+      { "id": "d", "text": "Si vous auriez vérifié les documents, l'erreur aurait été évitée." },
+      { "id": "e", "text": "Si elle avait pris le bus, elle serait arrivée à l'heure." },
+      { "id": "f", "text": "Si nous serions prêts, nous partirions immédiatement." }
+    ],
+    "correct": ["a", "b", "c", "e"],
+    "explanation": "Après « si », on n'emploie jamais le conditionnel : « d » et « f » sont fautives car « auriez vérifié » et « serions » doivent être respectivement à l'indicatif « aviez vérifié » et à l'imparfait « étions »."
+  },
+  {
+    "id": "fr-0091",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelles phrases respectent correctement la concordance des temps ?",
+    "options": [
+      { "id": "a", "text": "Il a dit qu'il viendrait dès qu'il aurait fini son travail." },
+      { "id": "b", "text": "Elle m'a affirmé qu'elle avait déjà envoyé le dossier." },
+      { "id": "c", "text": "Il a dit qu'il viendra dès qu'il a fini." },
+      { "id": "d", "text": "Nous savions qu'il partirait le lendemain." },
+      { "id": "e", "text": "Je pensais qu'il est déjà arrivé." },
+      { "id": "f", "text": "Elle a expliqué que le colis serait livré la veille." }
+    ],
+    "correct": ["a", "b", "d"],
+    "explanation": "Dans un discours rapporté au passé, le futur devient conditionnel présent et le passé composé devient plus-que-parfait, comme dans « a », « b » et « d »."
+  },
+  {
+    "id": "fr-0092",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Bien que les fonctionnaires ___ tous les documents, le dossier a été rejeté.",
+    "options": [
+      { "id": "a", "text": "aient vérifié" },
+      { "id": "b", "text": "ont vérifié" },
+      { "id": "c", "text": "avaient vérifié" },
+      { "id": "d", "text": "vérifiaient" },
+      { "id": "e", "text": "auraient vérifié" }
+    ],
+    "correct": ["a"],
+    "explanation": "La locution concessive « bien que » exige le subjonctif ; au passé, on emploie le subjonctif passé « aient vérifié »."
+  },
+  {
+    "id": "fr-0093",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le juge aurait souhaité que l'accusé ___ la vérité plus tôt.",
+    "options": [
+      { "id": "a", "text": "eût dit" },
+      { "id": "b", "text": "dise" },
+      { "id": "c", "text": "avait dit" },
+      { "id": "d", "text": "dira" },
+      { "id": "e", "text": "aurait dit" },
+      { "id": "f", "text": "disait" }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "Après « souhaiter que » au conditionnel, le registre soutenu admet le subjonctif plus-que-parfait « eût dit », et le registre courant admet le subjonctif présent « dise »."
+  },
+  {
+    "id": "fr-0094",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le décret stipule que les agents ___ soumis à une évaluation annuelle, quelles que soient leurs fonctions.",
+    "options": [
+      { "id": "a", "text": "soient" },
+      { "id": "b", "text": "sont" },
+      { "id": "c", "text": "seront" },
+      { "id": "d", "text": "seraient" },
+      { "id": "e", "text": "étaient" }
+    ],
+    "correct": ["b"],
+    "explanation": "Le verbe « stipuler que », qui exprime une constatation factuelle et non un souhait, se construit avec l'indicatif : « sont »."
+  },
+  {
+    "id": "fr-0095",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Sélectionnez les formulations correctes du registre administratif.",
+    "options": [
+      { "id": "a", "text": "Nous vous saurions gré de bien vouloir transmettre les pièces requises." },
+      { "id": "b", "text": "Il conviendrait que vous nous fassiez parvenir votre réponse sous huitaine." },
+      { "id": "c", "text": "Nous vous serions reconnaissants que vous transmettez le dossier." },
+      { "id": "d", "text": "Il eût été souhaitable que la demande fût déposée dans les délais." },
+      { "id": "e", "text": "Nous souhaiterons que vous répondez rapidement." },
+      { "id": "f", "text": "Il aurait fallu que le dossier soit complet avant l'audience." }
+    ],
+    "correct": ["a", "b", "d", "f"],
+    "explanation": "« a », « b », « d » et « f » emploient correctement le conditionnel et le subjonctif du registre soutenu ; « c » et « e » comportent des erreurs de mode ou de temps."
+  },
+  {
+    "id": "fr-0096",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "À supposer que la marchandise ___ déclarée frauduleusement, quelles sanctions s'appliqueraient ?",
+    "options": [
+      { "id": "a", "text": "ait été" },
+      { "id": "b", "text": "a été" },
+      { "id": "c", "text": "aura été" },
+      { "id": "d", "text": "était" },
+      { "id": "e", "text": "eût été" }
+    ],
+    "correct": ["a", "e"],
+    "explanation": "La locution « à supposer que » exige le subjonctif ; le subjonctif passé « ait été » est la forme courante, et « eût été » la variante soutenue équivalente."
+  },
+  {
+    "id": "fr-0097",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Si le règlement avait été appliqué avec rigueur, les infractions ne se ___ pas reproduites.",
+    "options": [
+      { "id": "a", "text": "seraient" },
+      { "id": "b", "text": "sont" },
+      { "id": "c", "text": "seront" },
+      { "id": "d", "text": "avaient" },
+      { "id": "e", "text": "auraient" }
+    ],
+    "correct": ["a"],
+    "explanation": "Après « si + plus-que-parfait », la conséquence se met au conditionnel passé : « se seraient reproduites »."
+  },
+  {
+    "id": "fr-0098",
+    "section": "french",
+    "topic": "conjugaison",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Quelle que fût l'issue de l'enquête, les inspecteurs ___ tenus de rédiger un rapport circonstancié.",
+    "options": [
+      { "id": "a", "text": "demeuraient" },
+      { "id": "b", "text": "demeurassent" },
+      { "id": "c", "text": "eussent demeuré" },
+      { "id": "d", "text": "auraient demeuré" },
+      { "id": "e", "text": "demeureraient" }
+    ],
+    "correct": ["a"],
+    "explanation": "Malgré le subjonctif imparfait « fût » dans la concessive, la proposition principale reste à l'indicatif imparfait : « demeuraient »."
+  }
+]

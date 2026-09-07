@@ -1,0 +1,608 @@
+[
+  {
+    "id": "fr-0001",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "___ table que tu vois là-bas est très ancienne.",
+    "options": [
+      { "id": "a", "text": "Les" },
+      { "id": "b", "text": "La" },
+      { "id": "c", "text": "Un" },
+      { "id": "d", "text": "Une" },
+      { "id": "e", "text": "Le" }
+    ],
+    "correct": ["b"],
+    "explanation": "« La » est l'article défini féminin singulier qui convient devant « table », un nom féminin désigné précisément par la relative « que tu vois là-bas »."
+  },
+  {
+    "id": "fr-0002",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Lequel de ces mots est un article indéfini pluriel ?",
+    "options": [
+      { "id": "a", "text": "la" },
+      { "id": "b", "text": "un" },
+      { "id": "c", "text": "des" },
+      { "id": "d", "text": "le" },
+      { "id": "e", "text": "une" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Des » est la forme plurielle de l'article indéfini ; « un » et « une » sont ses formes singulières, « le » et « la » sont des articles définis."
+  },
+  {
+    "id": "fr-0003",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Je vais ___ France cet été.",
+    "options": [
+      { "id": "a", "text": "au" },
+      { "id": "b", "text": "à" },
+      { "id": "c", "text": "en" },
+      { "id": "d", "text": "aux" },
+      { "id": "e", "text": "dans" }
+    ],
+    "correct": ["c"],
+    "explanation": "On emploie « en » devant les noms de pays féminins, comme « en France »."
+  },
+  {
+    "id": "fr-0004",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Le livre est ___ la table.",
+    "options": [
+      { "id": "a", "text": "sous" },
+      { "id": "b", "text": "entre" },
+      { "id": "c", "text": "avec" },
+      { "id": "d", "text": "sur" },
+      { "id": "e", "text": "dans" }
+    ],
+    "correct": ["d"],
+    "explanation": "« Sur » indique que le livre est posé au-dessus de la table."
+  },
+  {
+    "id": "fr-0005",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "___ parlons français à la maison.",
+    "options": [
+      { "id": "a", "text": "Il" },
+      { "id": "b", "text": "Vous" },
+      { "id": "c", "text": "Nous" },
+      { "id": "d", "text": "Tu" },
+      { "id": "e", "text": "Ils" }
+    ],
+    "correct": ["c"],
+    "explanation": "La terminaison « -ons » du verbe correspond à la première personne du pluriel, donc au pronom « nous »."
+  },
+  {
+    "id": "fr-0006",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quels mots peuvent précéder directement un nom féminin singulier ?",
+    "options": [
+      { "id": "a", "text": "le" },
+      { "id": "b", "text": "la" },
+      { "id": "c", "text": "un" },
+      { "id": "d", "text": "une" },
+      { "id": "e", "text": "les" }
+    ],
+    "correct": ["b", "d"],
+    "explanation": "« La » et « une » sont respectivement l'article défini et l'article indéfini féminins singuliers ; « le » et « un » sont masculins et « les » est pluriel."
+  },
+  {
+    "id": "fr-0007",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quelle phrase est correctement construite ?",
+    "options": [
+      { "id": "a", "text": "Mange le chat la souris." },
+      { "id": "b", "text": "La souris le chat mange." },
+      { "id": "c", "text": "Le chat mange la souris." },
+      { "id": "d", "text": "Chat le souris la mange." },
+      { "id": "e", "text": "Le mange chat la souris." }
+    ],
+    "correct": ["c"],
+    "explanation": "Seule la phrase « Le chat mange la souris » respecte l'ordre sujet-verbe-complément du français standard."
+  },
+  {
+    "id": "fr-0008",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Je parle ___ directeur du service.",
+    "options": [
+      { "id": "a", "text": "à la" },
+      { "id": "b", "text": "du" },
+      { "id": "c", "text": "à le" },
+      { "id": "d", "text": "au" },
+      { "id": "e", "text": "aux" },
+      { "id": "f", "text": "de le" }
+    ],
+    "correct": ["d"],
+    "explanation": "La préposition « à » se contracte obligatoirement avec l'article « le » pour donner « au » ; « à le » et « de le » n'existent pas en français."
+  },
+  {
+    "id": "fr-0009",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Il pense souvent ___ ses vacances au bord de la mer.",
+    "options": [
+      { "id": "a", "text": "de" },
+      { "id": "b", "text": "en" },
+      { "id": "c", "text": "à" },
+      { "id": "d", "text": "pour" },
+      { "id": "e", "text": "avec" }
+    ],
+    "correct": ["c"],
+    "explanation": "Le verbe « penser à » se construit avec la préposition « à » lorsqu'il exprime le fait d'avoir quelque chose à l'esprit."
+  },
+  {
+    "id": "fr-0010",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "La femme ___ travaille ici est ma mère.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "dont" },
+      { "id": "c", "text": "qui" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "laquelle" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Qui » remplace le sujet « la femme » dans la proposition relative, car c'est elle qui accomplit l'action de travailler."
+  },
+  {
+    "id": "fr-0011",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le livre ___ je lis est très intéressant.",
+    "options": [
+      { "id": "a", "text": "qui" },
+      { "id": "b", "text": "où" },
+      { "id": "c", "text": "dont" },
+      { "id": "d", "text": "que" },
+      { "id": "e", "text": "quoi" }
+    ],
+    "correct": ["d"],
+    "explanation": "« Que » remplace le complément d'objet direct « le livre » dans la relative, puisque c'est ce qu'on lit."
+  },
+  {
+    "id": "fr-0012",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Voici la ville ___ je suis né.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "qui" },
+      { "id": "c", "text": "dont" },
+      { "id": "d", "text": "laquelle" },
+      { "id": "e", "text": "où" }
+    ],
+    "correct": ["e"],
+    "explanation": "« Où » remplace un complément de lieu, ici la ville dans laquelle la naissance a eu lieu."
+  },
+  {
+    "id": "fr-0013",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quels mots peuvent compléter correctement : « Marie est ___ grande que Paul » ?",
+    "options": [
+      { "id": "a", "text": "très" },
+      { "id": "b", "text": "plus" },
+      { "id": "c", "text": "aussi" },
+      { "id": "d", "text": "moins" },
+      { "id": "e", "text": "bien" }
+    ],
+    "correct": ["b", "c", "d"],
+    "explanation": "« Plus », « aussi » et « moins » forment des structures comparatives avec « que » ; « très » et « bien » ne s'emploient pas avec « que » dans une comparaison."
+  },
+  {
+    "id": "fr-0014",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Elle est ___ très tôt ce matin. (partir)",
+    "options": [
+      { "id": "a", "text": "parti" },
+      { "id": "b", "text": "partis" },
+      { "id": "c", "text": "partie" },
+      { "id": "d", "text": "parties" },
+      { "id": "e", "text": "parte" }
+    ],
+    "correct": ["c"],
+    "explanation": "Avec l'auxiliaire « être », le participe passé s'accorde avec le sujet ; « elle » est féminin singulier, d'où « partie »."
+  },
+  {
+    "id": "fr-0015",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Lesquelles de ces expressions sont des négations correctes en français ?",
+    "options": [
+      { "id": "a", "text": "ne...pas" },
+      { "id": "b", "text": "pas...ne" },
+      { "id": "c", "text": "ne...jamais" },
+      { "id": "d", "text": "jamais...pas" },
+      { "id": "e", "text": "ne...plus" },
+      { "id": "f", "text": "ne...rien" }
+    ],
+    "correct": ["a", "c", "e", "f"],
+    "explanation": "En français, la négation se construit avec « ne » placé avant le verbe et un second élément (« pas », « jamais », « plus », « rien ») après ; l'ordre inverse n'existe pas."
+  },
+  {
+    "id": "fr-0016",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Parmi ces pronoms relatifs, lesquels sont des pronoms relatifs simples ?",
+    "options": [
+      { "id": "a", "text": "lequel" },
+      { "id": "b", "text": "qui" },
+      { "id": "c", "text": "que" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "dont" },
+      { "id": "f", "text": "duquel" }
+    ],
+    "correct": ["b", "c", "d", "e"],
+    "explanation": "« Qui », « que », « où » et « dont » sont des pronoms relatifs simples et invariables ; « lequel » et « duquel » sont des pronoms relatifs composés, variables en genre et en nombre."
+  },
+  {
+    "id": "fr-0017",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "C'est le livre ___ je t'ai parlé la semaine dernière.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "dont" },
+      { "id": "c", "text": "qui" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "lequel" }
+    ],
+    "correct": ["b"],
+    "explanation": "Le verbe « parler de » impose un complément introduit par « de », remplacé ici par le pronom relatif « dont »."
+  },
+  {
+    "id": "fr-0018",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Lesquelles de ces conjonctions peuvent introduire la cause dans : « Il est resté chez lui ___ il était malade » ?",
+    "options": [
+      { "id": "a", "text": "parce qu'" },
+      { "id": "b", "text": "bien que" },
+      { "id": "c", "text": "car" },
+      { "id": "d", "text": "afin que" },
+      { "id": "e", "text": "puisqu'" },
+      { "id": "f", "text": "alors que" },
+      { "id": "g", "text": "comme" }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Parce que », « car » et « puisque » expriment la cause et peuvent se placer après la proposition principale, contrairement à « comme » qui se place normalement en tête de phrase ; « bien que », « alors que » et « afin que » expriment une autre relation logique."
+  },
+  {
+    "id": "fr-0019",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelle est la forme correcte du superlatif de supériorité de l'adjectif « intéressant » ?",
+    "options": [
+      { "id": "a", "text": "plus intéressant" },
+      { "id": "b", "text": "le meilleur intéressant" },
+      { "id": "c", "text": "le plus intéressant" },
+      { "id": "d", "text": "aussi intéressant" },
+      { "id": "e", "text": "le très intéressant" }
+    ],
+    "correct": ["c"],
+    "explanation": "Le superlatif de supériorité se forme avec l'article défini suivi de « plus » et de l'adjectif : « le plus intéressant »."
+  },
+  {
+    "id": "fr-0020",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Elle a ___ une pomme avant de partir. (manger)",
+    "options": [
+      { "id": "a", "text": "mangée" },
+      { "id": "b", "text": "mangés" },
+      { "id": "c", "text": "mangé" },
+      { "id": "d", "text": "mangées" },
+      { "id": "e", "text": "mange" }
+    ],
+    "correct": ["c"],
+    "explanation": "Avec l'auxiliaire « avoir », le participe passé reste invariable lorsque le complément d'objet direct est placé après le verbe."
+  },
+  {
+    "id": "fr-0021",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Si tu ___, nous serions contents. (venir)",
+    "options": [
+      { "id": "a", "text": "viendras" },
+      { "id": "b", "text": "viens" },
+      { "id": "c", "text": "venais" },
+      { "id": "d", "text": "venu" },
+      { "id": "e", "text": "viendrais" }
+    ],
+    "correct": ["c"],
+    "explanation": "Dans une hypothèse avec « si » dont la principale est au conditionnel présent, le verbe de la subordonnée se met à l'imparfait de l'indicatif."
+  },
+  {
+    "id": "fr-0022",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelles conjonctions introduisent une subordonnée de temps ?",
+    "options": [
+      { "id": "a", "text": "parce que" },
+      { "id": "b", "text": "quand" },
+      { "id": "c", "text": "lorsque" },
+      { "id": "d", "text": "pendant que" },
+      { "id": "e", "text": "bien que" },
+      { "id": "f", "text": "dès que" }
+    ],
+    "correct": ["b", "c", "d", "f"],
+    "explanation": "« Quand », « lorsque », « pendant que » et « dès que » situent une action dans le temps ; « parce que » exprime la cause et « bien que » la concession."
+  },
+  {
+    "id": "fr-0023",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quels pronoms peuvent remplacer un complément introduit par la préposition « de » ?",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "dont" },
+      { "id": "c", "text": "qui" },
+      { "id": "d", "text": "en" },
+      { "id": "e", "text": "y" }
+    ],
+    "correct": ["b", "d"],
+    "explanation": "« Dont » remplace un complément en « de » dans une relative, et « en » remplace un complément en « de » dans une phrase simple ; « y » remplace un complément en « à »."
+  },
+  {
+    "id": "fr-0024",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Bien qu'il ___ très fatigué, il a terminé son travail. (être)",
+    "options": [
+      { "id": "a", "text": "est" },
+      { "id": "b", "text": "était" },
+      { "id": "c", "text": "soit" },
+      { "id": "d", "text": "serait" },
+      { "id": "e", "text": "sera" }
+    ],
+    "correct": ["c"],
+    "explanation": "La conjonction « bien que » introduit une subordonnée de concession qui exige le mode subjonctif, d'où « soit »."
+  },
+  {
+    "id": "fr-0025",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "___ le directeur qui a signé ce document.",
+    "options": [
+      { "id": "a", "text": "Il est" },
+      { "id": "b", "text": "Ce sont" },
+      { "id": "c", "text": "Il y a" },
+      { "id": "d", "text": "C'est" },
+      { "id": "e", "text": "C'était" }
+    ],
+    "correct": ["d"],
+    "explanation": "La construction de mise en relief « c'est...qui » met en valeur le sujet « le directeur »."
+  },
+  {
+    "id": "fr-0026",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le stylo ___ j'écris est cassé.",
+    "options": [
+      { "id": "a", "text": "dont" },
+      { "id": "b", "text": "que" },
+      { "id": "c", "text": "avec lequel" },
+      { "id": "d", "text": "auquel" },
+      { "id": "e", "text": "avec qui" }
+    ],
+    "correct": ["c"],
+    "explanation": "Le verbe « écrire avec quelque chose » impose la préposition « avec », d'où le pronom relatif composé « avec lequel »."
+  },
+  {
+    "id": "fr-0027",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quels adjectifs possèdent une forme comparative de supériorité irrégulière ?",
+    "options": [
+      { "id": "a", "text": "grand" },
+      { "id": "b", "text": "bon" },
+      { "id": "c", "text": "beau" },
+      { "id": "d", "text": "mauvais" },
+      { "id": "e", "text": "petit" },
+      { "id": "f", "text": "intelligent" }
+    ],
+    "correct": ["b", "d", "e"],
+    "explanation": "« Bon » devient « meilleur », « mauvais » devient « pire » et « petit » peut devenir « moindre » au sens figuré ; les autres adjectifs forment un comparatif régulier avec « plus »."
+  },
+  {
+    "id": "fr-0028",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelles conjonctions introduisent une subordonnée de concession ou d'opposition ?",
+    "options": [
+      { "id": "a", "text": "parce que" },
+      { "id": "b", "text": "bien que" },
+      { "id": "c", "text": "quoique" },
+      { "id": "d", "text": "même si" },
+      { "id": "e", "text": "afin que" },
+      { "id": "f", "text": "alors que" }
+    ],
+    "correct": ["b", "c", "d", "f"],
+    "explanation": "« Bien que », « quoique », « même si » et « alors que » expriment une opposition ou une concession ; « parce que » exprime la cause et « afin que » le but."
+  },
+  {
+    "id": "fr-0029",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelles structures exigent le mode subjonctif dans la subordonnée ?",
+    "options": [
+      { "id": "a", "text": "il faut que" },
+      { "id": "b", "text": "je pense que" },
+      { "id": "c", "text": "bien que" },
+      { "id": "d", "text": "après que" },
+      { "id": "e", "text": "avant que" },
+      { "id": "f", "text": "quoique" }
+    ],
+    "correct": ["a", "c", "e", "f"],
+    "explanation": "« Il faut que », « bien que », « avant que » et « quoique » exigent le subjonctif ; « je pense que » à la forme affirmative et « après que » se construisent normalement avec l'indicatif."
+  },
+  {
+    "id": "fr-0030",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "___ le directeur arriva-t-il que la réunion commença aussitôt.",
+    "options": [
+      { "id": "a", "text": "Peut-être" },
+      { "id": "b", "text": "À peine" },
+      { "id": "c", "text": "Cependant" },
+      { "id": "d", "text": "Aussi" },
+      { "id": "e", "text": "Dès que" }
+    ],
+    "correct": ["b"],
+    "explanation": "La locution corrélative « à peine...que » exprime une succession immédiate d'événements et entraîne l'inversion du sujet."
+  },
+  {
+    "id": "fr-0031",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Il a déclaré qu'il ___ disposé à coopérer avec les autorités. (être)",
+    "options": [
+      { "id": "a", "text": "est" },
+      { "id": "b", "text": "était" },
+      { "id": "c", "text": "serait" },
+      { "id": "d", "text": "soit" },
+      { "id": "e", "text": "sera" }
+    ],
+    "correct": ["c"],
+    "explanation": "Au discours indirect, un futur simple du discours direct devient un conditionnel présent lorsque le verbe introducteur est au passé."
+  },
+  {
+    "id": "fr-0032",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Les candidats ___ le dossier est incomplet ne seront pas convoqués à l'entretien.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "qui" },
+      { "id": "c", "text": "dont" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "lesquels" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Dont » remplace le complément « des candidats » introduit par « de », puisqu'on dit « le dossier des candidats »."
+  },
+  {
+    "id": "fr-0033",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Lesquelles de ces formules relèvent du registre administratif soutenu ?",
+    "options": [
+      { "id": "a", "text": "salut !" },
+      { "id": "b", "text": "nonobstant" },
+      { "id": "c", "text": "ça va" },
+      { "id": "d", "text": "ci-après dénommé" },
+      { "id": "e", "text": "au fur et à mesure" },
+      { "id": "f", "text": "sous réserve de" }
+    ],
+    "correct": ["b", "d", "f"],
+    "explanation": "« Nonobstant », « ci-après dénommé » et « sous réserve de » sont des formules typiques des textes administratifs et juridiques, contrairement aux expressions familières « salut ! » et « ça va »."
+  },
+  {
+    "id": "fr-0034",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Le recours ___ l'administration a répondu doit être motivé.",
+    "options": [
+      { "id": "a", "text": "dont" },
+      { "id": "b", "text": "que" },
+      { "id": "c", "text": "dans lequel" },
+      { "id": "d", "text": "auquel" },
+      { "id": "e", "text": "avec lequel" }
+    ],
+    "correct": ["d"],
+    "explanation": "On répond « à » un recours ; le pronom relatif composé correspondant est donc « auquel »."
+  },
+  {
+    "id": "fr-0035",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Quelles locutions se construisent avec le subjonctif pour exprimer une condition ?",
+    "options": [
+      { "id": "a", "text": "si" },
+      { "id": "b", "text": "à condition que" },
+      { "id": "c", "text": "au cas où" },
+      { "id": "d", "text": "pourvu que" },
+      { "id": "e", "text": "à moins que" },
+      { "id": "f", "text": "pour peu que" }
+    ],
+    "correct": ["b", "d", "e", "f"],
+    "explanation": "« À condition que », « pourvu que », « à moins que » et « pour peu que » exigent le subjonctif ; « si » se construit avec l'indicatif et « au cas où » avec le conditionnel."
+  }
+]

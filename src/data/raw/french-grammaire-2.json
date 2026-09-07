@@ -1,0 +1,607 @@
+[
+  {
+    "id": "fr-0036",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "La lettre ___ par le directeur hier.",
+    "options": [
+      { "id": "a", "text": "a signé" },
+      { "id": "b", "text": "a été signée" },
+      { "id": "c", "text": "est signée" },
+      { "id": "d", "text": "signe" },
+      { "id": "e", "text": "a été signé" }
+    ],
+    "correct": ["b"],
+    "explanation": "La voix passive se forme avec l'auxiliaire « être » au temps voulu suivi du participe passé, qui s'accorde avec le sujet féminin « la lettre »."
+  },
+  {
+    "id": "fr-0037",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Il dit : « Je suis fatigué. » Au discours indirect, cela donne : Il dit ___.",
+    "options": [
+      { "id": "a", "text": "qu'il est fatigué" },
+      { "id": "b", "text": "qu'il était fatigué" },
+      { "id": "c", "text": "qu'il sera fatigué" },
+      { "id": "d", "text": "qu'il a été fatigué" },
+      { "id": "e", "text": "s'il est fatigué" }
+    ],
+    "correct": ["a"],
+    "explanation": "Quand le verbe introducteur est au présent, aucun changement de temps n'est nécessaire dans le discours indirect ; « je » devient « il »."
+  },
+  {
+    "id": "fr-0038",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Choisissez la phrase correcte au discours rapporté direct.",
+    "options": [
+      { "id": "a", "text": "Elle a dit : je viendrai demain." },
+      { "id": "b", "text": "Elle a dit : « Je viendrai demain. »" },
+      { "id": "c", "text": "Elle a dit que je viendrai demain." },
+      { "id": "d", "text": "Elle a dit « je viendrai demain »." },
+      { "id": "e", "text": "Elle a dit : Je viendrai demain" }
+    ],
+    "correct": ["b"],
+    "explanation": "Le discours direct exige les deux points suivis de guillemets français encadrant les paroles exactes du locuteur."
+  },
+  {
+    "id": "fr-0039",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Sélectionnez toutes les phrases écrites à la voix active.",
+    "options": [
+      { "id": "a", "text": "Le douanier examine le colis avec attention." },
+      { "id": "b", "text": "Le colis est examiné par le douanier." },
+      { "id": "c", "text": "Le douanier a examiné le colis hier." },
+      { "id": "d", "text": "Le colis a été examiné avec attention." },
+      { "id": "e", "text": "Le douanier examinent le colis avec attention." }
+    ],
+    "correct": ["a", "c"],
+    "explanation": "Dans (a) et (c), le sujet « le douanier » fait l'action lui-même ; les autres phrases sont soit passives, soit fautives dans l'accord du verbe."
+  },
+  {
+    "id": "fr-0040",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "C'est le livre ___ j'ai besoin pour l'examen.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "qui" },
+      { "id": "c", "text": "dont" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "lequel" }
+    ],
+    "correct": ["c"],
+    "explanation": "« Avoir besoin de » se construit avec « de », d'où l'emploi du pronom relatif « dont » qui remplace un complément introduit par « de »."
+  },
+  {
+    "id": "fr-0041",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Sélectionnez le ou les connecteurs qui peuvent introduire une conséquence dans : « Elle travaille beaucoup, ___ elle réussit ses examens. »",
+    "options": [
+      { "id": "a", "text": "par conséquent" },
+      { "id": "b", "text": "donc" },
+      { "id": "c", "text": "cependant" },
+      { "id": "d", "text": "bien que" },
+      { "id": "e", "text": "malgré" },
+      { "id": "f", "text": "ainsi" }
+    ],
+    "correct": ["a", "b", "f"],
+    "explanation": "« Par conséquent », « donc » et « ainsi » expriment tous une conséquence logique, alors que « cependant » marque l'opposition et « bien que »/« malgré » la concession."
+  },
+  {
+    "id": "fr-0042",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Je me demande ___ il sera présent à la réunion.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "si" },
+      { "id": "c", "text": "qu'est-ce que" },
+      { "id": "d", "text": "quoi" },
+      { "id": "e", "text": "est-ce que" }
+    ],
+    "correct": ["b"],
+    "explanation": "Dans l'interrogation indirecte, la question fermée (oui/non) est introduite par la conjonction « si »."
+  },
+  {
+    "id": "fr-0043",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le contrat ___ par les deux parties la semaine dernière.",
+    "options": [
+      { "id": "a", "text": "a signé" },
+      { "id": "b", "text": "a été signé" },
+      { "id": "c", "text": "était signé" },
+      { "id": "d", "text": "a été signée" },
+      { "id": "e", "text": "signait" },
+      { "id": "f", "text": "sera signé" }
+    ],
+    "correct": ["b"],
+    "explanation": "Au passé composé passif, on utilise « avoir été » + participe passé accordé avec le sujet masculin « le contrat »."
+  },
+  {
+    "id": "fr-0044",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Transformez à la voix passive : « Les agents contrôlent les marchandises. »",
+    "options": [
+      { "id": "a", "text": "Les marchandises sont contrôlées par les agents." },
+      { "id": "b", "text": "Les marchandises contrôlent les agents." },
+      { "id": "c", "text": "Les marchandises ont contrôlé les agents." },
+      { "id": "d", "text": "Les marchandises seront contrôlées par les agents." },
+      { "id": "e", "text": "Les marchandises étaient contrôlées par les agents." }
+    ],
+    "correct": ["a"],
+    "explanation": "Le complément d'objet direct « les marchandises » devient sujet, et le verbe se conjugue au présent passif avec « être » + participe passé accordé."
+  },
+  {
+    "id": "fr-0045",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Il m'a demandé ___ j'habitais.",
+    "options": [
+      { "id": "a", "text": "où" },
+      { "id": "b", "text": "si" },
+      { "id": "c", "text": "que" },
+      { "id": "d", "text": "quoi" },
+      { "id": "e", "text": "combien" }
+    ],
+    "correct": ["a"],
+    "explanation": "La question directe « Où habites-tu ? » devient en discours indirect une interrogation partielle introduite par « où »."
+  },
+  {
+    "id": "fr-0046",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le professeur a dit : « Vous devez rendre vos copies demain. » Au discours indirect (rapporté le jour même) : Le professeur a dit que nous ___.",
+    "options": [
+      { "id": "a", "text": "devons rendre nos copies demain" },
+      { "id": "b", "text": "devions rendre nos copies le lendemain" },
+      { "id": "c", "text": "avons dû rendre nos copies demain" },
+      { "id": "d", "text": "devrons rendre nos copies demain" },
+      { "id": "e", "text": "devions rendre nos copies demain" }
+    ],
+    "correct": ["b"],
+    "explanation": "Avec un verbe introducteur au passé, le présent devient imparfait et « demain » devient « le lendemain » par concordance des temps et des repères temporels."
+  },
+  {
+    "id": "fr-0047",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Sélectionnez le ou les connecteurs logiques qui marquent une opposition.",
+    "options": [
+      { "id": "a", "text": "donc" },
+      { "id": "b", "text": "néanmoins" },
+      { "id": "c", "text": "car" },
+      { "id": "d", "text": "ainsi" },
+      { "id": "e", "text": "toutefois" },
+      { "id": "f", "text": "puisque" }
+    ],
+    "correct": ["b", "e"],
+    "explanation": "« Néanmoins » et « toutefois » introduisent tous deux une idée qui contraste avec ce qui précède, contrairement aux autres connecteurs qui expriment cause ou conséquence."
+  },
+  {
+    "id": "fr-0048",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "L'agent vérifie les documents ___ sont nécessaires au passage en douane.",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "qui" },
+      { "id": "c", "text": "dont" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "lesquels" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Qui » remplace le sujet « les documents » dans la proposition relative, car il s'agit du sujet du verbe « sont »."
+  },
+  {
+    "id": "fr-0049",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Nomalisez la phrase suivante : « Le gouvernement a décidé de réformer le code des douanes. » → « ___ du code des douanes a été décidée par le gouvernement. »",
+    "options": [
+      { "id": "a", "text": "La réforme" },
+      { "id": "b", "text": "La réformation" },
+      { "id": "c", "text": "Le réformement" },
+      { "id": "d", "text": "La réformage" },
+      { "id": "e", "text": "Le réforme" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le nom dérivé du verbe « réformer » est « la réforme », un substantif féminin couramment utilisé dans le registre administratif."
+  },
+  {
+    "id": "fr-0050",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Sélectionnez toutes les phrases correctement construites à la voix passive.",
+    "options": [
+      { "id": "a", "text": "La taxe a été payée par l'importateur." },
+      { "id": "b", "text": "Les colis sont inspectés chaque jour." },
+      { "id": "c", "text": "L'importateur a payé la taxe." },
+      { "id": "d", "text": "Les colis inspectent chaque jour." },
+      { "id": "e", "text": "La taxe a payé l'importateur." },
+      { "id": "f", "text": "Le formulaire sera rempli par le demandeur." }
+    ],
+    "correct": ["a", "b", "f"],
+    "explanation": "Les phrases (a), (b) et (f) suivent la structure « être » + participe passé, propre à la voix passive ; les autres sont actives ou incorrectes."
+  },
+  {
+    "id": "fr-0051",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Sélectionnez toutes les phrases correctes au discours indirect.",
+    "options": [
+      { "id": "a", "text": "Il a demandé si j'étais prêt." },
+      { "id": "b", "text": "Il a demandé si j'étais-je prêt." },
+      { "id": "c", "text": "Elle m'a demandé ce que je voulais." },
+      { "id": "d", "text": "Elle m'a demandé qu'est-ce que je voulais." },
+      { "id": "e", "text": "Il m'a demandé pourquoi j'étais en retard." },
+      { "id": "f", "text": "Il m'a demandé pourquoi j'étais-je en retard." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "Au discours indirect, l'ordre sujet-verbe est rétabli (pas d'inversion) et « qu'est-ce que » devient « ce que » ; les options (b), (d) et (f) violent ces règles."
+  },
+  {
+    "id": "fr-0052",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Bien qu'il ___ tous les documents requis, sa demande a été rejetée.",
+    "options": [
+      { "id": "a", "text": "présentait" },
+      { "id": "b", "text": "a présenté" },
+      { "id": "c", "text": "présente" },
+      { "id": "d", "text": "ait présenté" },
+      { "id": "e", "text": "présenterait" }
+    ],
+    "correct": ["d"],
+    "explanation": "La conjonction « bien que » exige le subjonctif dans la proposition subordonnée ; « ait présenté » est le subjonctif passé, adapté à un fait accompli."
+  },
+  {
+    "id": "fr-0053",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Le dossier ___ n'a pas encore été traité concerne un litige douanier.",
+    "options": [
+      { "id": "a", "text": "que je vous ai parlé" },
+      { "id": "b", "text": "dont je vous ai parlé" },
+      { "id": "c", "text": "qui je vous ai parlé" },
+      { "id": "d", "text": "où je vous ai parlé" },
+      { "id": "e", "text": "lequel je vous ai parlé" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Parler de » se construit avec « de », donc le pronom relatif correct est « dont »."
+  },
+  {
+    "id": "fr-0054",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quel connecteur complète le mieux : « Les taxes ont augmenté ; ___, les importations ont diminué. »",
+    "options": [
+      { "id": "a", "text": "par ailleurs" },
+      { "id": "b", "text": "en conséquence" },
+      { "id": "c", "text": "en revanche" },
+      { "id": "d", "text": "de même" },
+      { "id": "e", "text": "au demeurant" },
+      { "id": "f", "text": "d'une part" }
+    ],
+    "correct": ["b"],
+    "explanation": "« En conséquence » introduit un résultat logique : la hausse des taxes entraîne la baisse des importations."
+  },
+  {
+    "id": "fr-0055",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "La journaliste a demandé au ministre ___.",
+    "options": [
+      { "id": "a", "text": "quand la loi entrera-t-elle en vigueur" },
+      { "id": "b", "text": "quand la loi entrerait en vigueur" },
+      { "id": "c", "text": "quand est-ce que la loi entrera en vigueur" },
+      { "id": "d", "text": "quand la loi entre-t-elle en vigueur" },
+      { "id": "e", "text": "quand entrera en vigueur la loi" }
+    ],
+    "correct": ["b"],
+    "explanation": "Le verbe introducteur au passé (« a demandé ») impose la concordance des temps : le futur simple devient conditionnel présent, et l'inversion disparaît."
+  },
+  {
+    "id": "fr-0056",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Identifiez la ou les phrases contenant une proposition subordonnée circonstancielle de but.",
+    "options": [
+      { "id": "a", "text": "Il a rempli le formulaire pour que sa demande soit traitée." },
+      { "id": "b", "text": "Il a rempli le formulaire parce que c'était obligatoire." },
+      { "id": "c", "text": "Il a rempli le formulaire afin d'éviter un refus." },
+      { "id": "d", "text": "Il a rempli le formulaire quand on le lui a demandé." },
+      { "id": "e", "text": "Il a rempli le formulaire de sorte que tout soit conforme." }
+    ],
+    "correct": ["a", "e"],
+    "explanation": "« Pour que » et « de sorte que » (suivi du subjonctif, sens final) introduisent le but ; « parce que » exprime la cause et « quand » le temps."
+  },
+  {
+    "id": "fr-0057",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Nominalisez : « On a inspecté les véhicules rigoureusement. » → « ___ des véhicules a été rigoureuse. »",
+    "options": [
+      { "id": "a", "text": "L'inspection" },
+      { "id": "b", "text": "L'inspectation" },
+      { "id": "c", "text": "L'inspecteur" },
+      { "id": "d", "text": "L'inspectage" },
+      { "id": "e", "text": "L'inspectrice" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le nom déverbal correct de « inspecter » est « l'inspection », qui exige aussi la transformation de l'adverbe « rigoureusement » en adjectif « rigoureuse »."
+  },
+  {
+    "id": "fr-0058",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases où la subordonnée relative est correctement introduite.",
+    "options": [
+      { "id": "a", "text": "Voici l'agent avec lequel j'ai travaillé." },
+      { "id": "b", "text": "Voici l'agent avec qui j'ai travaillé." },
+      { "id": "c", "text": "Voici l'agent où j'ai travaillé." },
+      { "id": "d", "text": "Voici l'agent que j'ai travaillé." },
+      { "id": "e", "text": "Voici l'agent dont j'ai travaillé avec." }
+    ],
+    "correct": ["a", "b"],
+    "explanation": "Après une préposition comme « avec », on emploie « lequel » ou « qui » pour une personne ; les autres options sont fautives sur le plan syntaxique."
+  },
+  {
+    "id": "fr-0059",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "___ les efforts déployés par l'administration, la fraude douanière persiste.",
+    "options": [
+      { "id": "a", "text": "Bien que" },
+      { "id": "b", "text": "Malgré" },
+      { "id": "c", "text": "Quoique" },
+      { "id": "d", "text": "Cependant" },
+      { "id": "e", "text": "Toutefois" },
+      { "id": "f", "text": "Néanmoins" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Malgré » est une préposition qui se construit directement avec un groupe nominal, contrairement à « bien que » et « quoique » qui exigent une proposition au subjonctif."
+  },
+  {
+    "id": "fr-0060",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Mettez à la voix passive, au plus-que-parfait : « Les inspecteurs avaient déjà saisi la marchandise. »",
+    "options": [
+      { "id": "a", "text": "La marchandise avait déjà été saisie par les inspecteurs." },
+      { "id": "b", "text": "La marchandise a déjà été saisie par les inspecteurs." },
+      { "id": "c", "text": "La marchandise était déjà saisie par les inspecteurs." },
+      { "id": "d", "text": "La marchandise avait déjà saisi les inspecteurs." },
+      { "id": "e", "text": "La marchandise aurait déjà été saisie par les inspecteurs." }
+    ],
+    "correct": ["a"],
+    "explanation": "Au plus-que-parfait passif, on utilise « avait été » + participe passé accordé, pour conserver l'antériorité exprimée dans la phrase active."
+  },
+  {
+    "id": "fr-0061",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Le directeur a affirmé que les nouvelles mesures ___ appliquées dès le mois suivant, ce qui ___ des retombées positives sur les recettes.",
+    "options": [
+      { "id": "a", "text": "seraient / aurait" },
+      { "id": "b", "text": "seront / aura" },
+      { "id": "c", "text": "seraient / aurait eu" },
+      { "id": "d", "text": "soient / ait" },
+      { "id": "e", "text": "étaient / avait" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe introducteur au passé impose le conditionnel présent pour le futur rapporté (« seraient ») et l'accord logique avec « aurait » pour la conséquence future."
+  },
+  {
+    "id": "fr-0062",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Identifiez la ou les phrases où la proposition subordonnée conjonctive complétive est correctement construite.",
+    "options": [
+      { "id": "a", "text": "Il est indispensable que le déclarant fournisse tous les justificatifs." },
+      { "id": "b", "text": "Il est indispensable que le déclarant fournit tous les justificatifs." },
+      { "id": "c", "text": "Le douanier constate que la déclaration est incomplète." },
+      { "id": "d", "text": "Le douanier constate que la déclaration soit incomplète." },
+      { "id": "e", "text": "Il doute que le montant soit exact." },
+      { "id": "f", "text": "Il doute que le montant est exact." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "Après une expression d'obligation ou de doute (« il est indispensable que », « douter que »), le subjonctif est requis, tandis que « constater que » exprime un fait avéré et prend l'indicatif."
+  },
+  {
+    "id": "fr-0063",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Reformulez à la voix passive : « On aurait dû informer les usagers plus tôt. »",
+    "options": [
+      { "id": "a", "text": "Les usagers auraient dû être informés plus tôt." },
+      { "id": "b", "text": "Les usagers avaient dû être informés plus tôt." },
+      { "id": "c", "text": "Les usagers auraient dû informer plus tôt." },
+      { "id": "d", "text": "Les usagers ont dû être informés plus tôt." },
+      { "id": "e", "text": "Les usagers auraient été dû informer plus tôt." }
+    ],
+    "correct": ["a"],
+    "explanation": "Avec un verbe semi-auxiliaire comme « devoir », le passif se forme en passivant l'infinitif complément : « devoir être informés »."
+  },
+  {
+    "id": "fr-0064",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "La nominalisation de « Le comité a examiné le dossier attentivement » donne : « ___ attentif du dossier par le comité. »",
+    "options": [
+      { "id": "a", "text": "L'examen" },
+      { "id": "b", "text": "L'examination" },
+      { "id": "c", "text": "L'examinement" },
+      { "id": "d", "text": "L'examinage" },
+      { "id": "e", "text": "L'examinée" }
+    ],
+    "correct": ["a"],
+    "explanation": "Le nom correct dérivé de « examiner » est « l'examen », qui impose la transformation de l'adverbe « attentivement » en adjectif épithète « attentif »."
+  },
+  {
+    "id": "fr-0065",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Sélectionnez les connecteurs pouvant remplacer « cependant » sans changer le sens dans : « Le contrôle est rigoureux, ___ des fraudes subsistent. »",
+    "options": [
+      { "id": "a", "text": "toutefois" },
+      { "id": "b", "text": "néanmoins" },
+      { "id": "c", "text": "par conséquent" },
+      { "id": "d", "text": "en revanche" },
+      { "id": "e", "text": "de ce fait" },
+      { "id": "f", "text": "pourtant" }
+    ],
+    "correct": ["a", "b", "f"],
+    "explanation": "« Toutefois », « néanmoins » et « pourtant » expriment tous une opposition/concession, comme « cependant », alors que les autres options marquent une conséquence."
+  },
+  {
+    "id": "fr-0066",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans le compte rendu administratif, choisissez la reformulation correcte de la déclaration du directeur général : « Les procédures seront simplifiées dans les meilleurs délais » (rapportée un mois plus tard).",
+    "options": [
+      { "id": "a", "text": "Le directeur général avait déclaré que les procédures seraient simplifiées dans les meilleurs délais." },
+      { "id": "b", "text": "Le directeur général avait déclaré que les procédures seront simplifiées dans les meilleurs délais." },
+      { "id": "c", "text": "Le directeur général avait déclaré que les procédures ont été simplifiées dans les meilleurs délais." },
+      { "id": "d", "text": "Le directeur général a déclaré que les procédures avaient été simplifiées dans les meilleurs délais." },
+      { "id": "e", "text": "Le directeur général avait déclaré que les procédures se simplifieraient dans les meilleurs délais." }
+    ],
+    "correct": ["a"],
+    "explanation": "Le verbe introducteur au plus-que-parfait entraîne la concordance des temps : le futur simple devient conditionnel présent pour exprimer un futur dans le passé."
+  },
+  {
+    "id": "fr-0067",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Identifiez toutes les erreurs dans ce texte administratif : « Le rapport, dont on m'a informé de son contenu, a été rédigé afin que les autorités puissent réagir rapidement, et il aurait été validé par tous les services concernés. »",
+    "options": [
+      { "id": "a", "text": "« dont on m'a informé de son contenu » est une redondance fautive" },
+      { "id": "b", "text": "« afin que les autorités puissent réagir » est correctement construit" },
+      { "id": "c", "text": "« il aurait été validé » est un emploi correct du conditionnel passé pour une information non confirmée" },
+      { "id": "d", "text": "« a été rédigé » n'est pas un passif correct" },
+      { "id": "e", "text": "il fallait écrire « dont on m'a informé du contenu »" }
+    ],
+    "correct": ["a", "b", "c", "e"],
+    "explanation": "« Dont » reprend déjà « de », donc ajouter « de son contenu » est redondant (il faut « dont on m'a informé le contenu » ou « informé du contenu »), tandis que le but avec « afin que » + subjonctif et le conditionnel de l'information non vérifiée sont corrects ; « a été rédigé » est bien un passif valide."
+  },
+  {
+    "id": "fr-0068",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Quelle transformation nominale respecte le registre administratif soutenu de la phrase : « Les autorités ont décidé de suspendre temporairement les importations afin de protéger le marché local » ?",
+    "options": [
+      { "id": "a", "text": "La suspension temporaire des importations, décidée par les autorités, vise la protection du marché local." },
+      { "id": "b", "text": "La suspendation temporaire des importations a été décidée pour protéger le marché local." },
+      { "id": "c", "text": "Le fait de suspendre les importations a été décidé pour la protégeance du marché local." },
+      { "id": "d", "text": "La suspension des importations, décidée temporairement, protège le marché local en le protégeant." },
+      { "id": "e", "text": "Les autorités décident la suspension temporaire pour protégeant le marché local." }
+    ],
+    "correct": ["a"],
+    "explanation": "Seule l'option (a) nominalise correctement « suspendre » en « suspension » et « protéger » en « protection », deux noms déverbaux réguliers, dans une syntaxe fluide et administrative."
+  },
+  {
+    "id": "fr-0069",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Sélectionnez les phrases qui emploient correctement une subordonnée circonstancielle de concession.",
+    "options": [
+      { "id": "a", "text": "Quoique les contrôles se soient renforcés, la contrebande n'a pas diminué." },
+      { "id": "b", "text": "Quoique les contrôles se sont renforcés, la contrebande n'a pas diminué." },
+      { "id": "c", "text": "Alors même que les contrôles ont été renforcés, la contrebande persiste." },
+      { "id": "d", "text": "Si bien que les contrôles se sont renforcés, la contrebande persiste." },
+      { "id": "e", "text": "Tout renforcés qu'ils soient, les contrôles n'ont pas suffi à endiguer la contrebande." },
+      { "id": "f", "text": "Vu que les contrôles se sont renforcés, la contrebande persiste." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Quoique » (+ subjonctif), « alors même que » et la construction « tout... que » expriment correctement la concession ; « si bien que » marque la conséquence et « vu que » la cause, tandis que (b) contient une faute de mode."
+  },
+  {
+    "id": "fr-0070",
+    "section": "french",
+    "topic": "grammaire",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans un rapport officiel, un inspecteur écrit : « Le contrevenant a déclaré aux enquêteurs qu'il ignorait totalement que les marchandises saisies eussent fait l'objet d'une interdiction. » Quelle analyse est correcte ?",
+    "options": [
+      { "id": "a", "text": "« eussent fait » est un subjonctif plus-que-parfait employé par souci de registre soutenu, équivalent à « avaient fait »" },
+      { "id": "b", "text": "la phrase relève du discours indirect, la parole du contrevenant étant rapportée sans guillemets" },
+      { "id": "c", "text": "« qu'il ignorait totalement que » introduit une double subordonnée complétive emboîtée" },
+      { "id": "d", "text": "l'emploi du subjonctif après « ignorer que » à la forme affirmative est une faute grammaticale absolue" },
+      { "id": "e", "text": "« aux enquêteurs » est un complément d'objet indirect du verbe « déclarer »" }
+    ],
+    "correct": ["a", "b", "c", "e"],
+    "explanation": "« Ignorer que » à la forme affirmative peut admettre le subjonctif dans un registre très soutenu pour nuancer l'incertitude, ce qui n'est pas une faute absolue ; les autres analyses sont exactes : discours indirect, subordonnées emboîtées et COI bien identifié."
+  }
+]

@@ -1,0 +1,783 @@
+[
+  {
+    "id": "fr-0126",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Je vais ___ marché tous les samedis.",
+    "options": [
+      { "id": "a", "text": "a" },
+      { "id": "b", "text": "à" },
+      { "id": "c", "text": "as" },
+      { "id": "d", "text": "ah" },
+      { "id": "e", "text": "à l'" }
+    ],
+    "correct": ["b"],
+    "explanation": "« À » est la préposition ; « a » est la forme du verbe avoir qu'on ne peut pas remplacer ici par « avait »."
+  },
+  {
+    "id": "fr-0127",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Il ___ un frère et une sœur.",
+    "options": [
+      { "id": "a", "text": "à" },
+      { "id": "b", "text": "as" },
+      { "id": "c", "text": "a" },
+      { "id": "d", "text": "ah" },
+      { "id": "e", "text": "at" }
+    ],
+    "correct": ["c"],
+    "explanation": "« A » est ici le verbe avoir à la troisième personne du singulier ; on peut le remplacer par « avait »."
+  },
+  {
+    "id": "fr-0128",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Sais-tu ___ se trouve le bureau des douanes ?",
+    "options": [
+      { "id": "a", "text": "ou" },
+      { "id": "b", "text": "où" },
+      { "id": "c", "text": "oú" },
+      { "id": "d", "text": "hou" },
+      { "id": "e", "text": "ouh" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Où » avec accent grave indique le lieu ou l'interrogation ; « ou » sans accent exprime le choix (équivalent à « ou bien »)."
+  },
+  {
+    "id": "fr-0129",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Tu prends le thé ___ le café ?",
+    "options": [
+      { "id": "a", "text": "où" },
+      { "id": "b", "text": "ou" },
+      { "id": "c", "text": "oû" },
+      { "id": "d", "text": "hou" },
+      { "id": "e", "text": "ouh" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Ou » sans accent exprime une alternative et peut être remplacé par « ou bien »."
+  },
+  {
+    "id": "fr-0130",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Les enfants ___ mangé toute la pizza.",
+    "options": [
+      { "id": "a", "text": "on" },
+      { "id": "b", "text": "ont" },
+      { "id": "c", "text": "hont" },
+      { "id": "d", "text": "ons" },
+      { "id": "e", "text": "onts" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Ont » est le verbe avoir à la troisième personne du pluriel, remplaçable par « avaient »."
+  },
+  {
+    "id": "fr-0131",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "___ dit que la réunion est reportée à demain.",
+    "options": [
+      { "id": "a", "text": "Ont" },
+      { "id": "b", "text": "On" },
+      { "id": "c", "text": "Hon" },
+      { "id": "d", "text": "Ons" },
+      { "id": "e", "text": "Onc" }
+    ],
+    "correct": ["b"],
+    "explanation": "« On » est un pronom indéfini remplaçable par « il » ou « quelqu'un »."
+  },
+  {
+    "id": "fr-0132",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quel est le pluriel correct de « un cheval » ?",
+    "options": [
+      { "id": "a", "text": "des chevals" },
+      { "id": "b", "text": "des chevaus" },
+      { "id": "c", "text": "des chevaux" },
+      { "id": "d", "text": "des chevalx" },
+      { "id": "e", "text": "des chevos" }
+    ],
+    "correct": ["c"],
+    "explanation": "Les noms en -al forment généralement leur pluriel en -aux : cheval devient chevaux."
+  },
+  {
+    "id": "fr-0133",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quel est le pluriel correct de « un bateau » ?",
+    "options": [
+      { "id": "a", "text": "des bateaus" },
+      { "id": "b", "text": "des bateaux" },
+      { "id": "c", "text": "des bateauxs" },
+      { "id": "d", "text": "des batteaux" },
+      { "id": "e", "text": "des bateaues" }
+    ],
+    "correct": ["b"],
+    "explanation": "Les noms en -eau prennent un x au pluriel : bateau devient bateaux."
+  },
+  {
+    "id": "fr-0134",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quelles phrases emploient correctement est / et ?",
+    "options": [
+      { "id": "a", "text": "Cette valise est trop lourde." },
+      { "id": "b", "text": "Cette valise et trop lourde." },
+      { "id": "c", "text": "Elle a pris son sac et son passeport." },
+      { "id": "d", "text": "Elle a pris son sac est son passeport." },
+      { "id": "e", "text": "Le train est arrivé en retard." },
+      { "id": "f", "text": "Le train et arrivé en retard." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Est » est le verbe être, remplaçable par « était » ; « et » est une conjonction de coordination qu'on ne peut pas remplacer par « était »."
+  },
+  {
+    "id": "fr-0135",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelles phrases illustrent correctement l'accord de « nu » et de « demi » ?",
+    "options": [
+      { "id": "a", "text": "Elle marchait nu-pieds sur le sable." },
+      { "id": "b", "text": "Elle marchait nue-pieds sur le sable." },
+      { "id": "c", "text": "Il est arrivé les pieds nus." },
+      { "id": "d", "text": "Il est arrivé les pieds nu." },
+      { "id": "e", "text": "Il était deux heures et demie." },
+      { "id": "f", "text": "Il était deux heures et demi." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Nu » est invariable devant un nom composé par trait d'union (nu-pieds) mais s'accorde placé après le nom (les pieds nus) ; « demi » reste invariable avant le nom mais s'accorde en genre après « et » (deux heures et demie)."
+  },
+  {
+    "id": "fr-0136",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Complétez : « Rassemblez le plus de documents ___ avant la clôture du dossier. »",
+    "options": [
+      { "id": "a", "text": "possible" },
+      { "id": "b", "text": "possibles" },
+      { "id": "c", "text": "posible" },
+      { "id": "d", "text": "possibl" },
+      { "id": "e", "text": "possiblent" }
+    ],
+    "correct": ["a"],
+    "explanation": "Après « le plus de... possible », « possible » reste invariable car il équivaut à « qu'il est possible de rassembler »."
+  },
+  {
+    "id": "fr-0137",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quels pluriels sont correctement formés, sachant que certains noms en -al font exception à la règle du pluriel en -aux ?",
+    "options": [
+      { "id": "a", "text": "des bals" },
+      { "id": "b", "text": "des baux" },
+      { "id": "c", "text": "des festivals" },
+      { "id": "d", "text": "des festivaux" },
+      { "id": "e", "text": "des carnavals" },
+      { "id": "f", "text": "des chevals" }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Bal », « festival » et « carnaval » sont des exceptions qui prennent un simple s au pluriel, contrairement à la majorité des noms en -al comme « cheval », qui devient « chevaux »."
+  },
+  {
+    "id": "fr-0138",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Complétez : « ___ compétents que soient les agents, ___ erreurs demeurent possibles. »",
+    "options": [
+      { "id": "a", "text": "Quelque / quelques" },
+      { "id": "b", "text": "Quelques / quelque" },
+      { "id": "c", "text": "Quel que / quelques" },
+      { "id": "d", "text": "Quelque / quelque" },
+      { "id": "e", "text": "Quels que / quelques" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Quelque » est adverbe invariable devant un adjectif suivi de « que » (sens : si...que) ; « quelques » est un adjectif indéfini qui s'accorde devant le nom pluriel « erreurs »."
+  },
+  {
+    "id": "fr-0139",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quelles sont les formes correctes du pluriel de « un journal » et « un travail » ?",
+    "options": [
+      { "id": "a", "text": "des journals" },
+      { "id": "b", "text": "des journaux" },
+      { "id": "c", "text": "des travails" },
+      { "id": "d", "text": "des travaux" },
+      { "id": "e", "text": "des journeaux" },
+      { "id": "f", "text": "des travaus" }
+    ],
+    "correct": ["b", "d"],
+    "explanation": "« Journal » et « travail » suivent le pluriel irrégulier en -aux, même si l'un se termine en -al et l'autre en -ail."
+  },
+  {
+    "id": "fr-0140",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Complétez avec l'homophone correct : « ___ enfants sont sages, ce sont ___ nièces. »",
+    "options": [
+      { "id": "a", "text": "Ses / ces" },
+      { "id": "b", "text": "Ces / ses" },
+      { "id": "c", "text": "Ses / ses" },
+      { "id": "d", "text": "Ces / ces" },
+      { "id": "e", "text": "C'est / ses" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Ces » (démonstratif pluriel) désigne les enfants qu'on montre ; « ses » (possessif) indique l'appartenance aux nièces de quelqu'un."
+  },
+  {
+    "id": "fr-0141",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Complétez : « ___ vraiment dommage qu'il ___ trompé de route. »",
+    "options": [
+      { "id": "a", "text": "C'est / s'est" },
+      { "id": "b", "text": "S'est / c'est" },
+      { "id": "c", "text": "Cest / sest" },
+      { "id": "d", "text": "C'est / c'est" },
+      { "id": "e", "text": "S'est / s'est" }
+    ],
+    "correct": ["a"],
+    "explanation": "« C'est » (cela est) introduit le jugement, « s'est trompé » est un verbe pronominal au passé composé."
+  },
+  {
+    "id": "fr-0142",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quelles phrases respectent l'accord du verbe pronominal « se lever » ?",
+    "options": [
+      { "id": "a", "text": "Elle s'est levée tôt ce matin." },
+      { "id": "b", "text": "Ils se sont levés à l'aube." },
+      { "id": "c", "text": "Elle s'est levé tôt ce matin." },
+      { "id": "d", "text": "Elle c'est levée tôt ce matin." },
+      { "id": "e", "text": "Ils se sont levée à l'aube." },
+      { "id": "f", "text": "Nous nous sommes levés de bonne heure." }
+    ],
+    "correct": ["a", "b", "f"],
+    "explanation": "« Se lever » est un pronominal sans COD après le verbe, le participe s'accorde donc avec le sujet : levée, levés, levés."
+  },
+  {
+    "id": "fr-0143",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Complétez : « Je ne sais pas ___ il a caché la clé. »",
+    "options": [
+      { "id": "a", "text": "ou" },
+      { "id": "b", "text": "où" },
+      { "id": "c", "text": "houe" },
+      { "id": "d", "text": "hou" },
+      { "id": "e", "text": "oux" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Où » interrogatif indirect introduit une question sur le lieu ; il porte toujours l'accent grave."
+  },
+  {
+    "id": "fr-0144",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Complétez : « ___ collègues ont rendu ___ rapports en retard. »",
+    "options": [
+      { "id": "a", "text": "Leur / leur" },
+      { "id": "b", "text": "Leurs / leurs" },
+      { "id": "c", "text": "Leur / leurs" },
+      { "id": "d", "text": "Leurs / leur" },
+      { "id": "e", "text": "Leures / leures" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Leurs » est ici un adjectif possessif pluriel devant deux noms pluriels (collègues, rapports)."
+  },
+  {
+    "id": "fr-0145",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Complétez : « Je vais ___ donner ce livre demain. »",
+    "options": [
+      { "id": "a", "text": "leurs" },
+      { "id": "b", "text": "leur" },
+      { "id": "c", "text": "leures" },
+      { "id": "d", "text": "leurres" },
+      { "id": "e", "text": "leures" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Leur » placé devant un verbe est un pronom personnel COI invariable, à ne pas confondre avec l'adjectif possessif « leurs »."
+  },
+  {
+    "id": "fr-0146",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quel est le pluriel correct de « un chou-fleur » et « un grand-père » ?",
+    "options": [
+      { "id": "a", "text": "des choux-fleurs" },
+      { "id": "b", "text": "des chous-fleurs" },
+      { "id": "c", "text": "des grands-pères" },
+      { "id": "d", "text": "des grand-pères" },
+      { "id": "e", "text": "des choux-fleures" },
+      { "id": "f", "text": "des grands-père" }
+    ],
+    "correct": ["a", "c"],
+    "explanation": "Dans ces noms composés nom+nom et adjectif+nom, les deux éléments prennent la marque du pluriel : choux-fleurs, grands-pères."
+  },
+  {
+    "id": "fr-0147",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Complétez au féminin : « une réponse ___ » (de l'adjectif « naturel »)",
+    "options": [
+      { "id": "a", "text": "naturele" },
+      { "id": "b", "text": "naturelle" },
+      { "id": "c", "text": "naturel" },
+      { "id": "d", "text": "naturèle" },
+      { "id": "e", "text": "naturell" }
+    ],
+    "correct": ["b"],
+    "explanation": "Les adjectifs en -el doublent le l au féminin : naturel devient naturelle."
+  },
+  {
+    "id": "fr-0148",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quelles phrases emploient correctement la / l'a / là ?",
+    "options": [
+      { "id": "a", "text": "Cette maison, je la connais bien." },
+      { "id": "b", "text": "Cette maison, je l'a connais bien." },
+      { "id": "c", "text": "Pose ce sac là, dans le coin." },
+      { "id": "d", "text": "Pose ce sac la, dans le coin." },
+      { "id": "e", "text": "Il l'a vue hier au marché." },
+      { "id": "f", "text": "Il la vue hier au marché." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« La » est un pronom personnel COD, « là » un adverbe de lieu avec accent grave, et « l'a » l'élision de « le/la » devant le verbe avoir."
+  },
+  {
+    "id": "fr-0149",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Complétez, dans un style administratif soutenu : « ___ vous décidiez, la procédure devra être respectée ; ___ cette décision soit tardive, elle reste valable. »",
+    "options": [
+      { "id": "a", "text": "Quoique / quoi que" },
+      { "id": "b", "text": "Quoi que / quoique" },
+      { "id": "c", "text": "Quoi qu' / quoique" },
+      { "id": "d", "text": "Quoique / quoiqu'" },
+      { "id": "e", "text": "Quoi que / quoi que" },
+      { "id": "f", "text": "Quoique / quoique" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Quoi que » (deux mots) signifie « peu importe ce que » ; « quoique » (un mot) signifie « bien que » et introduit une concession."
+  },
+  {
+    "id": "fr-0150",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Complétez : « ___ dossiers seront transmis à ___ services respectifs dans un délai de trente jours. »",
+    "options": [
+      { "id": "a", "text": "Ses / leur" },
+      { "id": "b", "text": "Ces / leurs" },
+      { "id": "c", "text": "Ces / leur" },
+      { "id": "d", "text": "Ses / leurs" },
+      { "id": "e", "text": "C'est / leurs" },
+      { "id": "f", "text": "Ces / leures" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Ces » démonstratif désigne les dossiers déjà évoqués ; « leurs » possessif pluriel s'accorde avec « services », chaque dossier ayant son propre service."
+  },
+  {
+    "id": "fr-0151",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelle phrase illustre correctement l'accord du participe passé avec « avoir » et un COD placé avant le verbe ?",
+    "options": [
+      { "id": "a", "text": "Les lettres que j'ai écrites sont sur la table." },
+      { "id": "b", "text": "Les lettres que j'ai écrit sont sur la table." },
+      { "id": "c", "text": "J'ai écrit les lettres hier." },
+      { "id": "d", "text": "Les lettres que j'ai écrites sont sur la table, et j'ai écrit aussi les enveloppes." },
+      { "id": "e", "text": "Les lettres que j'ai écris sont sur la table." }
+    ],
+    "correct": ["a"],
+    "explanation": "Le COD « que » (mis pour « lettres », féminin pluriel) est placé avant l'auxiliaire avoir, donc le participe s'accorde : écrites."
+  },
+  {
+    "id": "fr-0152",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Choisissez la ou les phrases correctement accordées (verbes pronominaux).",
+    "options": [
+      { "id": "a", "text": "Ils se sont lavés avant de sortir." },
+      { "id": "b", "text": "Elle s'est lavé les mains." },
+      { "id": "c", "text": "Ils se sont lavé avant de sortir." },
+      { "id": "d", "text": "Elle s'est lavée les mains." },
+      { "id": "e", "text": "Elles se sont parlé au téléphone." },
+      { "id": "f", "text": "Elles se sont parlées au téléphone." }
+    ],
+    "correct": ["a", "b", "e"],
+    "explanation": "« Se laver » (sans COD après) accorde avec le sujet : ils se sont lavés ; mais « se laver les mains » a un COD après le verbe donc le participe reste invariable : elle s'est lavé les mains. « Se parler » n'a pas de COD direct, il reste invariable."
+  },
+  {
+    "id": "fr-0153",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Complétez : « Les efforts ___ elle a fournis ont porté leurs fruits. »",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "qu'" },
+      { "id": "c", "text": "quel" },
+      { "id": "d", "text": "quels" },
+      { "id": "e", "text": "qui" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Qu' » (élision de « que ») est le pronom relatif COD mis pour « efforts », qui entraîne l'accord du participe « fournis »."
+  },
+  {
+    "id": "fr-0154",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quel est le pluriel correct de « un rendez-vous », « un après-midi » et « un porte-monnaie » ?",
+    "options": [
+      { "id": "a", "text": "des rendez-vous" },
+      { "id": "b", "text": "des rendez-vouses" },
+      { "id": "c", "text": "des après-midi" },
+      { "id": "d", "text": "des après-midis" },
+      { "id": "e", "text": "des porte-monnaies" },
+      { "id": "f", "text": "des porte-monnaie" }
+    ],
+    "correct": ["a", "c", "f"],
+    "explanation": "« Rendez-vous » (verbe+pronom+nom) et « après-midi » (invariable en usage courant) restent inchangés ; « porte-monnaie » (verbe+nom) ne prend pas de s au nom car on ne porte qu'un seul type de monnaie, la forme reste porte-monnaie."
+  },
+  {
+    "id": "fr-0155",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelle phrase comporte une erreur d'accord du participe passé ?",
+    "options": [
+      { "id": "a", "text": "La maison qu'ils ont achetée est ancienne." },
+      { "id": "b", "text": "Les fautes qu'il a commises sont graves." },
+      { "id": "c", "text": "Les fautes qu'il a commis sont graves." },
+      { "id": "d", "text": "Voici les documents que j'ai signés." },
+      { "id": "e", "text": "Elle a rangé les affaires." }
+    ],
+    "correct": ["c"],
+    "explanation": "Le COD « que » (fautes, féminin pluriel) précède l'auxiliaire avoir, il faut donc écrire « commises » et non « commis »."
+  },
+  {
+    "id": "fr-0156",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Complétez avec l'adjectif de couleur correctement accordé : « des chemises ___ »",
+    "options": [
+      { "id": "a", "text": "bleu clair" },
+      { "id": "b", "text": "bleues claires" },
+      { "id": "c", "text": "bleu claires" },
+      { "id": "d", "text": "bleues clair" },
+      { "id": "e", "text": "bleu clairs" }
+    ],
+    "correct": ["a"],
+    "explanation": "Les adjectifs de couleur composés (bleu clair) restent invariables, contrairement aux adjectifs de couleur simples."
+  },
+  {
+    "id": "fr-0157",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Complétez : « des fruits ___ » (adjectifs de couleur simples issus de noms : orange, marron)",
+    "options": [
+      { "id": "a", "text": "oranges et marrons" },
+      { "id": "b", "text": "orange et marron" },
+      { "id": "c", "text": "oranges et marron" },
+      { "id": "d", "text": "orange et marrons" },
+      { "id": "e", "text": "orangés et marronnés" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Orange » et « marron », adjectifs de couleur dérivés de noms de fruits, restent invariables."
+  },
+  {
+    "id": "fr-0158",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Choisissez la ou les phrases correctes concernant l'accord de « ci-joint ».",
+    "options": [
+      { "id": "a", "text": "Vous trouverez ci-joint la facture." },
+      { "id": "b", "text": "Vous trouverez ci-jointe la facture." },
+      { "id": "c", "text": "La facture ci-jointe vous informera des détails." },
+      { "id": "d", "text": "La facture ci-joint vous informera des détails." },
+      { "id": "e", "text": "Ci-joints les documents demandés." }
+    ],
+    "correct": ["a", "c"],
+    "explanation": "« Ci-joint » est invariable en tête de phrase ou devant le nom sans article, mais s'accorde comme un adjectif quand il suit le nom (facture ci-jointe)."
+  },
+  {
+    "id": "fr-0159",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Complétez : « Nous nous ___ téléphoné hier soir, puis nous nous ___ écrit ce matin. »",
+    "options": [
+      { "id": "a", "text": "sommes / sommes" },
+      { "id": "b", "text": "somme / somme" },
+      { "id": "c", "text": "sont / sont" },
+      { "id": "d", "text": "sommes / sont" },
+      { "id": "e", "text": "sons / sons" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Nous » impose la conjugaison de l'auxiliaire être à la première personne du pluriel : sommes ; le participe reste invariable car le complément (à qui ?) n'est pas un COD direct."
+  },
+  {
+    "id": "fr-0160",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelles phrases respectent la règle d'accord du participe passé suivi d'un infinitif ?",
+    "options": [
+      { "id": "a", "text": "La chanson que j'ai entendu chanter était belle." },
+      { "id": "b", "text": "La chanson que j'ai entendue chanter était belle." },
+      { "id": "c", "text": "Les musiciens que j'ai entendus chanter étaient talentueux." },
+      { "id": "d", "text": "Les musiciens que j'ai entendu chanter étaient talentueux." },
+      { "id": "e", "text": "Les lettres que j'ai laissé faire étaient importantes." },
+      { "id": "f", "text": "Les lettres que j'ai laissées faire étaient importantes." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "Le participe s'accorde avec le COD seulement s'il fait l'action de l'infinitif (les musiciens qui chantent, donc entendus) ; s'il la subit, il reste invariable (la chanson qu'on entend chanter, donc entendu ; les lettres qu'on laisse faire, donc laissé)."
+  },
+  {
+    "id": "fr-0161",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Complétez : « Les deux heures ___ j'ai attendues m'ont paru longues, mais les deux heures ___ j'ai marché m'ont paru courtes. »",
+    "options": [
+      { "id": "a", "text": "que / que" },
+      { "id": "b", "text": "que / où" },
+      { "id": "c", "text": "où / que" },
+      { "id": "d", "text": "dont / que" },
+      { "id": "e", "text": "que / dont" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Que » est COD (les heures que j'ai attendues, accord du participe), tandis que « où » introduit un complément de temps (marcher pendant, pas de COD)."
+  },
+  {
+    "id": "fr-0162",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelle(s) phrase(s) contiennent une erreur d'accord ?",
+    "options": [
+      { "id": "a", "text": "Elle s'est permis de partir plus tôt." },
+      { "id": "b", "text": "Elle s'est permise de partir plus tôt." },
+      { "id": "c", "text": "Ils se sont succédé au pouvoir." },
+      { "id": "d", "text": "Ils se sont succédés au pouvoir." },
+      { "id": "e", "text": "Elle s'est aperçue de son erreur." },
+      { "id": "f", "text": "Elle s'est aperçu de son erreur." }
+    ],
+    "correct": ["b", "d", "f"],
+    "explanation": "« Se permettre » et « se succéder » ont un COI (à soi-même, l'un à l'autre), donc invariables ; « s'apercevoir de » est un pronominal essentiellement figuré qui s'accorde avec le sujet, d'où « aperçue »."
+  },
+  {
+    "id": "fr-0163",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quel est le pluriel correct de « un œil-de-bœuf », « un tête-à-tête » et « un garde-côte » (personne qui garde la côte) ?",
+    "options": [
+      { "id": "a", "text": "des œils-de-bœuf" },
+      { "id": "b", "text": "des yeux-de-bœuf" },
+      { "id": "c", "text": "des tête-à-tête" },
+      { "id": "d", "text": "des têtes-à-têtes" },
+      { "id": "e", "text": "des gardes-côtes" },
+      { "id": "f", "text": "des garde-côtes" }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Œil-de-bœuf » (petite fenêtre) fait des œils-de-bœuf par exception ; « tête-à-tête » est invariable ; dans « garde-côte » désignant une personne, garde est un nom variable donc gardes-côtes."
+  },
+  {
+    "id": "fr-0164",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Complétez : « C'est la meilleure décision ___ nous ayons prise cette année. »",
+    "options": [
+      { "id": "a", "text": "que" },
+      { "id": "b", "text": "qui" },
+      { "id": "c", "text": "dont" },
+      { "id": "d", "text": "où" },
+      { "id": "e", "text": "quoi" }
+    ],
+    "correct": ["a"],
+    "explanation": "« Que » reprend « décision » (féminin singulier) comme COD placé avant, ce qui justifie l'accord « prise »."
+  },
+  {
+    "id": "fr-0165",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelles phrases illustrent des accords admis avec l'expression « avoir l'air » ?",
+    "options": [
+      { "id": "a", "text": "Elle a l'air fatiguée." },
+      { "id": "b", "text": "Elle a l'air fatigué." },
+      { "id": "c", "text": "Cette maison a l'air abandonné." },
+      { "id": "d", "text": "Cette maison a l'air abandonnée." },
+      { "id": "e", "text": "Ces fleurs ont l'air fanée." }
+    ],
+    "correct": ["a", "b", "c", "d"],
+    "explanation": "Avec « avoir l'air », l'accord peut se faire avec « air » (masculin) ou avec le sujet selon le sens visé, pour les personnes comme pour les choses ; mais un sujet pluriel comme « ces fleurs » impose un adjectif pluriel, donc « fanée » est fautif."
+  },
+  {
+    "id": "fr-0166",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans un rapport administratif, quelle formulation respecte l'accord du participe passé pronominal ?",
+    "options": [
+      { "id": "a", "text": "Les autorités douanières se sont concertées avant de statuer." },
+      { "id": "b", "text": "Les autorités douanières se sont concerté avant de statuer." },
+      { "id": "c", "text": "Les parties se sont nui mutuellement durant la procédure." },
+      { "id": "d", "text": "Les parties se sont nuis mutuellement durant la procédure." },
+      { "id": "e", "text": "Les marchandises se sont avérées non conformes." },
+      { "id": "f", "text": "Les marchandises se sont avéré non conformes." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Se concerter » (pronominal sans COD distinct) s'accorde avec le sujet ; « se nuire » a un COI, donc invariable ; « s'avérer » est un pronominal essentiellement figuré qui s'accorde avec le sujet."
+  },
+  {
+    "id": "fr-0167",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Complétez la phrase administrative : « Vu les pièces ___ le dossier comporte, la demande ___ vous avez formulée est recevable. »",
+    "options": [
+      { "id": "a", "text": "que / dont" },
+      { "id": "b", "text": "que / que" },
+      { "id": "c", "text": "dont / que" },
+      { "id": "d", "text": "où / que" },
+      { "id": "e", "text": "que / où" }
+    ],
+    "correct": ["b"],
+    "explanation": "Dans les deux cas, « que » est le pronom relatif COD (les pièces que le dossier comporte, la demande que vous avez formulée), ce qui justifie l'accord des participes correspondants."
+  },
+  {
+    "id": "fr-0168",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Quelle(s) phrase(s) respectent la règle d'accord dans un registre administratif soutenu ?",
+    "options": [
+      { "id": "a", "text": "Ci-joint les pièces justificatives que vous trouverez utiles." },
+      { "id": "b", "text": "Veuillez trouver ci-joints les pièces justificatives." },
+      { "id": "c", "text": "Les sommes ci-après énumérées ont été versées." },
+      { "id": "d", "text": "Les sommes ci-après énuméré ont été versées." },
+      { "id": "e", "text": "Nonobstant les délais, la requête a été jugée recevable." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "« Ci-joint » placé en tête reste invariable ; « énumérées » s'accorde avec « sommes », féminin pluriel, comme tout participe employé en épithète ; « nonobstant » est une préposition invariable."
+  },
+  {
+    "id": "fr-0169",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Complétez : « Les fonctionnaires, ___ compétence a été saluée, se sont vu confier de nouvelles missions ___ ils se sont acquittés avec rigueur. »",
+    "options": [
+      { "id": "a", "text": "dont la / dont" },
+      { "id": "b", "text": "dont la / desquelles" },
+      { "id": "c", "text": "de qui la / que" },
+      { "id": "d", "text": "dont la / que" },
+      { "id": "e", "text": "desquels la / dont" }
+    ],
+    "correct": ["b"],
+    "explanation": "« Dont la compétence » exprime la possession ; « desquelles missions ils se sont acquittés » reprend « s'acquitter de » avec un pronom relatif composé, car « dont » ne peut se cumuler avec une préposition déjà présente dans le verbe."
+  },
+  {
+    "id": "fr-0170",
+    "section": "french",
+    "topic": "orthographe",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Dans quelle(s) phrase(s) l'accord du participe passé avec « faire » suivi d'un infinitif est-il correctement appliqué ?",
+    "options": [
+      { "id": "a", "text": "Les documents qu'elle a fait traduire sont conformes." },
+      { "id": "b", "text": "Les documents qu'elle a faits traduire sont conformes." },
+      { "id": "c", "text": "Elle s'est fait rembourser les frais de douane." },
+      { "id": "d", "text": "Elle s'est faite rembourser les frais de douane." },
+      { "id": "e", "text": "Les agents que j'ai fait venir sont arrivés." },
+      { "id": "f", "text": "Les agents que j'ai faits venir sont arrivés." }
+    ],
+    "correct": ["a", "c", "e"],
+    "explanation": "Le participe « fait » suivi d'un infinitif est toujours invariable, quelle que soit la fonction du COD : fait traduire, s'est fait rembourser, fait venir."
+  }
+]

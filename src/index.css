@@ -1,0 +1,14 @@
+@import "./styles/tokens.css";
+@import "./styles/print.css";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}

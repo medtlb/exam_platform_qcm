@@ -1,0 +1,755 @@
+[
+  {
+    "id": "fr-0281",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quelle formule est la plus adaptée pour commencer une lettre administrative officielle ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Salut, je voulais te dire que"
+      },
+      {
+        "id": "b",
+        "text": "J'ai l'honneur de vous informer que"
+      },
+      {
+        "id": "c",
+        "text": "Coucou, voici ce que"
+      },
+      {
+        "id": "d",
+        "text": "Yo, sache que"
+      },
+      {
+        "id": "e",
+        "text": "Au fait, je te signale que"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "« J'ai l'honneur de vous informer que » est la formule protocolaire standard pour ouvrir une lettre administrative formelle."
+  },
+  {
+    "id": "fr-0282",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Quelle formule de politesse convient pour clore une lettre adressée à une administration ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "À plus, merci !"
+      },
+      {
+        "id": "b",
+        "text": "Salutations, bye"
+      },
+      {
+        "id": "c",
+        "text": "Veuillez agréer, Madame, Monsieur, l'expression de mes salutations distinguées"
+      },
+      {
+        "id": "d",
+        "text": "Gros bisous et à bientôt"
+      },
+      {
+        "id": "e",
+        "text": "Cordialement toi"
+      },
+      {
+        "id": "f",
+        "text": "Merci d'avance, salut"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "Les formules de politesse administratives sont longues et codifiées, comme « Veuillez agréer... l'expression de mes salutations distinguées »."
+  },
+  {
+    "id": "fr-0283",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Dans un document administratif, le mot « ci-joint » signifie que quelque chose est :",
+    "options": [
+      {
+        "id": "a",
+        "text": "envoyé plus tard"
+      },
+      {
+        "id": "b",
+        "text": "joint au document"
+      },
+      {
+        "id": "c",
+        "text": "annulé"
+      },
+      {
+        "id": "d",
+        "text": "perdu"
+      },
+      {
+        "id": "e",
+        "text": "corrigé"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "« Ci-joint » indique qu'une pièce ou un document est joint, inclus avec le courrier ou le dossier."
+  },
+  {
+    "id": "fr-0284",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 1,
+    "lang": "fr",
+    "prompt": "Laquelle de ces expressions est trop familière pour un rapport administratif ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il convient de noter que"
+      },
+      {
+        "id": "b",
+        "text": "Il apparaît que"
+      },
+      {
+        "id": "c",
+        "text": "Franchement, on dirait que"
+      },
+      {
+        "id": "d",
+        "text": "Il ressort de l'examen que"
+      },
+      {
+        "id": "e",
+        "text": "Il y a lieu de préciser que"
+      },
+      {
+        "id": "f",
+        "text": "Il convient de souligner que"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "« Franchement, on dirait que » relève du registre oral et familier, incompatible avec le style neutre et impersonnel d'un rapport administratif."
+  },
+  {
+    "id": "fr-0285",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Parmi ces formules, lesquelles peuvent introduire une demande dans une lettre administrative ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "J'ai l'honneur de solliciter de votre bienveillance"
+      },
+      {
+        "id": "b",
+        "text": "Je vous prie de bien vouloir"
+      },
+      {
+        "id": "c",
+        "text": "File-moi vite"
+      },
+      {
+        "id": "d",
+        "text": "Faut que tu me donnes"
+      },
+      {
+        "id": "e",
+        "text": "T'as qu'à m'envoyer"
+      },
+      {
+        "id": "f",
+        "text": "J'aimerais bien, si ça te dit"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ],
+    "explanation": "« J'ai l'honneur de solliciter de votre bienveillance » et « Je vous prie de bien vouloir » sont des formules standard pour formuler une demande polie dans un cadre administratif."
+  },
+  {
+    "id": "fr-0286",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Dans une note de service, quel registre de langue doit-on employer ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Un registre familier et humoristique"
+      },
+      {
+        "id": "b",
+        "text": "Un registre neutre, clair et impersonnel"
+      },
+      {
+        "id": "c",
+        "text": "Un registre poétique et imagé"
+      },
+      {
+        "id": "d",
+        "text": "Un registre régional avec expressions locales"
+      },
+      {
+        "id": "e",
+        "text": "Un registre très oral, proche de la conversation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "La note de service, comme tout écrit administratif, exige un registre neutre, clair et impersonnel, sans familiarité ni ambiguïté."
+  },
+  {
+    "id": "fr-0287",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Le mot « susmentionné » signifie :",
+    "options": [
+      {
+        "id": "a",
+        "text": "mentionné ci-dessous"
+      },
+      {
+        "id": "b",
+        "text": "mentionné précédemment, plus haut dans le texte"
+      },
+      {
+        "id": "c",
+        "text": "mentionné dans un autre document"
+      },
+      {
+        "id": "d",
+        "text": "jamais mentionné"
+      },
+      {
+        "id": "e",
+        "text": "mentionné par erreur"
+      },
+      {
+        "id": "f",
+        "text": "mentionné oralement"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "« Susmentionné » signifie « mentionné plus haut, précédemment » dans le même document, du préfixe « sus- » (au-dessus)."
+  },
+  {
+    "id": "fr-0288",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Que désigne « le soussigné » dans un document administratif ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "La personne qui a signé le document, mentionnée plus haut"
+      },
+      {
+        "id": "b",
+        "text": "Le destinataire du courrier"
+      },
+      {
+        "id": "c",
+        "text": "Un témoin extérieur"
+      },
+      {
+        "id": "d",
+        "text": "Le service qui reçoit la demande"
+      },
+      {
+        "id": "e",
+        "text": "Un document annexe"
+      }
+    ],
+    "correct": [
+      "a"
+    ],
+    "explanation": "« Le soussigné » désigne la personne qui appose sa signature au bas de l'acte et qui s'est identifiée en en-tête du document."
+  },
+  {
+    "id": "fr-0289",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 2,
+    "lang": "fr",
+    "prompt": "Quelles expressions sont couramment utilisées dans les écrits administratifs pour renvoyer à un passage du texte ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "ci-après"
+      },
+      {
+        "id": "b",
+        "text": "ci-dessus"
+      },
+      {
+        "id": "c",
+        "text": "genre, comme dit avant"
+      },
+      {
+        "id": "d",
+        "text": "tu vois, plus haut"
+      },
+      {
+        "id": "e",
+        "text": "susdit"
+      },
+      {
+        "id": "f",
+        "text": "n'importe où dans le texte"
+      },
+      {
+        "id": "g",
+        "text": "précité"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "e",
+      "g"
+    ],
+    "explanation": "« Ci-après », « ci-dessus », « susdit » et « précité » sont des termes administratifs classiques servant à renvoyer à un passage antérieur ou postérieur du texte."
+  },
+  {
+    "id": "fr-0290",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelle est la structure attendue d'une lettre administrative formelle de demande ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Introduction directe de la demande, puis salutations rapides"
+      },
+      {
+        "id": "b",
+        "text": "Formule d'appel, exposé des motifs, formulation de la demande, formule de politesse"
+      },
+      {
+        "id": "c",
+        "text": "Une seule phrase contenant tout le message"
+      },
+      {
+        "id": "d",
+        "text": "Récit personnel, puis demande informelle"
+      },
+      {
+        "id": "e",
+        "text": "Liste de questions sans contexte"
+      },
+      {
+        "id": "f",
+        "text": "Formule de politesse, puis exposé des motifs, puis demande"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Une lettre administrative suit un ordre codifié : appel, contexte/motifs, demande précise, puis formule de politesse finale."
+  },
+  {
+    "id": "fr-0291",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Quelle formule convient pour transmettre une pièce jointe dans un courrier administratif ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Vous trouverez ci-joint copie de mon attestation"
+      },
+      {
+        "id": "b",
+        "text": "Je te colle le fichier en pièce jointe"
+      },
+      {
+        "id": "c",
+        "text": "Veuillez trouver, ci-annexé, une copie de mon attestation"
+      },
+      {
+        "id": "d",
+        "text": "Regarde le fichier attaché"
+      },
+      {
+        "id": "e",
+        "text": "T'as qu'à ouvrir la pièce jointe"
+      },
+      {
+        "id": "f",
+        "text": "Je vous prie de trouver joint à la présente une copie de mon attestation"
+      }
+    ],
+    "correct": [
+      "a",
+      "c",
+      "f"
+    ],
+    "explanation": "Ces trois tournures sont des formules administratives correctes et couramment attestées pour signaler une pièce jointe."
+  },
+  {
+    "id": "fr-0292",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Que signifie « en l'occurrence » dans un texte administratif ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "à l'avenir"
+      },
+      {
+        "id": "b",
+        "text": "dans le cas présent, dans cette circonstance précise"
+      },
+      {
+        "id": "c",
+        "text": "en général"
+      },
+      {
+        "id": "d",
+        "text": "par hasard"
+      },
+      {
+        "id": "e",
+        "text": "rarement"
+      },
+      {
+        "id": "f",
+        "text": "au contraire"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "« En l'occurrence » signifie « dans le cas présent », pour préciser une situation particulière évoquée dans le contexte."
+  },
+  {
+    "id": "fr-0293",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Lequel de ces énoncés respecte le style impersonnel exigé dans un rapport administratif ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Moi je pense que le dossier est incomplet"
+      },
+      {
+        "id": "b",
+        "text": "Il ressort de l'instruction du dossier que celui-ci est incomplet"
+      },
+      {
+        "id": "c",
+        "text": "Franchement, ce dossier est bâclé"
+      },
+      {
+        "id": "d",
+        "text": "Je trouve ce dossier nul"
+      },
+      {
+        "id": "e",
+        "text": "On dirait que le dossier n'est pas complet"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "Le rapport administratif proscrit la première personne et les jugements subjectifs, préférant des tournures impersonnelles comme « il ressort de »."
+  },
+  {
+    "id": "fr-0294",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 3,
+    "lang": "fr",
+    "prompt": "Parmi ces formules, lesquelles servent à exprimer un refus ou une réserve de façon administrative ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "J'ai le regret de vous informer que votre demande ne peut être satisfaite"
+      },
+      {
+        "id": "b",
+        "text": "Non, désolé, ça marche pas"
+      },
+      {
+        "id": "c",
+        "text": "Je suis au regret de ne pouvoir donner une suite favorable à votre requête"
+      },
+      {
+        "id": "d",
+        "text": "Bof, on verra plus tard"
+      },
+      {
+        "id": "e",
+        "text": "C'est mort pour ta demande"
+      },
+      {
+        "id": "f",
+        "text": "Il n'est pas possible, en l'état, de réserver une suite favorable à votre demande"
+      }
+    ],
+    "correct": [
+      "a",
+      "c",
+      "f"
+    ],
+    "explanation": "Ces trois formules expriment un refus administratif avec la courtoisie et la retenue attendues, contrairement aux tournures familières proposées."
+  },
+  {
+    "id": "fr-0295",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelle formule d'appel est correcte lorsqu'on écrit à un ministre dont on ne connaît pas le nom ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Cher ministre,"
+      },
+      {
+        "id": "b",
+        "text": "Bonjour Monsieur le Ministre,"
+      },
+      {
+        "id": "c",
+        "text": "Monsieur le Ministre,"
+      },
+      {
+        "id": "d",
+        "text": "Salut Ministre,"
+      },
+      {
+        "id": "e",
+        "text": "À qui de droit,"
+      },
+      {
+        "id": "f",
+        "text": "Monsieur,"
+      }
+    ],
+    "correct": [
+      "c"
+    ],
+    "explanation": "L'usage protocolaire veut qu'on interpelle un ministre par sa fonction, sans nom ni salutation orale : « Monsieur le Ministre, »."
+  },
+  {
+    "id": "fr-0296",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Lequel de ces passages relève d'un style administratif correct et soutenu, sans lourdeur excessive ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Suite à votre courrier, je vous fais savoir que le dossier a été transmis au service compétent"
+      },
+      {
+        "id": "b",
+        "text": "Comme suite à votre correspondance susvisée, j'ai l'honneur de vous faire connaître que le dossier a été transmis au service compétent"
+      },
+      {
+        "id": "c",
+        "text": "Par rapport à ta lettre, je t'informe que le dossier est parti"
+      },
+      {
+        "id": "d",
+        "text": "Concernant votre lettre, sachez que le dossier, il a été envoyé"
+      },
+      {
+        "id": "e",
+        "text": "Suite à votre email, voilà, le dossier est transmis"
+      },
+      {
+        "id": "f",
+        "text": "J'te confirme que le dossier a bien été transmis"
+      }
+    ],
+    "correct": [
+      "a",
+      "b"
+    ],
+    "explanation": "Les options (a) et (b) respectent la syntaxe et le registre soutenu attendus, l'une plus concise, l'autre plus protocolaire ; les autres comportent des tournures orales ou fautives."
+  },
+  {
+    "id": "fr-0297",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Quelle formule finale convient dans une lettre adressée à une autorité supérieure, exprimant le respect hiérarchique ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Je vous prie d'agréer, Monsieur le Directeur, l'expression de ma très haute considération"
+      },
+      {
+        "id": "b",
+        "text": "Recevez mes salutations, chef"
+      },
+      {
+        "id": "c",
+        "text": "À bientôt j'espère"
+      },
+      {
+        "id": "d",
+        "text": "Je vous prie d'agréer, Monsieur le Directeur, l'expression de mon profond respect"
+      },
+      {
+        "id": "e",
+        "text": "Merci et bonne continuation"
+      },
+      {
+        "id": "f",
+        "text": "Bien à vous, cordialement"
+      }
+    ],
+    "correct": [
+      "a",
+      "d"
+    ],
+    "explanation": "Envers une autorité hiérarchiquement supérieure, on emploie des formules renforcées comme « très haute considération » ou « profond respect », plus marquées que la simple « considération distinguée » entre égaux."
+  },
+  {
+    "id": "fr-0298",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 4,
+    "lang": "fr",
+    "prompt": "Dans quel cas la formule « Je vous prie d'agréer, Madame, Monsieur, l'expression de ma considération distinguée » est-elle stylistiquement fautive ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Lorsqu'on ne connaît pas le sexe du destinataire"
+      },
+      {
+        "id": "b",
+        "text": "Lorsque la formule d'appel initiale était « Madame la Directrice, » et non « Madame, Monsieur, »"
+      },
+      {
+        "id": "c",
+        "text": "Lorsque le courrier est bref"
+      },
+      {
+        "id": "d",
+        "text": "Lorsque le destinataire est une administration et non une personne"
+      },
+      {
+        "id": "e",
+        "text": "Lorsque le courrier concerne une réclamation"
+      }
+    ],
+    "correct": [
+      "b"
+    ],
+    "explanation": "La formule finale doit reprendre exactement les termes de la formule d'appel : si l'on a écrit « Madame la Directrice », on doit clore par « Madame la Directrice », non par « Madame, Monsieur »."
+  },
+  {
+    "id": "fr-0299",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Lesquelles de ces reformulations d'un même passage de rapport respectent pleinement le registre administratif attendu, en plus d'être correctes grammaticalement ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Il y a lieu de considérer que les pièces justificatives produites par l'intéressé demeurent insuffisantes"
+      },
+      {
+        "id": "b",
+        "text": "Il apparaît que les pièces justificatives produites par l'intéressé demeurent insuffisantes au regard des exigences réglementaires"
+      },
+      {
+        "id": "c",
+        "text": "Franchement les papiers qu'il a donnés, ça suffit pas"
+      },
+      {
+        "id": "d",
+        "text": "Les pièces que le mec a fournies sont clairement pas assez"
+      },
+      {
+        "id": "e",
+        "text": "Force est de constater l'insuffisance des pièces justificatives produites par l'intéressé"
+      },
+      {
+        "id": "f",
+        "text": "On peut dire que ses papiers, ben, c'est pas top"
+      }
+    ],
+    "correct": [
+      "a",
+      "b",
+      "e"
+    ],
+    "explanation": "Les trois premières formulations sont impersonnelles, précises et de registre soutenu, conformes au style d'un rapport, tandis que les autres versent dans l'oralité et la familiarité."
+  },
+  {
+    "id": "fr-0300",
+    "section": "french",
+    "topic": "rédaction administrative",
+    "difficulty": 5,
+    "lang": "fr",
+    "prompt": "Un douanier doit rédiger une note de service annonçant un changement d'horaires. Quelle formulation est à la fois correcte, complète et adaptée au registre administratif ?",
+    "options": [
+      {
+        "id": "a",
+        "text": "Salut à tous, dès lundi on change les horaires, merci de faire passer"
+      },
+      {
+        "id": "b",
+        "text": "À toutes fins utiles, il est porté à la connaissance des agents que les horaires de service seront modifiés à compter du lundi 7 septembre"
+      },
+      {
+        "id": "c",
+        "text": "Il est porté à la connaissance de l'ensemble des agents qu'à compter du lundi 7 septembre, les horaires de service seront modifiés ainsi qu'il suit"
+      },
+      {
+        "id": "d",
+        "text": "Les agents sont informés que les horaires vont changer, faut faire attention"
+      },
+      {
+        "id": "e",
+        "text": "Note pour info : horaires changés dès lundi prochain"
+      },
+      {
+        "id": "f",
+        "text": "Il est signalé aux agents concernés que, sauf avis contraire, les horaires de service seront révisés à partir du lundi 7 septembre"
+      }
+    ],
+    "correct": [
+      "c",
+      "f"
+    ],
+    "explanation": "Une note de service adopte une formule impersonnelle et précise du type « il est porté à la connaissance de... qu'à compter du... », en indiquant clairement la date d'effet, contrairement aux formulations orales ou incomplètes."
+  }
+]
