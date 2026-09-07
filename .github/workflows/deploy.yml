@@ -33,11 +33,22 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Fallback users config for CI
+      - name: Write users config from secret
+        env:
+          USERS_TS: ${{ secrets.USERS_TS }}
         run: |
-          if [ ! -f src/store/users.ts ]; then
-            cp src/store/users.example.ts src/store/users.ts
+          if [ -z "$USERS_TS" ]; then
+            echo "::error::Missing USERS_TS secret — refusing to build."
+            echo "src/store/users.ts is gitignored, so the real accounts can only come from"
+            echo "the USERS_TS secret. Add it under:"
+            echo "  Settings > Secrets and variables > Actions > New repository secret"
+            echo "Name: USERS_TS"
+            echo "Value: the full contents of your local src/store/users.ts"
+            echo "(see src/store/users.example.ts for the expected shape)"
+            exit 1
           fi
+          printf '%s\n' "$USERS_TS" > src/store/users.ts
+          echo "Wrote src/store/users.ts from the USERS_TS secret."
 
       - name: Build project
         run: npm run build
