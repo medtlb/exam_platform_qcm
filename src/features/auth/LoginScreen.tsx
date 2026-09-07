@@ -2,6 +2,7 @@ import { useState, type FormEvent } from "react";
 import { useNavigate } from "react-router-dom";
 import { Button } from "../../components/Button";
 import { useAuthStore } from "../../store/authStore";
+import { assetUrl } from "../../lib/assets";
 
 export function LoginScreen() {
   const login = useAuthStore((s) => s.login);
@@ -31,7 +32,7 @@ export function LoginScreen() {
         className="w-full max-w-sm border border-ink/15 bg-paper-2 p-8"
       >
         <div className="mb-6 flex flex-col items-center gap-3 text-center">
-          <img src="/emblem.png" alt="" className="h-16 w-16 object-contain" />
+          <img src={assetUrl("emblem.png")} alt="" className="h-16 w-16 object-contain" />
           <h1 className="font-kufi text-[length:var(--text-scale-3)] font-bold text-green-dk">
             منصة تدريب على مباريات التوظيف
           </h1>

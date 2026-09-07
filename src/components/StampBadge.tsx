@@ -1,4 +1,5 @@
 import { formatMark20 } from "../lib/format";
+import { assetUrl } from "../lib/assets";
 
 type StampBadgeProps = {
   mark20: number;
@@ -7,7 +8,7 @@ type StampBadgeProps = {
   emblemSrc?: string;
 };
 
-export function StampBadge({ mark20, date, pass, emblemSrc = "/emblem.png" }: StampBadgeProps) {
+export function StampBadge({ mark20, date, pass, emblemSrc = assetUrl("emblem.png") }: StampBadgeProps) {
   const color = pass ? "var(--color-green)" : "var(--color-stamp)";
 
   return (

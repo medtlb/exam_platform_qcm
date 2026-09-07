@@ -4,6 +4,7 @@ import { useDouanesExamStore, useTresorExamStore } from "../store/examStore";
 import { useDouanesLessonsStore, useTresorLessonsStore } from "../store/lessonsStore";
 import { useDouanesProgressStore, useTresorProgressStore } from "../store/progressStore";
 import type { Section, Track } from "./types";
+import { assetUrl } from "./assets";
 
 export type TrackConfig = {
   id: Track;
@@ -56,7 +57,7 @@ export const trackConfigs: Record<Track, TrackConfig> = {
     ascendingDifficultySections: ["french"],
     difficultyBreakdownSection: "french",
     difficultyBreakdownLabel: "التوزيع حسب الصعوبة (اللغة الفرنسية)",
-    emblemSrc: "/emblem.png",
+    emblemSrc: assetUrl("emblem.png"),
     filenamePrefix: "douanes",
     storagePrefix: "douanes",
     hasLessons: true,
@@ -81,7 +82,7 @@ export const trackConfigs: Record<Track, TrackConfig> = {
     sectionLabels: TRESOR_SECTION_LABELS,
     sectionLabelsShort: TRESOR_SECTION_LABELS,
     ascendingDifficultySections: [],
-    emblemSrc: "/seal-tresor.jpg",
+    emblemSrc: assetUrl("seal-tresor.jpg"),
     filenamePrefix: "tresor",
     storagePrefix: "tresor",
     hasLessons: true,

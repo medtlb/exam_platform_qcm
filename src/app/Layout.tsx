@@ -2,6 +2,7 @@ import { useEffect } from "react";
 import { Link, Outlet, useParams } from "react-router-dom";
 import { useAuthStore } from "../store/authStore";
 import { getTrackConfig } from "../lib/trackConfig";
+import { assetUrl } from "../lib/assets";
 
 export function Layout() {
   const unlocked = useAuthStore((s) => s.unlocked);
@@ -9,7 +10,7 @@ export function Layout() {
   const { track } = useParams<{ track?: string }>();
   const config = getTrackConfig(track);
 
-  const emblemSrc = config?.emblemSrc ?? "/emblem.png";
+  const emblemSrc = config?.emblemSrc ?? assetUrl("emblem.png");
   const title = config?.homeTitle ?? "منصة تدريب على مباريات التوظيف";
 
   useEffect(() => {
