@@ -27,11 +27,17 @@ jobs:
       - name: Set up Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: 'npm'
 
       - name: Install dependencies
         run: npm ci
+
+      - name: Fallback users config for CI
+        run: |
+          if [ ! -f src/store/users.ts ]; then
+            cp src/store/users.example.ts src/store/users.ts
+          fi
 
       - name: Build project
         run: npm run build
