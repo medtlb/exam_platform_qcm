@@ -119,7 +119,8 @@ Rules for every item:
 | French language | 30% | 300 | see 5.4 |
 
 ### 5.2 General culture — 400 items
-Written in Arabic (about 15% may be in French for customs/economics terminology).
+Written entirely in Arabic (`lang: "ar"`) — including customs/economics terminology items.
+Only the French language section (5.4) tests French.
 
 - Mauritania: history, geography, administrative organization, institutions, the Constitution,
   national symbols, economy (mining, fisheries, oil & gas), main public bodies — **90**

@@ -25118,38 +25118,38 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 1,
-    "lang": "fr",
-    "prompt": "Où se trouve le siège de l'Organisation mondiale des douanes (OMD) ?",
+    "lang": "ar",
+    "prompt": "أين يقع مقر المنظمة العالمية للجمارك (OMD)؟",
     "options": [
       {
         "id": "a",
-        "text": "Genève"
+        "text": "جنيف"
       },
       {
         "id": "b",
-        "text": "Paris"
+        "text": "باريس"
       },
       {
         "id": "c",
-        "text": "La Haye"
+        "text": "لاهاي"
       },
       {
         "id": "d",
-        "text": "Bruxelles"
+        "text": "بروكسل"
       },
       {
         "id": "e",
-        "text": "Londres"
+        "text": "لندن"
       },
       {
         "id": "f",
-        "text": "New York"
+        "text": "نيويورك"
       }
     ],
     "correct": [
       "d"
     ],
-    "explanation": "Le siège de l'Organisation mondiale des douanes (OMD), fondée en 1952 sous le nom de Conseil de coopération douanière, se trouve à Bruxelles, en Belgique.",
+    "explanation": "يقع مقر المنظمة العالمية للجمارك (OMD)، التي تأسست عام 1952 باسم مجلس التعاون الجمركي، في بروكسل ببلجيكا.",
     "source": "منظمة الجمارك العالمية (WCO)"
   },
   {
@@ -25157,34 +25157,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 1,
-    "lang": "fr",
-    "prompt": "Selon l'article 34 du code des douanes mauritanien, quelle est en principe la valeur en douane des marchandises importées ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 34 من مدونة الجمارك الموريتانية، ما هي من حيث المبدأ القيمة الجمركية للبضائع المستوردة؟",
     "options": [
       {
         "id": "a",
-        "text": "Le prix de vente sur le marché intérieur mauritanien"
+        "text": "سعر البيع في السوق الداخلي الموريتاني"
       },
       {
         "id": "b",
-        "text": "Le coût de production augmenté d'une marge bénéficiaire forfaitaire"
+        "text": "تكلفة الإنتاج مضافًا إليها هامش ربح جزافي"
       },
       {
         "id": "c",
-        "text": "La valeur transactionnelle de marchandises identiques précédemment importées"
+        "text": "القيمة التعاقدية لبضائع مماثلة استُوردت سابقًا"
       },
       {
         "id": "d",
-        "text": "La valeur déclarée par l'administration douanière du pays exportateur"
+        "text": "القيمة المصرح بها من إدارة الجمارك في البلد المصدِّر"
       },
       {
         "id": "e",
-        "text": "La valeur transactionnelle, c'est-à-dire le prix effectivement payé ou à payer pour les marchandises vendues pour l'exportation vers la Mauritanie"
+        "text": "القيمة التعاقدية، أي الثمن المدفوع فعليًا أو الواجب دفعه مقابل البضائع المباعة للتصدير نحو موريتانيا"
       }
     ],
     "correct": [
       "e"
     ],
-    "explanation": "L'article 34 (paragraphe 2) pose comme principe que la valeur en douane est la valeur transactionnelle, soit le prix effectivement payé ou à payer lors de la vente pour exportation vers la Mauritanie.",
+    "explanation": "تنص المادة 34 (الفقرة 2) على أن القيمة الجمركية هي القيمة التعاقدية، أي الثمن المدفوع فعليًا أو الواجب دفعه عند البيع للتصدير نحو موريتانيا.",
     "source": "المادة 34، الفقرة 2"
   },
   {
@@ -25483,34 +25483,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 2,
-    "lang": "fr",
-    "prompt": "Selon l'article 51 du code des douanes mauritanien, en déposant une déclaration détaillée, de quoi la personne concernée devient-elle responsable ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 51 من مدونة الجمارك الموريتانية، بإيداع تصريح مفصّل، عن ماذا يصبح الشخص المعني مسؤولًا؟",
     "options": [
       {
         "id": "a",
-        "text": "Uniquement du paiement des droits et taxes, sans obligation documentaire"
+        "text": "فقط عن دفع الحقوق والرسوم، دون أي التزام وثائقي"
       },
       {
         "id": "b",
-        "text": "De l'exactitude et de l'exhaustivité des informations fournies dans la déclaration ainsi que de l'authenticité des documents joints"
+        "text": "عن دقة واكتمال المعلومات الواردة في التصريح وكذلك عن صحة الوثائق المرفقة"
       },
       {
         "id": "c",
-        "text": "De la classification tarifaire attribuée par l'administration des douanes"
+        "text": "عن التصنيف التعريفي الذي تحدده إدارة الجمارك"
       },
       {
         "id": "d",
-        "text": "De la fixation du taux de change appliqué par la Banque centrale"
+        "text": "عن تحديد سعر الصرف الذي يطبقه البنك المركزي"
       },
       {
         "id": "e",
-        "text": "De la publication de la déclaration au Journal officiel"
+        "text": "عن نشر التصريح في الجريدة الرسمية"
       }
     ],
     "correct": [
       "b"
     ],
-    "explanation": "L'article 51 rend la personne responsable de l'exactitude et de l'exhaustivité des informations de la déclaration ainsi que de l'authenticité des documents qui l'accompagnent.",
+    "explanation": "تجعل المادة 51 الشخص مسؤولًا عن دقة واكتمال معلومات التصريح وكذلك عن صحة الوثائق المرفقة به.",
     "source": "المادة 51"
   },
   {
@@ -25762,34 +25762,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 3,
-    "lang": "fr",
-    "prompt": "Selon l'article 35 (paragraphe 1) du code des douanes mauritanien, quelle valeur doit être déclarée à l'exportation ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 35 (الفقرة 1) من مدونة الجمارك الموريتانية، ما هي القيمة الواجب التصريح بها عند التصدير؟",
     "options": [
       {
         "id": "a",
-        "text": "La valeur d'achat initiale des marchandises augmentée d'une marge bénéficiaire"
+        "text": "قيمة الشراء الأولية للبضائع مضافًا إليها هامش ربح"
       },
       {
         "id": "b",
-        "text": "La valeur transactionnelle utilisée lors de l'importation initiale des mêmes marchandises"
+        "text": "القيمة التعاقدية المستخدمة عند الاستيراد الأولي لنفس البضائع"
       },
       {
         "id": "c",
-        "text": "La valeur fixée par la chambre de commerce du pays de destination"
+        "text": "القيمة التي تحددها الغرفة التجارية لبلد الوجهة"
       },
       {
         "id": "d",
-        "text": "La valeur assurée par la police d'assurance transport"
+        "text": "القيمة المؤمَّن عليها بموجب بوليصة تأمين النقل"
       },
       {
         "id": "e",
-        "text": "La valeur des marchandises aux points de sortie à la date d'enregistrement de la déclaration, majorée des frais de transport jusqu'à la frontière"
+        "text": "قيمة البضائع عند نقاط الخروج بتاريخ تسجيل التصريح، مضافًا إليها مصاريف النقل حتى الحدود"
       }
     ],
     "correct": [
       "e"
     ],
-    "explanation": "L'article 35 (paragraphe 1) précise que la valeur à déclarer à l'exportation est celle des marchandises aux points de sortie à la date d'enregistrement de la déclaration, augmentée des frais de transport jusqu'à la frontière.",
+    "explanation": "توضح المادة 35 (الفقرة 1) أن القيمة الواجب التصريح بها عند التصدير هي قيمة البضائع عند نقاط الخروج بتاريخ تسجيل التصريح، مضافًا إليها مصاريف النقل حتى الحدود.",
     "source": "المادة 35، الفقرة 1"
   },
   {
@@ -25939,34 +25939,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 4,
-    "lang": "fr",
-    "prompt": "Selon l'article 48 du code des douanes mauritanien, comment l'administration des douanes favorise-t-elle la transparence vis-à-vis des opérateurs économiques ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 48 من مدونة الجمارك الموريتانية، كيف تعزز إدارة الجمارك الشفافية تجاه المتعاملين الاقتصاديين؟",
     "options": [
       {
         "id": "a",
-        "text": "En publiant uniquement les décisions individuelles sur demande écrite payante"
+        "text": "بنشر القرارات الفردية فقط بناءً على طلب كتابي مقابل رسوم"
       },
       {
         "id": "b",
-        "text": "En limitant l'accès à l'information aux seuls opérateurs économiques agréés"
+        "text": "بقصر الوصول إلى المعلومة على المتعاملين الاقتصاديين المعتمدين فقط"
       },
       {
         "id": "c",
-        "text": "En exigeant une accréditation diplomatique préalable pour consulter les textes"
+        "text": "باشتراط اعتماد دبلوماسي مسبق للاطلاع على النصوص"
       },
       {
         "id": "d",
-        "text": "En organisant un dialogue régulier et en mettant gratuitement en ligne, autant que possible, la législation douanière, les décisions générales et administratives"
+        "text": "بتنظيم حوار منتظم ونشر التشريع الجمركي والقرارات العامة والإدارية مجانًا وعبر الإنترنت قدر الإمكان"
       },
       {
         "id": "e",
-        "text": "En publiant les textes uniquement sur support papier au Journal officiel"
+        "text": "بنشر النصوص فقط ورقيًا في الجريدة الرسمية"
       }
     ],
     "correct": [
       "d"
     ],
-    "explanation": "L'article 48 prévoit un dialogue régulier avec les opérateurs économiques et encourage la transparence en rendant disponible, gratuitement et en ligne autant que possible, la législation douanière et les décisions générales et administratives.",
+    "explanation": "تنص المادة 48 على تنظيم حوار منتظم مع المتعاملين الاقتصاديين وتشجيع الشفافية بإتاحة التشريع الجمركي والقرارات العامة والإدارية مجانًا وعبر الإنترنت قدر الإمكان.",
     "source": "المادة 48"
   },
   {
@@ -26250,34 +26250,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 5,
-    "lang": "fr",
-    "prompt": "Selon l'article 34 (paragraphe 11) du code des douanes mauritanien, pour déterminer la valeur en douane d'un ordinateur importé contenant des données ou des logiciels, quel élément est pris en compte ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 34 (الفقرة 11) من مدونة الجمارك الموريتانية، لتحديد القيمة الجمركية لحاسوب مستورد يحتوي على بيانات أو برمجيات، ما هو العنصر الذي يُؤخذ بعين الاعتبار؟",
     "options": [
       {
         "id": "a",
-        "text": "La valeur totale incluant le coût du support informatique et celle des logiciels/données"
+        "text": "القيمة الإجمالية شاملة تكلفة الوسيط المعلوماتي وقيمة البرمجيات/البيانات"
       },
       {
         "id": "b",
-        "text": "La valeur de revente estimée de l'ordinateur sur le marché local"
+        "text": "قيمة إعادة البيع المقدَّرة للحاسوب في السوق المحلي"
       },
       {
         "id": "c",
-        "text": "Uniquement le coût ou la valeur du support informatique lui-même, sans la valeur des données ou logiciels"
+        "text": "فقط تكلفة أو قيمة الوسيط المعلوماتي نفسه، دون قيمة البيانات أو البرمجيات"
       },
       {
         "id": "d",
-        "text": "Uniquement la valeur des logiciels et données, sans le support physique"
+        "text": "فقط قيمة البرمجيات والبيانات، دون الدعامة المادية"
       },
       {
         "id": "e",
-        "text": "Le coût de production de l'ordinateur dans le pays d'origine"
+        "text": "تكلفة إنتاج الحاسوب في بلد المنشأ"
       }
     ],
     "correct": [
       "c"
     ],
-    "explanation": "L'article 34 (paragraphe 11) précise que seule la valeur du support informatique est prise en compte pour la valeur en douane, à l'exclusion de la valeur des données ou logiciels qu'il contient.",
+    "explanation": "توضح المادة 34 (الفقرة 11) أن قيمة الوسيط المعلوماتي وحدها تُؤخذ بعين الاعتبار في القيمة الجمركية، باستثناء قيمة البيانات أو البرمجيات التي يحتويها.",
     "source": "المادة 34، الفقرة 11"
   },
   {
@@ -26578,34 +26578,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 1,
-    "lang": "fr",
-    "prompt": "Selon les standards de l'OMD, comment définit-on le régime de « l'admission temporaire » ?",
+    "lang": "ar",
+    "prompt": "وفقًا لمعايير المنظمة العالمية للجمارك (OMD)، كيف يُعرَّف نظام «القبول المؤقت»؟",
     "options": [
       {
         "id": "a",
-        "text": "Un régime douanier permettant l'entrée de marchandises avec suspension des droits et taxes, à condition de les réexporter en l'état dans un délai déterminé"
+        "text": "نظام جمركي يسمح بدخول البضائع مع تعليق الحقوق والرسوم، شريطة إعادة تصديرها كما هي خلال أجل محدد"
       },
       {
         "id": "b",
-        "text": "Un régime réservé exclusivement aux marchandises destinées à la consommation locale immédiate"
+        "text": "نظام مخصص حصريًا للبضائع الموجهة للاستهلاك المحلي الفوري"
       },
       {
         "id": "c",
-        "text": "Un régime qui exonère définitivement les marchandises de tout droit de douane"
+        "text": "نظام يُعفي البضائع نهائيًا من أي حق جمركي"
       },
       {
         "id": "d",
-        "text": "Un régime applicable uniquement aux véhicules diplomatiques"
+        "text": "نظام يُطبَّق فقط على المركبات الدبلوماسية"
       },
       {
         "id": "e",
-        "text": "Un régime qui impose le paiement intégral des droits dès l'entrée sur le territoire"
+        "text": "نظام يفرض دفع كامل الحقوق فور الدخول إلى الإقليم"
       }
     ],
     "correct": [
       "a"
     ],
-    "explanation": "L'admission temporaire permet l'entrée de marchandises avec suspension des droits et taxes, sous condition de réexportation en l'état dans un délai fixé.",
+    "explanation": "يسمح القبول المؤقت بدخول البضائع مع تعليق الحقوق والرسوم، شريطة إعادة تصديرها كما هي خلال أجل محدد.",
     "source": ""
   },
   {
@@ -26803,34 +26803,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 2,
-    "lang": "fr",
-    "prompt": "D'après le code des douanes mauritanien, comment définit-on la « tare » ?",
+    "lang": "ar",
+    "prompt": "وفقًا لمدونة الجمارك الموريتانية، كيف يُعرَّف «التار» (Tare)؟",
     "options": [
       {
         "id": "a",
-        "text": "Le poids de l'emballage de la marchandise"
+        "text": "وزن غلاف البضاعة"
       },
       {
         "id": "b",
-        "text": "Le poids total de la marchandise et de son emballage réunis"
+        "text": "الوزن الإجمالي للبضاعة وغلافها معًا"
       },
       {
         "id": "c",
-        "text": "Le poids de la marchandise seule, sans son emballage"
+        "text": "وزن البضاعة وحدها، دون غلافها"
       },
       {
         "id": "d",
-        "text": "La valeur déclarée de la marchandise en devise étrangère"
+        "text": "القيمة المصرح بها للبضاعة بعملة أجنبية"
       },
       {
         "id": "e",
-        "text": "Le volume total de la cargaison transportée"
+        "text": "الحجم الإجمالي للشحنة المنقولة"
       }
     ],
     "correct": [
       "a"
     ],
-    "explanation": "La tare est le poids de l'emballage, distinct du poids brut (marchandise + emballage) et du poids net (marchandise seule).",
+    "explanation": "الـ«تار» هو وزن الغلاف، ويختلف عن الوزن الإجمالي (البضاعة + الغلاف) وعن الوزن الصافي (البضاعة وحدها).",
     "source": "مدونة الجمارك الموريتانية، المادة 36"
   },
   {
@@ -26943,36 +26943,36 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 3,
-    "lang": "fr",
-    "prompt": "Selon l'article 33 du code des douanes mauritanien, lesquels des éléments suivants sont considérés comme des produits « entièrement obtenus » dans un pays donné ? (Sélectionnez toutes les réponses correctes)",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 33 من مدونة الجمارك الموريتانية، أي من العناصر التالية تُعتبر منتجات «حاصلة كليًا» في بلد معين؟ (اختر جميع الإجابات الصحيحة)",
     "options": [
       {
         "id": "a",
-        "text": "Les produits minéraux extraits de son sol"
+        "text": "المنتجات المعدنية المستخرجة من تربته"
       },
       {
         "id": "b",
-        "text": "Les produits du règne végétal qui y sont récoltés"
+        "text": "منتجات المملكة النباتية التي تُحصد فيه"
       },
       {
         "id": "c",
-        "text": "Les animaux vivants qui y sont nés et élevés"
+        "text": "الحيوانات الحية التي وُلدت وتربّت فيه"
       },
       {
         "id": "d",
-        "text": "Les marchandises assemblées à partir de composants importés de trois pays différents"
+        "text": "البضائع المُجمَّعة من مكونات مستوردة من ثلاثة بلدان مختلفة"
       },
       {
         "id": "e",
-        "text": "Les produits de la chasse et de la pêche qui y sont pratiquées"
+        "text": "منتجات الصيد البري والبحري التي تُمارَس فيه"
       },
       {
         "id": "f",
-        "text": "Les produits obtenus à bord de navires-usines immatriculés dans ce pays et battant son pavillon"
+        "text": "المنتجات المتحصَّل عليها على متن سفن مصانع مسجَّلة في هذا البلد وترفع علمه"
       },
       {
         "id": "g",
-        "text": "Les marchandises transformées substantiellement dans un pays tiers avant réexportation"
+        "text": "البضائع التي خضعت لتحويل جوهري في بلد ثالث قبل إعادة تصديرها"
       }
     ],
     "correct": [
@@ -26982,7 +26982,7 @@
       "e",
       "f"
     ],
-    "explanation": "L'article 33 énumère les critères de l'obtention entière : produits minéraux extraits du sol, produits végétaux récoltés, animaux nés et élevés, produits de la chasse et pêche, ainsi que les produits fabriqués à bord de navires-usines immatriculés et battant pavillon du pays.",
+    "explanation": "تُعدد المادة 33 معايير الحصول الكلي: المنتجات المعدنية المستخرجة من التربة، المنتجات النباتية المحصودة، الحيوانات المولودة والمربّاة، منتجات الصيد البري والبحري، وكذلك المنتجات المصنَّعة على متن سفن مصانع مسجَّلة وترفع علم البلد.",
     "source": "مدونة الجمارك الموريتانية، المادة 33"
   },
   {
@@ -27066,32 +27066,32 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 3,
-    "lang": "fr",
-    "prompt": "Lorsque plusieurs pays participent à la production d'une marchandise, quelles méthodes sont utilisées au niveau international pour déterminer le critère de la « transformation substantielle » ? (Sélectionnez toutes les réponses correctes)",
+    "lang": "ar",
+    "prompt": "عندما تشارك عدة بلدان في إنتاج بضاعة، ما هي الطرق المستخدمة على المستوى الدولي لتحديد معيار «التحويل الجوهري»؟ (اختر جميع الإجابات الصحيحة)",
     "options": [
       {
         "id": "a",
-        "text": "Le critère du changement de classification tarifaire"
+        "text": "معيار تغيير التصنيف التعريفي"
       },
       {
         "id": "b",
-        "text": "Le critère du pourcentage de valeur ajoutée (ad valorem)"
+        "text": "معيار نسبة القيمة المضافة (ad valorem)"
       },
       {
         "id": "c",
-        "text": "Le critère d'une opération de fabrication ou d'ouvraison spécifique"
+        "text": "معيار عملية تصنيع أو تشغيل محددة"
       },
       {
         "id": "d",
-        "text": "Le critère du poids brut total de la marchandise uniquement"
+        "text": "معيار الوزن الإجمالي الكلي للبضاعة فقط"
       },
       {
         "id": "e",
-        "text": "Le critère de la couleur de la marque commerciale"
+        "text": "معيار لون العلامة التجارية"
       },
       {
         "id": "f",
-        "text": "Le critère de la date d'enregistrement de la société productrice"
+        "text": "معيار تاريخ تسجيل الشركة المنتجة"
       }
     ],
     "correct": [
@@ -27099,7 +27099,7 @@
       "b",
       "c"
     ],
-    "explanation": "La transformation substantielle se détermine par trois méthodes reconnues : le changement de classification tarifaire, le pourcentage de valeur ajoutée, ou une opération de fabrication/ouvraison spécifique.",
+    "explanation": "يُحدَّد التحويل الجوهري بثلاث طرق معترف بها: تغيير التصنيف التعريفي، نسبة القيمة المضافة، أو عملية تصنيع/تشغيل محددة.",
     "source": ""
   },
   {
@@ -27370,34 +27370,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 4,
-    "lang": "fr",
-    "prompt": "Quelle est la différence fondamentale entre l'entrepôt douanier (bonded warehouse) et le système de restitution des droits (duty drawback) ?",
+    "lang": "ar",
+    "prompt": "ما هو الفرق الجوهري بين المستودع الجمركي (bonded warehouse) ونظام استرداد الحقوق (duty drawback)؟",
     "options": [
       {
         "id": "a",
-        "text": "Dans l'entrepôt douanier, les droits sont suspendus et ne sont jamais payés en cas de réexportation, alors que dans le drawback, les droits sont payés à l'importation puis remboursés ultérieurement"
+        "text": "في المستودع الجمركي تُعلَّق الحقوق ولا تُدفع أبدًا في حال إعادة التصدير، بينما في نظام الاسترداد تُدفع الحقوق عند الاستيراد ثم تُسترد لاحقًا"
       },
       {
         "id": "b",
-        "text": "L'entrepôt douanier concerne uniquement les marchandises exportées, le drawback uniquement les marchandises importées"
+        "text": "المستودع الجمركي يخص البضائع المصدَّرة فقط، ونظام الاسترداد يخص البضائع المستوردة فقط"
       },
       {
         "id": "c",
-        "text": "Les deux systèmes sont strictement identiques dans leur mécanisme de paiement"
+        "text": "النظامان متطابقان تمامًا في آلية الدفع"
       },
       {
         "id": "d",
-        "text": "Le drawback suspend le paiement des droits, alors que l'entrepôt douanier exige leur paiement immédiat"
+        "text": "نظام الاسترداد يعلّق دفع الحقوق، بينما يشترط المستودع الجمركي دفعها فورًا"
       },
       {
         "id": "e",
-        "text": "L'entrepôt douanier s'applique seulement aux denrées périssables"
+        "text": "المستودع الجمركي يُطبَّق فقط على السلع القابلة للتلف"
       }
     ],
     "correct": [
       "a"
     ],
-    "explanation": "Dans l'entrepôt douanier les droits sont différés et jamais dus en cas de réexportation, tandis que dans le drawback ils sont payés à l'importation puis remboursés lors de la réexportation ou de la destruction.",
+    "explanation": "في المستودع الجمركي تُؤجَّل الحقوق ولا تُستحق أبدًا في حال إعادة التصدير، بينما في نظام الاسترداد تُدفع عند الاستيراد ثم تُسترد عند إعادة التصدير أو الإتلاف.",
     "source": ""
   },
   {
@@ -27640,34 +27640,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 5,
-    "lang": "fr",
-    "prompt": "À quoi est consacré l'article 11 de l'Accord sur la facilitation des échanges (TFA) de l'OMC, particulièrement important pour les pays sans littoral ?",
+    "lang": "ar",
+    "prompt": "لأي موضوع خُصصت المادة 11 من اتفاقية تيسير التجارة (TFA) لمنظمة التجارة العالمية، وهي مادة تكتسي أهمية خاصة بالنسبة للبلدان غير الساحلية؟",
     "options": [
       {
         "id": "a",
-        "text": "La liberté de transit (Freedom of Transit)"
+        "text": "حرية العبور (Freedom of Transit)"
       },
       {
         "id": "b",
-        "text": "La valeur en douane des marchandises"
+        "text": "القيمة الجمركية للبضائع"
       },
       {
         "id": "c",
-        "text": "Le classement tarifaire dans le Système harmonisé"
+        "text": "التصنيف التعريفي في النظام المنسق"
       },
       {
         "id": "d",
-        "text": "Les règles d'origine préférentielles"
+        "text": "قواعد المنشأ التفضيلية"
       },
       {
         "id": "e",
-        "text": "La lutte contre la contrefaçon"
+        "text": "مكافحة التقليد"
       }
     ],
     "correct": [
       "a"
     ],
-    "explanation": "L'article 11 du TFA est consacré à la liberté de transit, un enjeu particulièrement crucial pour les pays sans littoral.",
+    "explanation": "خُصصت المادة 11 من اتفاقية تيسير التجارة لحرية العبور، وهي مسألة بالغة الأهمية خصوصًا للبلدان غير الساحلية.",
     "source": ""
   },
   {
@@ -28052,34 +28052,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 4,
-    "lang": "fr",
-    "prompt": "Selon l'article 494 du code des douanes, quelle sanction s'applique au délit douanier de deuxième classe (importation ou exportation sans déclaration de marchandises prohibées ou fortement taxées) ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 494 من مدونة الجمارك، ما هي العقوبة المطبقة على الجنحة الجمركية من الدرجة الثانية (استيراد أو تصدير بضائع محظورة أو خاضعة لرسوم مرتفعة دون تصريح)؟",
     "options": [
       {
         "id": "a",
-        "text": "Une amende forfaitaire simple, sans confiscation ni emprisonnement"
+        "text": "غرامة جزافية بسيطة، دون مصادرة أو حبس"
       },
       {
         "id": "b",
-        "text": "Une amende comprise entre 2 000 et 20 000 ouguiyas uniquement"
+        "text": "غرامة تتراوح بين 2000 و20000 أوقية فقط"
       },
       {
         "id": "c",
-        "text": "Confiscation des objets de fraude et des moyens de transport, amende égale au double de leur valeur, et emprisonnement pouvant atteindre un an"
+        "text": "مصادرة أدوات الغش ووسائل النقل، وغرامة تعادل ضعف قيمتها، وحبس قد يصل إلى سنة واحدة"
       },
       {
         "id": "d",
-        "text": "La confiscation des marchandises sans aucune sanction pécuniaire"
+        "text": "مصادرة البضائع دون أي عقوبة مالية"
       },
       {
         "id": "e",
-        "text": "Une amende triple des droits et taxes compromis, sans peine privative de liberté"
+        "text": "غرامة تعادل ثلاثة أضعاف الحقوق والرسوم المتهرَّب منها، دون عقوبة سالبة للحرية"
       }
     ],
     "correct": [
       "c"
     ],
-    "explanation": "L'article 494 prévoit la confiscation des objets de fraude et des moyens de transport, une amende égale au double de leur valeur et des droits et taxes dus, avec une peine d'emprisonnement pouvant aller jusqu'à un an.",
+    "explanation": "تنص المادة 494 على مصادرة أدوات الغش ووسائل النقل، وغرامة تعادل ضعف قيمتها وضعف الحقوق والرسوم المستحقة، مع عقوبة حبس قد تصل إلى سنة واحدة.",
     "source": "المادة 494 من مدونة الجمارك"
   },
   {
@@ -28159,34 +28159,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 3,
-    "lang": "fr",
-    "prompt": "D'après l'article 123 du code des douanes, quels agents des douanes sont habilités à exiger la présentation de documents, papiers et supports électroniques d'information ?",
+    "lang": "ar",
+    "prompt": "وفقًا للمادة 123 من مدونة الجمارك، أي أعوان الجمارك مخوَّلون بطلب تقديم الوثائق والأوراق والدعامات الإلكترونية للمعلومات؟",
     "options": [
       {
         "id": "a",
-        "text": "Tout agent des douanes, quel que soit son grade"
+        "text": "أي عون جمركي، مهما كانت رتبته"
       },
       {
         "id": "b",
-        "text": "Les agents dont le grade n'est pas inférieur à celui de contrôleur, ou occupant le poste de chef de bureau ou de chef de centre de douane"
+        "text": "الأعوان الذين لا تقل رتبتهم عن مراقب، أو الذين يشغلون منصب رئيس مكتب أو رئيس مركز جمركي"
       },
       {
         "id": "c",
-        "text": "Uniquement le directeur général des douanes en personne"
+        "text": "المدير العام للجمارك شخصيًا فقط"
       },
       {
         "id": "d",
-        "text": "Les seuls agents assermentés de la brigade des douanes (BNRI)"
+        "text": "أعوان فرقة الجمارك المحلَّفون حصرًا (BNRI)"
       },
       {
         "id": "e",
-        "text": "Les agents des douanes accompagnés obligatoirement d'un officier de police judiciaire"
+        "text": "أعوان الجمارك برفقة ضابط شرطة قضائية إلزاميًا"
       }
     ],
     "correct": [
       "b"
     ],
-    "explanation": "L'article 123 réserve ce pouvoir aux agents des douanes dont le grade n'est pas inférieur à celui de contrôleur, ou occupant un poste de chef de bureau ou de chef de centre de douane.",
+    "explanation": "تحصر المادة 123 هذه الصلاحية في الأعوان الذين لا تقل رتبتهم عن مراقب، أو الذين يشغلون منصب رئيس مكتب أو رئيس مركز جمركي.",
     "source": "المادة 123 من مدونة الجمارك"
   },
   {
@@ -28420,35 +28420,35 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 2,
-    "lang": "fr",
-    "prompt": "Quelles sont les deux obligations essentielles conditionnant la légalité des procès-verbaux dressés par les agents habilités à constater les infractions douanières (articles 1-102 et 2-102 du code des douanes) ?",
+    "lang": "ar",
+    "prompt": "ما هما الالتزامان الأساسيان اللذان يشترطان مشروعية المحاضر التي يحررها الأعوان المخوَّلون بمعاينة المخالفات الجمركية (المادتان 1-102 و2-102 من مدونة الجمارك)؟",
     "options": [
       {
         "id": "a",
-        "text": "Obtenir l'autorisation écrite préalable du ministre chargé des finances pour chaque contrôle"
+        "text": "الحصول على إذن كتابي مسبق من الوزير المكلف بالمالية لكل عملية مراقبة"
       },
       {
         "id": "b",
-        "text": "Porter la carte professionnelle et la présenter à toute demande"
+        "text": "حمل البطاقة المهنية وتقديمها عند كل طلب"
       },
       {
         "id": "c",
-        "text": "Être accompagnés systématiquement d'un huissier de justice"
+        "text": "أن يكونوا مرفوقين بصفة منتظمة بعدل تنفيذ"
       },
       {
         "id": "d",
-        "text": "Prêter serment devant le tribunal le plus proche de leur lieu d'affectation"
+        "text": "أداء اليمين القانونية أمام أقرب محكمة لمكان تعيينهم"
       },
       {
         "id": "e",
-        "text": "Détenir un diplôme universitaire en droit douanier"
+        "text": "حيازة شهادة جامعية في القانون الجمركي"
       }
     ],
     "correct": [
       "b",
       "d"
     ],
-    "explanation": "Les agents doivent porter la carte professionnelle (article 1-102) et prêter le serment légal devant le tribunal le plus proche de leur lieu d'affectation (article 2-102) pour que leurs constatations soient légalement valables.",
+    "explanation": "يجب على الأعوان حمل البطاقة المهنية (المادة 1-102) وأداء اليمين القانونية أمام أقرب محكمة لمكان تعيينهم (المادة 2-102) حتى تكون معايناتهم صحيحة قانونًا.",
     "source": "المادتان 1-102 و2-102 من مدونة الجمارك"
   },
   {
@@ -28724,34 +28724,34 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 3,
-    "lang": "fr",
-    "prompt": "Dans quel délai la Commission administrative de conciliation et de règlement des litiges douaniers doit-elle notifier ses conclusions au requérant, à compter de la date de réception de la demande de recours ?",
+    "lang": "ar",
+    "prompt": "في أي أجل يجب على اللجنة الإدارية للمصالحة وتسوية المنازعات الجمركية إخطار مستنتجاتها إلى الطاعن، ابتداءً من تاريخ استلام طلب الطعن؟",
     "options": [
       {
         "id": "a",
-        "text": "Quinze (15) jours"
+        "text": "خمسة عشر (15) يومًا"
       },
       {
         "id": "b",
-        "text": "Un (1) mois"
+        "text": "شهر (1) واحد"
       },
       {
         "id": "c",
-        "text": "Deux (2) mois"
+        "text": "شهران (2)"
       },
       {
         "id": "d",
-        "text": "Quarante-huit (48) heures"
+        "text": "ثمان وأربعون (48) ساعة"
       },
       {
         "id": "e",
-        "text": "Six (6) mois"
+        "text": "ستة (6) أشهر"
       }
     ],
     "correct": [
       "c"
     ],
-    "explanation": "La Commission administrative doit notifier ses conclusions au requérant dans un délai de deux (2) mois à compter de la date de réception de la demande de recours.",
+    "explanation": "يجب على اللجنة الإدارية إخطار مستنتجاتها إلى الطاعن خلال أجل شهرين (2) ابتداءً من تاريخ استلام طلب الطعن.",
     "source": "المواد 209 و520 إلى 523 من مدونة الجمارك"
   },
   {
@@ -28943,38 +28943,38 @@
     "section": "general",
     "topic": "الجمارك والتجارة",
     "difficulty": 4,
-    "lang": "fr",
-    "prompt": "Quel est le rôle du « Freight Forwarder » (transitaire) dans la chaîne logistique internationale, et quelle différence existe-t-il entre le Master Bill of Lading (MBL) et le House Bill of Lading (HBL) ?",
+    "lang": "ar",
+    "prompt": "ما هو دور «وكيل الشحن» (Freight Forwarder) في سلسلة اللوجستيك الدولية، وما الفرق بين سند الشحن الرئيسي (Master Bill of Lading - MBL) وسند الشحن الفرعي (House Bill of Lading - HBL)؟",
     "options": [
       {
         "id": "a",
-        "text": "Le transitaire est le seul habilité à fixer la valeur en douane des marchandises transportées"
+        "text": "وكيل الشحن هو الوحيد المخوَّل بتحديد القيمة الجمركية للبضائع المنقولة"
       },
       {
         "id": "b",
-        "text": "Le transitaire organise le transport pour le compte du chargeur ; le transporteur émet le MBL au nom du transitaire, qui émet ensuite des HBL pour chacun de ses propres clients"
+        "text": "ينظم وكيل الشحن النقل لحساب الشاحن؛ يصدر الناقل سند الشحن الرئيسي (MBL) باسم وكيل الشحن، الذي يصدر بدوره سندات شحن فرعية (HBL) لكل من زبائنه"
       },
       {
         "id": "c",
-        "text": "Le MBL est réservé au transport aérien tandis que le HBL est réservé au transport maritime"
+        "text": "سند الشحن الرئيسي مخصص للنقل الجوي بينما سند الشحن الفرعي مخصص للنقل البحري"
       },
       {
         "id": "d",
-        "text": "Le transitaire remplace l'administration douanière pour le dédouanement final des marchandises"
+        "text": "يحل وكيل الشحن محل إدارة الجمارك في التخليص النهائي للبضائع"
       },
       {
         "id": "e",
-        "text": "Le HBL est émis directement par le transporteur maritime au nom du destinataire final uniquement"
+        "text": "يُصدر سند الشحن الفرعي مباشرة من الناقل البحري باسم المرسل إليه النهائي فقط"
       },
       {
         "id": "f",
-        "text": "Il n'existe aucune différence entre le MBL et le HBL, ce sont deux appellations d'un même document"
+        "text": "لا يوجد أي فرق بين سند الشحن الرئيسي وسند الشحن الفرعي، فهما تسميتان لوثيقة واحدة"
       }
     ],
     "correct": [
       "b"
     ],
-    "explanation": "Le transitaire (Freight Forwarder) organise le transport pour le compte du chargeur ; dans les groupages, le transporteur émet une Master Bill of Lading (MBL) au nom du transitaire, qui émet à son tour des House Bill of Lading (HBL) pour chacun de ses clients.",
+    "explanation": "ينظم وكيل الشحن (Freight Forwarder) عملية النقل لحساب الشاحن؛ وفي عمليات التجميع، يصدر الناقل سند شحن رئيسي (MBL) باسم وكيل الشحن، الذي يصدر بدوره سندات شحن فرعية (HBL) لكل واحد من زبائنه.",
     "source": "ملاحظات WCO وإنكوتيرمز"
   },
   {
